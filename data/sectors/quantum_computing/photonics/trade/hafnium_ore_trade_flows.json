@@ -1,0 +1,78 @@
+{
+  "commodity": "Hafnium Ore (Australia \u2014 Iluka Resources)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Australia",
+      "share": 0.35,
+      "ownership_note": "Iluka Resources",
+      "notes": "Major source of zircon (and hence hafnium) ores are heavy mineral sands ore deposits, pegmatites particularly the Crown Polymetallic Deposit at Mount Weld, Western Australia."
+    },
+    {
+      "country": "Russia",
+      "share": 0.25,
+      "ownership_note": "Rosatom",
+      "notes": "Redirected supplies from European to Asian markets"
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "ownership_note": "AEM Metal, Shenzhen Zhonghafnium Technology Group",
+      "notes": "Domestic consumption driven by semiconductor industry growth, export limitations"
+    },
+    {
+      "country": "United States",
+      "share": 0.1,
+      "ownership_note": "Strategic reserves for defence applications",
+      "notes": "Maintains strategic reserves for defence applications"
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "ownership_note": "Suppliers",
+      "notes": "Suppliers of hafnium metal"
+    },
+    {
+      "country": "France",
+      "share": 0.05,
+      "ownership_note": "Framatome",
+      "notes": "Dominates the nuclear-grade hafnium market, supplying control rods to reactors worldwide"
+    }
+  ],
+  "importers": [
+    {
+      "country": "Asia",
+      "share": 0.6,
+      "notes": "Asian manufacturers quickly adapted their procurement strategies to capitalise on available Russian supplies"
+    },
+    {
+      "country": "Europe",
+      "share": 0.2,
+      "notes": "European manufacturers face 6-9 month lead times for reactor-grade hafnium"
+    },
+    {
+      "country": "North America",
+      "share": 0.1,
+      "notes": "Neo Rare Metals produces high-quality hafnium metal for North America"
+    },
+    {
+      "country": "Japan",
+      "share": 0.05,
+      "notes": "Neo Rare Metals produces high-quality hafnium metal for Japan"
+    },
+    {
+      "country": "Korea",
+      "share": 0.05,
+      "notes": "Neo Rare Metals produces high-quality hafnium metal for Korea"
+    }
+  ],
+  "sources_consulted": [
+    "https://discoveryalert.com.au/rosatom-hafnium-supply-asia-2026/",
+    "https://chemicalresearchinsight.com/2025/06/02/top-10-companies-in-the-high-purity-hafniums-industry-2025-market-leaders-powering-next-gen-technologies/",
+    "https://www.kitco.com/news/off-the-wire/2026-03-17/rosatom-redirects-hafnium-supplies-europe-asia",
+    "https://www.aemmetal.com/hafnium.html",
+    "https://www.mordorintelligence.com/industry-reports/hafnium-market",
+    "https://www.industrystock.com/en/companies/Metal-Industry/Refractory-Metals/Hafnium"
+  ]
+}

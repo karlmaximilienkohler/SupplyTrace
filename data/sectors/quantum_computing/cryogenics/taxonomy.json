@@ -1,0 +1,423 @@
+{
+  "technology_domain": "Quantum Computing",
+  "segment": "Cryogenics",
+  "sources": [
+    "https://en.wikipedia.org/wiki/Quantum_computing",
+    "https://quantumzeitgeist.com/cryogenics-quantum-computing-and-technology/",
+    "https://thequantuminsider.com/2023/09/12/cryogenics-a-short-history-the-implications-it-has-on-the-qc-industry/",
+    "https://www.azoquantum.com/Article.aspx?ArticleID=472",
+    "https://www.spinquanta.com/news-detail/what-is-cryogenic-quantum-computing-and-why-it-matters",
+    "https://postquantum.com/quantum-sovereignty/quantum-supply-chain-sovereignty/"
+  ],
+  "supply_chain": [
+    {
+      "id": "CRY-001",
+      "name": "Cooling Core System",
+      "children": [
+        {
+          "id": "CRY-002",
+          "name": "Dilution Unit",
+          "children": [
+            {
+              "name": "Heat Exchangers",
+              "children": [
+                {
+                  "name": "High purity copper",
+                  "leaf_id": "NEW-1773939988843"
+                },
+                {
+                  "name": "High purity silver",
+                  "leaf_id": "NEW-1773939988844"
+                },
+                {
+                  "name": "Silver Powder",
+                  "leaf_id": "NEW-1773939988846"
+                }
+              ]
+            },
+            {
+              "name": "Mixing Chamber",
+              "children": [
+                {
+                  "name": "Oxygen-free high conductivity copper",
+                  "leaf_id": "NEW-1773939988845"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "CRY-010",
+          "name": "Coldhead",
+          "children": [
+            {
+              "id": "CRY-011",
+              "name": "Regenerator",
+              "children": [
+                {
+                  "id": "CRY-012",
+                  "name": "Erbium nickel alloy",
+                  "leaf_id": "CRY-012"
+                },
+                {
+                  "id": "CRY-013",
+                  "name": "Holmium copper alloy",
+                  "leaf_id": "CRY-013"
+                },
+                {
+                  "name": "Gadolinium gallium garnet",
+                  "leaf_id": "NEW-1773939988847"
+                }
+              ]
+            },
+            {
+              "name": "Expansion Stage",
+              "children": [
+                {
+                  "name": "Aluminum 6061",
+                  "leaf_id": "NEW-1773939988848"
+                },
+                {
+                  "name": "High purity copper",
+                  "leaf_id": "NEW-1773939988849"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CRY-014",
+      "name": "Helium Circuit",
+      "children": [
+        {
+          "id": "CRY-015",
+          "name": "Helium-3",
+          "leaf_id": "CRY-015"
+        },
+        {
+          "id": "CRY-016",
+          "name": "Helium-4",
+          "leaf_id": "CRY-016"
+        },
+        {
+          "name": "Gas Handling System",
+          "children": [
+            {
+              "name": "Gas cylinders",
+              "children": [
+                {
+                  "name": "High strength steel",
+                  "leaf_id": "NEW-1773939988850"
+                }
+              ]
+            },
+            {
+              "name": "Purification",
+              "children": [
+                {
+                  "name": "Activated charcoal",
+                  "leaf_id": "NEW-1773939988851"
+                },
+                {
+                  "name": "Zeolite molecular sieve",
+                  "leaf_id": "NEW-1773939988852"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CRY-017",
+      "name": "Vacuum & Insulation System",
+      "children": [
+        {
+          "id": "CRY-018",
+          "name": "Vacuum Chamber",
+          "children": [
+            {
+              "id": "CRY-019",
+              "name": "304 stainless steel",
+              "leaf_id": "CRY-019"
+            },
+            {
+              "name": "316 stainless steel",
+              "leaf_id": "NEW-1773939988853"
+            }
+          ]
+        },
+        {
+          "id": "CRY-020",
+          "name": "Radiation Shields",
+          "children": [
+            {
+              "id": "CRY-021",
+              "name": "Aluminum",
+              "leaf_id": "CRY-021"
+            },
+            {
+              "name": "Copper",
+              "leaf_id": "NEW-1773939988854"
+            }
+          ]
+        },
+        {
+          "name": "Multilayer Insulation",
+          "children": [
+            {
+              "name": "Mylar film",
+              "leaf_id": "NEW-1773939988855"
+            },
+            {
+              "name": "Aluminum coated film",
+              "leaf_id": "NEW-1773939988856"
+            }
+          ]
+        },
+        {
+          "name": "Vacuum Pumps",
+          "children": [
+            {
+              "name": "Turbomolecular pump components",
+              "children": [
+                {
+                  "name": "Titanium",
+                  "leaf_id": "NEW-1773939988857"
+                },
+                {
+                  "name": "Aluminum",
+                  "leaf_id": "NEW-1773939988858"
+                }
+              ]
+            },
+            {
+              "name": "Backing pump components",
+              "children": [
+                {
+                  "name": "Steel",
+                  "leaf_id": "NEW-1773939988859"
+                },
+                {
+                  "name": "Vacuum oil",
+                  "leaf_id": "NEW-1773939988860"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CRY-022",
+      "name": "Thermal Interface",
+      "children": [
+        {
+          "id": "CRY-023",
+          "name": "Heat links",
+          "children": [
+            {
+              "name": "Copper Braids",
+              "leaf_id": "NEW-1773939988861"
+            },
+            {
+              "name": "High purity copper blocks",
+              "leaf_id": "NEW-1773939988862"
+            }
+          ]
+        },
+        {
+          "id": "CRY-026",
+          "name": "Thermal Anchors",
+          "children": [
+            {
+              "name": "Copper",
+              "leaf_id": "NEW-1773939988863"
+            },
+            {
+              "name": "Silver",
+              "leaf_id": "NEW-1773939988864"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CRY-030",
+      "name": "Compression & Control System",
+      "children": [
+        {
+          "name": "Electric motors",
+          "children": [
+            {
+              "name": "Copper windings",
+              "leaf_id": "NEW-1773939988865"
+            },
+            {
+              "name": "Neodymium iron boron magnets",
+              "leaf_id": "NEW-1773939988866"
+            }
+          ]
+        },
+        {
+          "name": "Mechanical parts",
+          "children": [
+            {
+              "name": "Steel bearings",
+              "leaf_id": "NEW-1773939988867"
+            },
+            {
+              "name": "Brass valves",
+              "leaf_id": "NEW-1773939988868"
+            },
+            {
+              "name": "Aluminum pistons",
+              "leaf_id": "NEW-1773939988880"
+            }
+          ]
+        },
+        {
+          "name": "Temperature sensors",
+          "children": [
+            {
+              "name": "Ruthenium oxide sensors",
+              "leaf_id": "NEW-1773939988881"
+            },
+            {
+              "name": "Cernox sensors",
+              "leaf_id": "NEW-1773939988882"
+            }
+          ]
+        },
+        {
+          "name": "Pressure sensors",
+          "children": [
+            {
+              "name": "Silicon pressures sensors",
+              "leaf_id": "NEW-1773939988883"
+            },
+            {
+              "name": "stainless steel",
+              "leaf_id": "NEW-1773939988884"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CRY-033",
+      "name": "Structural & Sealing System",
+      "children": [
+        {
+          "id": "CRY-034",
+          "name": "O-rings",
+          "children": [
+            {
+              "id": "CRY-035",
+              "name": "Nitrile rubber",
+              "leaf_id": "CRY-035"
+            },
+            {
+              "id": "CRY-036",
+              "name": "Fluoroelastomer",
+              "leaf_id": "CRY-036"
+            }
+          ]
+        },
+        {
+          "id": "CRY-037",
+          "name": "Metal Seals",
+          "children": [
+            {
+              "id": "CRY-038",
+              "name": "Copper gaskets",
+              "leaf_id": "CRY-038"
+            }
+          ]
+        },
+        {
+          "name": "Cryogenics Seals",
+          "children": [
+            {
+              "name": "Indium wire",
+              "leaf_id": "NEW-1773939988869"
+            }
+          ]
+        },
+        {
+          "name": "Cryostat frame",
+          "children": [
+            {
+              "name": "Stainless steel",
+              "leaf_id": "NEW-1773939988876"
+            },
+            {
+              "name": "Aluminum",
+              "leaf_id": "NEW-1773939988877"
+            }
+          ]
+        },
+        {
+          "name": "Vibration isolation",
+          "children": [
+            {
+              "name": "Nitrile rubber",
+              "leaf_id": "NEW-1773939988878"
+            },
+            {
+              "name": "Fluoroelastomer",
+              "leaf_id": "NEW-1773939988879"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "CRY-039",
+      "name": "Electrical & Signal Infrastructure",
+      "children": [
+        {
+          "name": "Wiring",
+          "children": [
+            {
+              "name": "Copper wire",
+              "leaf_id": "NEW-1773939988870"
+            },
+            {
+              "name": "Niobium titanium superconducting wire",
+              "leaf_id": "NEW-1773939988871"
+            },
+            {
+              "name": "Niobium wire",
+              "leaf_id": "NEW-1773939988872"
+            }
+          ]
+        },
+        {
+          "name": "Connectors",
+          "children": [
+            {
+              "name": "Copper connectors",
+              "leaf_id": "NEW-1773939988873"
+            },
+            {
+              "name": "Gold plated contacts",
+              "leaf_id": "NEW-1773939988874"
+            }
+          ]
+        },
+        {
+          "name": "Filters and Attenuators",
+          "children": [
+            {
+              "name": "Manganin resistive wire",
+              "leaf_id": "NEW-1773939988875"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

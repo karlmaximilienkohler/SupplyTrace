@@ -1,0 +1,54 @@
+{
+  "commodity": "Niobium (Brazil \u2014 CBMM)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Brazil",
+      "share": 0.75,
+      "ownership_note": "Beneficial controller",
+      "notes": "CBMM controls about 75% of the global niobium market"
+    },
+    {
+      "country": "China",
+      "share": 0.05,
+      "ownership_note": "Regional office",
+      "notes": "CBMM has regional offices in China"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.2,
+      "notes": "Uncertain, but likely includes countries with smaller niobium production and trade"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.3,
+      "notes": "Large consumer of niobium products, including for energy storage and data centers"
+    },
+    {
+      "country": "United States",
+      "share": 0.2,
+      "notes": "Significant consumer of niobium products, including for energy storage and aerospace"
+    },
+    {
+      "country": "Europe",
+      "share": 0.2,
+      "notes": "Significant consumer of niobium products, including for energy storage, data centers, and aerospace"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.3,
+      "notes": "Uncertain, but likely includes countries with smaller niobium consumption"
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Companhia_Brasileira_de_Metalurgia_e_Minera\u00e7\u00e3o",
+    "https://cbmm.com/en",
+    "https://www.sfa-oxford.com/market-news-and-insights/niobium-swing-producer-cbmm-driving-the-future-of-advanced-materials/",
+    "https://www.metal.citic/en/business/details_18_41.html",
+    "https://niobium.tech/en/this-is-niobium/niobium-by-cbmm",
+    "https://valorinternational.globo.com/business/news/2025/04/24/cbmm-targets-new-markets-for-niobium-beyond-steel-industry.ghtml"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "commodity": "Helium-4",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Qatar",
+      "share": 0.35,
+      "ownership_note": "Natural gas processing by Qatari companies",
+      "notes": "Produces over a third of the world's helium supply."
+    },
+    {
+      "country": "United States",
+      "share": 0.3,
+      "ownership_note": "Various private companies and state-owned resources",
+      "notes": "Significant domestic production and consumption."
+    },
+    {
+      "country": "Australia",
+      "share": 0.15,
+      "ownership_note": "Mining operations by Australian companies",
+      "notes": "Emerging supplier with growing production capabilities."
+    },
+    {
+      "country": "Algeria",
+      "share": 0.1,
+      "ownership_note": "State-owned enterprises",
+      "notes": "Key player in the African helium market."
+    },
+    {
+      "country": "Russia",
+      "share": 0.05,
+      "ownership_note": "Controlled by state-owned companies",
+      "notes": "Exports primarily to non-sanctioned countries."
+    },
+    {
+      "country": "China",
+      "share": 0.05,
+      "ownership_note": "Emerging production from domestic fields",
+      "notes": "Developing helium resources, but still reliant on imports."
+    }
+  ],
+  "importers": [
+    {
+      "country": "South Korea",
+      "share": 0.3,
+      "notes": "Heavily reliant on imports, primarily from Qatar."
+    },
+    {
+      "country": "Japan",
+      "share": 0.25,
+      "notes": "Diverse supply sources, including the US and Qatar."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.2,
+      "notes": "Major semiconductor manufacturers are key consumers."
+    },
+    {
+      "country": "United States",
+      "share": 0.15,
+      "notes": "Domestic consumption exceeds production."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "notes": "Increasing demand, reliant on imports."
+    },
+    {
+      "country": "Singapore",
+      "share": 0.05,
+      "notes": "Growing semiconductor industry driving imports."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.globalhelium.com/global-helium-acquires-second-production-ready-us-helium-property/",
+    "https://www.globalhelium.com/global-helium-corp-announces-private-placement-of-up-to-4000000-appointment-of-reconstituted-board-and-operations-update/",
+    "https://medicinehatnews.com/news/local-news/2023/10/13/regional-helium-producers-form-group-to-promote-industry/",
+    "https://www.reportsintellect.com/report/2911814-global-helium-liquefier-market-2023-by-manufacturers-regions-type-and-application-forecast-to-2029.html",
+    "https://www.statista.com/statistics/925214/helium-production-worldwide-by-country/",
+    "https://www.bluequarkresearch.com/reports/global-helium-market"
+  ]
+}

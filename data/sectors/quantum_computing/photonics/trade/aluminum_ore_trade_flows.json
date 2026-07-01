@@ -1,0 +1,60 @@
+{
+  "commodity": "Aluminum Ore (Australia \u2014 Rio Tinto)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Australia",
+      "share": 0.65,
+      "ownership_note": "Rio Tinto",
+      "notes": "Majority of global production comes from Australian mines"
+    },
+    {
+      "country": "Brazil",
+      "share": 0.2,
+      "ownership_note": "Rio Tinto",
+      "notes": "Rio Tinto operates bauxite mines in Brazil"
+    },
+    {
+      "country": "Guinea",
+      "share": 0.1,
+      "ownership_note": "Rio Tinto",
+      "notes": "Rio Tinto operates bauxite mines in Guinea"
+    },
+    {
+      "country": "Other",
+      "share": 0.05,
+      "notes": "Includes other countries with smaller production volumes"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "Major importer of aluminum ore"
+    },
+    {
+      "country": "Japan",
+      "share": 0.25,
+      "notes": "Significant importer of aluminum ore"
+    },
+    {
+      "country": "India",
+      "share": 0.15,
+      "notes": "Growing demand for aluminum ore"
+    },
+    {
+      "country": "Other",
+      "share": 0.2,
+      "notes": "Includes other countries with smaller import volumes"
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Rio_Tinto_(corporation)",
+    "https://www.riotinto.com/en/products/aluminium",
+    "https://chemicalresearchinsight.com/2025/12/17/top-10-companies-in-the-global-aluminium-ore-market-2025-mining-giants-powering-the-green-economy/",
+    "https://minedocs.com/28/RioTinto-AR-2024.pdf",
+    "https://www.panabee.com/news/rio-tinto-unifies-iron-ore-aluminium-lithium-businesses-to-drive-value",
+    "https://www.linkedin.com/pulse/top-aluminum-ore-companies-how-compare-them-2025-bunuc"
+  ]
+}

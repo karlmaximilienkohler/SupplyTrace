@@ -1,0 +1,73 @@
+{
+  "commodity": "Copper windings",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.45,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a dominant player in the global copper winding market, with many large-scale manufacturers and suppliers."
+    },
+    {
+      "country": "India",
+      "share": 0.25,
+      "ownership_note": "Private companies",
+      "notes": "India has a growing copper winding industry, with several major manufacturers and suppliers."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "ownership_note": "Private companies",
+      "notes": "South Korea is a significant player in the global copper winding market, with several major manufacturers and suppliers."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Private companies with Brazilian mines",
+      "notes": "Brazil is a significant copper producer, with several private companies operating mines and manufacturing copper windings."
+    },
+    {
+      "country": "Japan",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Japan has a well-established copper winding industry, with several major manufacturers and suppliers."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "ownership_note": "Various private and state-owned companies",
+      "notes": "Other countries, including the United States, Germany, and the United Kingdom, also have a presence in the global copper winding market."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.3,
+      "notes": "The US is a significant importer of copper windings, driven by demand from the power industry."
+    },
+    {
+      "country": "Germany",
+      "share": 0.2,
+      "notes": "Germany is a significant importer of copper windings, driven by demand from the automotive and industrial sectors."
+    },
+    {
+      "country": "United Kingdom",
+      "share": 0.15,
+      "notes": "The UK is a significant importer of copper windings, driven by demand from the power industry and industrial sectors."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.35,
+      "notes": "Other countries, including China, India, and South Korea, also import copper windings, driven by domestic demand and export-oriented manufacturing."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.sourcifychina.com/top-copper-winding-wire-manufacturing-compare/",
+    "https://www.transformerstrip.com/copper-windings/",
+    "https://www.globalinforesearch.com/reports/2197171/copper-winding-wire",
+    "https://www.coppercouncil.org/wp-content/uploads/2021/10/3-MOSS-IWCC_Presentation_21.10.22.pdf",
+    "https://www.qyresearch.com/reports/3555447/copper-winding-wire",
+    "https://www.dahrengroup.com/"
+  ]
+}

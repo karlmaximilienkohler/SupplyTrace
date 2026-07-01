@@ -1,0 +1,13 @@
+{
+  "sector": "Quantum Computing",
+  "segment": "Cryogenics",
+  "total_components": 51,
+  "extracted_at": "2026-03-20T10:55:30.565425",
+  "succeeded": [],
+  "skipped_existing": [],
+  "failed": [],
+  "coverage_pct": 0.0,
+  "n_succeeded": 0,
+  "n_failed": 0,
+  "n_skipped": 0
+}

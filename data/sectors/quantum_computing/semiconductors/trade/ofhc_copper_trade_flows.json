@@ -1,0 +1,94 @@
+{
+  "commodity": "OFHC Copper",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Chile",
+      "share": 30,
+      "ownership_note": "Majority of copper mines owned by foreign companies.",
+      "notes": "Largest producer of copper globally, significant exporter of OFHC copper."
+    },
+    {
+      "country": "Peru",
+      "share": 15,
+      "ownership_note": "Foreign companies operate major mines.",
+      "notes": "Second largest copper producer, contributing to OFHC supply."
+    },
+    {
+      "country": "China",
+      "share": 20,
+      "ownership_note": "Significant domestic production and processing.",
+      "notes": "Major player in refining and exporting OFHC copper."
+    },
+    {
+      "country": "United States",
+      "share": 10,
+      "ownership_note": "Domestic mines and foreign investments.",
+      "notes": "Home to significant copper resources and emerging projects."
+    },
+    {
+      "country": "Russia",
+      "share": 5,
+      "ownership_note": "State-owned and private companies involved.",
+      "notes": "Notable exporter, though geopolitical factors may affect trade."
+    },
+    {
+      "country": "Australia",
+      "share": 5,
+      "ownership_note": "Foreign investments in mining operations.",
+      "notes": "Emerging supplier of OFHC copper."
+    },
+    {
+      "country": "Zambia",
+      "share": 5,
+      "ownership_note": "Foreign companies operate major mines.",
+      "notes": "Significant copper exporter, though less focused on OFHC."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 25,
+      "notes": "Major consumer of OFHC copper for electronics and quantum computing."
+    },
+    {
+      "country": "Germany",
+      "share": 20,
+      "notes": "Strong demand for high-purity copper in technology sectors."
+    },
+    {
+      "country": "China",
+      "share": 15,
+      "notes": "Large domestic market for electronics and manufacturing."
+    },
+    {
+      "country": "Japan",
+      "share": 10,
+      "notes": "High demand for OFHC copper in electronics and precision instruments."
+    },
+    {
+      "country": "South Korea",
+      "share": 10,
+      "notes": "Growing market for high-tech applications requiring OFHC copper."
+    },
+    {
+      "country": "India",
+      "share": 5,
+      "notes": "Emerging market with increasing demand for electronics."
+    },
+    {
+      "country": "Taiwan",
+      "share": 5,
+      "notes": "Significant consumer in semiconductor and electronics industries."
+    }
+  ],
+  "sources_consulted": [
+    "http://www.kalpatarumetalloys.com/copper-copperalloy-coppernickel/index.html",
+    "https://www.theinsightpartners.com/pr/copper-wire-rods-market",
+    "https://solarthermalworld.org/news/india-bhagyanagar-captures-solar-energy-and-market/",
+    "https://conex-casting.com/bronze-transformer-spade-connectors-transformer-spade-terminals/",
+    "https://www.luvata.com/products/metallurgical-components/bus-bar-systems",
+    "https://www.einnews.com/pr_news/605126542/anti-aging-cosmetics-market-estimated-at-usd-122-bn-by-2030-likely-to-surge-at-8-3-cagr-between-2022-and-2030"
+  ]
+}

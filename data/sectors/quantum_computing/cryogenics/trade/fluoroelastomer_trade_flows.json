@@ -1,0 +1,83 @@
+{
+  "commodity": "Fluoroelastomer",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "United States",
+      "share": 0.35,
+      "ownership_note": "U.S. manufacturers entering global export markets",
+      "notes": "Establishing the United States as an essential player in the global fluoroelastomer market"
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "ownership_note": "Chinese manufacturers, e.g., Dongguan New Orient Technology",
+      "notes": "Key manufacturers in the global fluoroelastomer market"
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "ownership_note": "KRAIBURG Holding GmbH",
+      "notes": "Global key manufacturers of Fluoroelastomer Compounds"
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "ownership_note": "Shin-Etsu, 3M, AGC",
+      "notes": "Global key manufacturers of Fluoroelastomer Compounds"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "Chunghe Compounding",
+      "notes": "Global key manufacturers of Fluoroelastomer Compounds"
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Brazilian mine, Chinese owner",
+      "notes": "Note: Ownership structure may be complex"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "Largest market for fluoroelastomers, driven by automotive and aerospace industries"
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "notes": "Significant market for fluoroelastomers, driven by automotive and aerospace industries"
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "notes": "Growing market for fluoroelastomers, driven by automotive and aerospace industries"
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "notes": "Significant market for fluoroelastomers, driven by automotive and aerospace industries"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "notes": "Growing market for fluoroelastomers, driven by automotive and aerospace industries"
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "notes": "Emerging market for fluoroelastomers, driven by automotive and aerospace industries"
+    }
+  ],
+  "sources_consulted": [
+    "https://www.linkedin.com/pulse/fluoroelastomers-market-insights-2024-2032-key-factors-rlvmf",
+    "https://www.imarcgroup.com/fluoroelastomer-market",
+    "https://www.gminsights.com/industry-analysis/fluoroelastomers-market",
+    "https://www.24chemicalresearch.com/reports/208336/global-fluoroelastomer-compounds-forecast-market-2023-2029-792",
+    "https://www.emergenresearch.com/industry-report/liquid-fluoroelastomer-market",
+    "https://medium.com/@swatip98745/fluoroelastomers-fkm-market-global-outlook-and-forecast-2023-2032-11030ef1eedd"
+  ]
+}

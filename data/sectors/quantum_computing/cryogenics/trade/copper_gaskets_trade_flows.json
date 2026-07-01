@@ -1,0 +1,100 @@
+{
+  "commodity": "Copper gaskets",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.42,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a major global manufacturer of automotive components, including copper gaskets."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "ownership_note": "Private companies and small businesses",
+      "notes": "The US has a significant number of precision CNC machining companies that produce copper gaskets."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "ownership_note": "Private companies and joint ventures",
+      "notes": "Japan is known for its high-quality automotive components, including copper gaskets."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.08,
+      "ownership_note": "Private companies and conglomerates",
+      "notes": "South Korea has a growing automotive industry that produces copper gaskets."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "ownership_note": "Private companies and family-owned businesses",
+      "notes": "Germany has a strong automotive industry that produces copper gaskets, particularly for high-performance applications."
+    },
+    {
+      "country": "India",
+      "share": 0.03,
+      "ownership_note": "Private companies and small businesses",
+      "notes": "India has a growing automotive industry that produces copper gaskets, particularly for domestic markets."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.02,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "Brazil has a significant copper mining industry, but most of its copper gaskets are imported from other countries."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "ownership_note": "Various private companies and small businesses",
+      "notes": "Other countries, including the UK, France, and Italy, also produce copper gaskets, but their market share is relatively small."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.35,
+      "notes": "The US is a significant importer of copper gaskets, particularly for the automotive industry."
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "notes": "China is a major importer of copper gaskets, particularly for the electronics and industrial sectors."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan imports copper gaskets from other countries, particularly for high-performance applications."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea imports copper gaskets from other countries, particularly for the automotive industry."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "notes": "Germany imports copper gaskets from other countries, particularly for high-performance applications."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "notes": "India imports copper gaskets from other countries, particularly for domestic markets."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.2,
+      "notes": "Other countries, including the UK, France, and Italy, also import copper gaskets from other countries."
+    }
+  ],
+  "sources_consulted": [
+    "http://www.kaxitesealing.com/Copper-Gaskets/",
+    "https://www.cnzhj.com/copper-gasket-sheet/",
+    "https://www.rgs-asia.com/Copper-Gaskets/",
+    "https://www.tradeindia.com/manufacturers/copper-gaskets.html",
+    "https://www.thomasnet.com/suppliers/usa/gaskets-32900409",
+    "https://www.maharashtradirectory.com/product/gaskets.html"
+  ]
+}

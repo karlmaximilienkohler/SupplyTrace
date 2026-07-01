@@ -1,0 +1,66 @@
+{
+  "commodity": "Tin Ore (China \u2014 Yunnan Tin)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.85,
+      "ownership_note": "Yunnan TinGroup (Holding) Company Limited (YTC) is the largest tin producer and exporter in China and the world.",
+      "notes": "YTC is headquartered in Kunming, Yunnan, and operates integrated mining, smelting, and refining facilities."
+    },
+    {
+      "country": "Malaysia",
+      "share": 0.05,
+      "ownership_note": "Malaysian tin mines are operated by various companies, including Cahya Mata Sarawak Berhad and Malaysian Mining Corporation Berhad.",
+      "notes": "Malaysia is a significant producer of tin ore, with most of its production coming from the states of Pahang and Perak."
+    },
+    {
+      "country": "Indonesia",
+      "share": 0.05,
+      "ownership_note": "Indonesian tin mines are operated by various companies, including PT Timah (Persero) Tbk and PT Aneka Tambang Tbk.",
+      "notes": "Indonesia is a significant producer of tin ore, with most of its production coming from the islands of Sumatra and Java."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.03,
+      "ownership_note": "Brazilian tin mines are operated by various companies, including Vale S.A. and Companhia Brasileira de Metais (CBMM).",
+      "notes": "Brazil is a smaller producer of tin ore, with most of its production coming from the states of Par\u00e1 and Amap\u00e1."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.02,
+      "notes": "Other countries, including Bolivia, Peru, and Myanmar, also produce tin ore, but their production levels are relatively small compared to the top four producers."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China is a significant importer of tin ore, with most of its imports coming from countries such as Indonesia, Malaysia, and Brazil."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Japan is a significant importer of tin ore, with most of its imports coming from countries such as China, Indonesia, and Malaysia."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "notes": "South Korea is a significant importer of tin ore, with most of its imports coming from countries such as China, Indonesia, and Malaysia."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.25,
+      "notes": "Other countries, including the United States, Germany, and the United Kingdom, also import tin ore, but their import levels are relatively small compared to the top three importers."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Yunnan_Tin",
+    "https://www.bing.com/aclick?ld=e81zW60DB-w_gK1a1H9IbPhDVUCUxsItbnq0j1dYmHwcIw_p8_A4QxhdD2DjuKeMAXLlB24_vbizhvHnF65-HR2I0PCM4CKVZRvrtQKKhk1scxHQX-ydITpXKNjD97ibOJfyLxFVvNnWWMbjJhtrBlwhmNdGt2Bv1zhlWMmlMH10maiSZJHug7P8Rxr1VMNIbxuc3lDw&u=aHR0cHMlM2ElMmYlMmZlbi5tYWRlLWluLWNoaW5hLmNvbSUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jb250ZW50JTNkRjEwNlFDSjklMjZ1dG1fY2FtcGFpZ24lM2Q0NTg0MjAxOTMlMjZhZGdyb3VwJTNkMTE4NzQ3NDQyNjQzMjI3MCUyNnV0bV90ZXJtJTNkY2hpbmElMjUyMG1hbnVmYWN0dXJlcyUyNm10cCUzZGJiJTI2bmV0JTNkbyUyNmRldiUzZGMlMjZsb2MlM2QxNjQ1ODAtOTAxJTI2bXNjbGtpZCUzZDI3OTU0MTZjNTJlOTFmMjNhZmQ1MjhkMDI4ZWU5OGY4&rlid=2795416c52e91f23afd528d028ee98f8",
+    "https://www.bing.com/aclick?ld=e8ktRHROBfB_EVy0JxkHLJmDVUCUyEna4apbN6mNr9iAhkWLRAhh4wHU5hW3YRR13gI6D9qypArpP2WuoGlVrbQzdrvIr7QmI8xIBZ7Fw_R9v_7vYkwnoe0pH2lNl2X_y0OySwc-Yw-CbLEb7Rt1hEFmF9RbZHQLgYfFTlH2aT7lypPLrV45Y5io-xbgMAhrV8IO1lTQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWxpYmFiYS5jb20lMmZwcmVtaXVtJTJmYXNpYW4rc3VwcGxpZXJzLmh0bWwlM2ZzcmMlM2RzZW1fYmluZyUyNmZpZWxkJTNkVUclMjZmcm9tJTNkc2VtX2JpbmclMjZjbXBnbiUzZDQ4NzAxMDQxMiUyNmFkZ3JwJTNkMTIzMDM1NDc0OTMxMDU0OSUyNnRndCUzZGt3ZC03Njg5NzU5NTE4OTM2MSUzYWxvYy0xNzAlMjZLd2RJRCUzZDc2ODk3NTk1MTg5MzYxJTI2bXRjaHR5cCUzZHAlMjZiZG10Y2h0eXArJTNkYmIlMjZudHdyayUzZG8lMjZkZXZpY2UlM2RjJTI2Y3JlYXRpdmUlM2Q3Njg5NzMxMjI1NTkyNSUyNnAxJTNkZGVmYXVsdCUyNnAyJTNkZGVmYXVsdCUyNnAzJTNkZGVmYXVsdCUyNlF1ZXJ5JTNkQXNpYW4lMjUyMHN1cHBsaWVycyUyNTIwb2YlMjUyMFRpbiUyNTIwT3JlJTI1MjBDaGluYSUyNTIwJWUyJTgwJTk0JTI1MjBZdW5uYW4lMjUyMFRpbiUyNTIwJTI1M0ElMjZtc2Nsa2lkJTNkZGRkZGYzY2U2NWE4MWUzODVlZDE5YTcyMWZhZmE4ZjE&rlid=ddddf3ce65a81e385ed19a721fafa8f1",
+    "https://en.ytc.cn/",
+    "https://www.ytl.com.cn/en/About_Us/Our_Company.htm",
+    "https://baike.baidu.com/en/item/Yunnan+Tin+Co.,+Ltd./949423"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "commodity": "Silver Paste",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.5,
+      "ownership_note": "Significant foreign investment in local manufacturers.",
+      "notes": "Dominates the global market with numerous manufacturers."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.2,
+      "ownership_note": "Local companies with strong ties to global tech firms.",
+      "notes": "Growing market due to renewable energy policies."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "ownership_note": "Home to major multinational suppliers.",
+      "notes": "Strong presence in high-quality silver paste for electronics."
+    },
+    {
+      "country": "India",
+      "share": 0.1,
+      "ownership_note": "Emerging market with increasing production capacity.",
+      "notes": "Focus on cost-effective manufacturing."
+    },
+    {
+      "country": "Japan",
+      "share": 0.05,
+      "ownership_note": "Established technology firms involved in production.",
+      "notes": "Specializes in high-performance applications."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "Major consumer of silver paste for electronics and solar applications."
+    },
+    {
+      "country": "Germany",
+      "share": 0.25,
+      "notes": "Imports for both manufacturing and R&D purposes."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Significant demand for high-tech applications."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "Imports for local manufacturing needs."
+    },
+    {
+      "country": "China",
+      "share": 0.1,
+      "notes": "Imports for specialized applications despite being a major exporter."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.thomasnet.com/suppliers/usa/silver-paste-57532400",
+    "https://www.globalsources.com/manufacturers/conductive-silver-paste.html",
+    "https://www.alibaba.com/silver-paste-suppliers.html",
+    "https://www.ec21.com/ec-market/silver-paste.html",
+    "https://www.tradekey.com/popular/silver-paste.html",
+    "https://www.exporthub.com/conductive-silver-paste-manufacturers/"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "commodity": "Silver",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Mexico",
+      "share": 0.25,
+      "ownership_note": "Fresnillo, a Mexican company, is the world's largest silver producer.",
+      "notes": "Mexico is home to several major silver mining companies, including Fresnillo and Industrias Penoles."
+    },
+    {
+      "country": "United Kingdom",
+      "share": 0.2,
+      "notes": "The UK is the world's largest silver exporting country based on value, with exports valued at $8.2 billion in 2022."
+    },
+    {
+      "country": "China",
+      "share": 0.15,
+      "ownership_note": "Chinese companies, such as Zijin Mining, are major players in the global silver market.",
+      "notes": "China has restrictions on silver exports, which has driven up prices and demand for the metal."
+    },
+    {
+      "country": "Peru",
+      "share": 0.1,
+      "notes": "Peru is a significant producer of silver, with several major mining companies operating in the country."
+    },
+    {
+      "country": "Poland",
+      "share": 0.05,
+      "notes": "Poland is a smaller but still significant producer of silver, with several mining companies operating in the country."
+    },
+    {
+      "country": "Russia",
+      "share": 0.05,
+      "notes": "Russia is a significant producer of silver, with several major mining companies operating in the country."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China is a major importer of silver, driven by demand from the country's electronics and solar panel industries."
+    },
+    {
+      "country": "United States",
+      "share": 0.2,
+      "notes": "The US is a significant importer of silver, driven by demand from the country's electronics and jewelry industries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant importer of silver, driven by demand from the country's electronics and solar panel industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a smaller but still significant importer of silver, driven by demand from the country's electronics and solar panel industries."
+    }
+  ],
+  "sources_consulted": [
+    "https://oilprice.com/Energy/Energy-General/A-Look-at-the-Worlds-Top-15-Silver-Producing-Companies.html",
+    "https://www.visualcapitalist.com/ranked-the-worlds-top-silver-producers/",
+    "https://www.investopedia.com/articles/investing/022516/worlds-top-5-silver-mining-companies.asp",
+    "https://investguiding.com/article/15-biggest-silver-mining-companies-in-the-world",
+    "https://discoveryalert.com.au/top-silver-producers-q1-2025/",
+    "https://www.miningvisuals.com/post/top-silver-producers-in-q1-2025-a-look-at-the-industry-s-leaders"
+  ]
+}

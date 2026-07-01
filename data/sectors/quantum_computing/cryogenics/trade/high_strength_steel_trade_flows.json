@@ -1,0 +1,111 @@
+{
+  "commodity": "High strength steel",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.42,
+      "ownership_note": "State-owned enterprises (e.g. Baowu Group, HBIS Group, Shagang Group) and private companies (e.g. Fushun SpecialSteelCo. Ltd.)",
+      "notes": "China is a significant producer and exporter of high-strength steel, with a large number of state-owned and private companies operating in the sector."
+    },
+    {
+      "country": "Luxembourg",
+      "share": 0.15,
+      "ownership_note": "ArcelorMittal S.A.",
+      "notes": "ArcelorMittal is a multinational steel manufacturing corporation with a significant presence in the high-strength steel market."
+    },
+    {
+      "country": "Japan",
+      "share": 0.12,
+      "ownership_note": "NSSMC Group",
+      "notes": "NSSMC Group is a leading steel company in Japan with a focus on high-quality steel products, including high-strength steel."
+    },
+    {
+      "country": "India",
+      "share": 0.08,
+      "ownership_note": "Tata Steel Group",
+      "notes": "Tata Steel Group is a major steel producer in India with a significant presence in the high-strength steel market."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.06,
+      "ownership_note": "Hyundai Steel Company",
+      "notes": "Hyundai Steel Company is a leading steel producer in South Korea with a focus on high-quality steel products, including high-strength steel."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.05,
+      "ownership_note": "China Steel Company",
+      "notes": "China Steel Company is a major steel producer in Taiwan with a significant presence in the high-strength steel market."
+    },
+    {
+      "country": "United States",
+      "share": 0.04,
+      "ownership_note": "Nucor Corporation",
+      "notes": "Nucor Corporation is a leading steel producer in the United States with a focus on high-quality steel products, including high-strength steel."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.03,
+      "ownership_note": "Brazilian mine owned by Chinese company",
+      "notes": "Brazil is a significant producer of iron ore, which is used to produce high-strength steel. Chinese companies have invested in Brazilian mines to secure iron ore supplies."
+    },
+    {
+      "country": "Singapore",
+      "share": 0.02,
+      "ownership_note": "Manufacturers with no base in Singapore",
+      "notes": "Singapore is a major hub for steel trading and distribution, with many manufacturers based elsewhere but selling high-strength steel products in the country."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.25,
+      "notes": "The US is a significant importer of high-strength steel, with a large demand for steel products in the construction, automotive, and aerospace industries."
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "notes": "China is a significant importer of high-strength steel, with a large demand for steel products in the construction, automotive, and aerospace industries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant importer of high-strength steel, with a large demand for steel products in the automotive and aerospace industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a significant importer of high-strength steel, with a large demand for steel products in the automotive and aerospace industries."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "notes": "Germany is a significant importer of high-strength steel, with a large demand for steel products in the automotive and aerospace industries."
+    },
+    {
+      "country": "India",
+      "share": 0.04,
+      "notes": "India is a significant importer of high-strength steel, with a large demand for steel products in the construction and automotive industries."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.03,
+      "notes": "Brazil is a significant importer of high-strength steel, with a large demand for steel products in the construction and automotive industries."
+    },
+    {
+      "country": "Singapore",
+      "share": 0.02,
+      "notes": "Singapore is a significant importer of high-strength steel, with a large demand for steel products in the construction and automotive industries."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/ArcelorMittal",
+    "https://www.linkedin.com/pulse/analyzing-competitive-landscape-hot-rolled-high-strength-ygr0e",
+    "https://www.dmsteels.com/why-daming-has-more-advantages-in-high-strength-steels-and-wear-resistant-steels/",
+    "https://www.kocks.de/en/news/fac-for-rsbr-3704-at-fushun-special-steel/",
+    "https://www.jswonehomes.com/blogs/construction/understanding-the-benefits-of-steel-in-modern-home-construction",
+    "https://www.alloysteelspipe.com/singapore/stainless-steel-pipe.htm"
+  ]
+}

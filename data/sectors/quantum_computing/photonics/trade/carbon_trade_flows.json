@@ -1,0 +1,72 @@
+{
+  "commodity": "Carbon (USA \u2014 General Electric)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "USA",
+      "share": 0.35,
+      "ownership_note": "General Electric",
+      "notes": "Manufacturing facilities in the USA"
+    },
+    {
+      "country": "UK",
+      "share": 0.2,
+      "ownership_note": "U.S. Graphite, SGL Carbon",
+      "notes": "Manufacturing facilities in the UK"
+    },
+    {
+      "country": "Mexico",
+      "share": 0.15,
+      "ownership_note": "U.S. Graphite, SGL Carbon",
+      "notes": "Manufacturing facilities in Mexico"
+    },
+    {
+      "country": "Germany",
+      "share": 0.1,
+      "ownership_note": "AMG Graphite",
+      "notes": "Vertically-integrated production facilities in Germany"
+    },
+    {
+      "country": "Australia",
+      "share": 0.05,
+      "ownership_note": "Mineral Commodities Ltd (Skaland Graphite)",
+      "notes": "Acquired Skaland mine in 2019"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "Major consumer of carbon materials for quantum computing applications"
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Significant demand for high-purity carbon materials"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "notes": "Growing demand for carbon materials in the electronics industry"
+    },
+    {
+      "country": "India",
+      "share": 0.1,
+      "notes": "Increasing demand for carbon materials in the quantum computing sector"
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.05,
+      "notes": "Significant demand for carbon materials in the electronics industry"
+    }
+  ],
+  "sources_consulted": [
+    "https://wholesalesuppliers.eu/wholesale/",
+    "https://www.getdropshippers.com/european-wholesalers/",
+    "https://panjiva.com/search",
+    "https://www.accio.com/supplier/supplier-europe",
+    "https://www.ezilon.com/business/manufacturers/index.shtml",
+    "https://eurowholesale.eu/"
+  ]
+}

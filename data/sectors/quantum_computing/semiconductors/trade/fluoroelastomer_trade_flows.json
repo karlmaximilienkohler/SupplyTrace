@@ -1,0 +1,89 @@
+{
+  "commodity": "Fluoroelastomer",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.3,
+      "ownership_note": "Significant production facilities owned by state and private enterprises.",
+      "notes": "China is a major supplier of fluoroelastomers, particularly for semiconductor applications."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "ownership_note": "Includes both domestic manufacturers and foreign-owned facilities.",
+      "notes": "Home to leading brands like Viton\u2122 and significant R&D capabilities."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "ownership_note": "Strong presence of multinational chemical companies.",
+      "notes": "Known for high-quality fluoroelastomer products, especially in automotive and aerospace."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "ownership_note": "Local companies with advanced technology in semiconductor-grade materials.",
+      "notes": "Focus on high-performance applications."
+    },
+    {
+      "country": "Russia",
+      "share": 0.1,
+      "ownership_note": "Production facilities owned by state-affiliated companies.",
+      "notes": "Emerging supplier with cost-efficient production."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "Local firms with partnerships in semiconductor industries.",
+      "notes": "Growing market presence in Asia-Pacific."
+    },
+    {
+      "country": "Other",
+      "share": 0.05,
+      "ownership_note": "Includes various smaller producers globally.",
+      "notes": "Limited market share but contributes to niche applications."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "Largest market for fluoroelastomers, driven by aerospace, automotive, and electronics sectors."
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "notes": "Rapidly growing demand in various industrial applications."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "notes": "Strong industrial base requiring high-performance materials."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "notes": "Significant demand in electronics and automotive industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "notes": "Increasing use in semiconductor manufacturing."
+    },
+    {
+      "country": "Other",
+      "share": 0.05,
+      "notes": "Includes various countries with niche markets."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.thomasnet.com/suppliers/usa/fluoroelastomers-30631352",
+    "https://www.trademo.com/united-states/manufacturers/fluoroelastomer",
+    "https://mono.ipros.com/en/cg2/Fluoroelastomer/",
+    "https://www.industrynet.com/suppliers/FL0642/fluoroelastomers",
+    "https://www.alibaba.com/fluoroelastomer-suppliers.html",
+    "https://warco.com/viton/"
+  ]
+}

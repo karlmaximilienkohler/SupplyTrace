@@ -1,0 +1,89 @@
+{
+  "commodity": "Nitrogen (USA \u2014 Air Products)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.32,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China has solidified its position as a global leader in the manufacturing of industrial gas supply systems, including nitrogen generation equipment."
+    },
+    {
+      "country": "USA",
+      "share": 0.25,
+      "ownership_note": "Air Products and other domestic companies",
+      "notes": "Air Products is a world-leading nitrogen supplier with a global network of storage and transfill facilities."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "ownership_note": "Private companies",
+      "notes": "South Korea has a significant electronics industry that relies heavily on nitrogen for manufacturing processes."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "ownership_note": "Private companies",
+      "notes": "Japan has a well-established electronics industry that requires high-purity nitrogen for various applications."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.08,
+      "ownership_note": "Private companies",
+      "notes": "Taiwan has a significant electronics industry that relies on nitrogen for manufacturing processes."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "India has a growing electronics industry that requires nitrogen for various applications."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.03,
+      "ownership_note": "Private companies",
+      "notes": "Brazil has a significant agricultural industry that relies on nitrogen for fertilizer production."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.45,
+      "notes": "China is a significant importer of nitrogen due to its large electronics and pharmaceutical industries."
+    },
+    {
+      "country": "USA",
+      "share": 0.2,
+      "notes": "The USA imports nitrogen for various industrial applications, including electronics and food processing."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan imports nitrogen for its electronics and automotive industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea imports nitrogen for its electronics and automotive industries."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.05,
+      "notes": "Taiwan imports nitrogen for its electronics industry."
+    },
+    {
+      "country": "India",
+      "share": 0.03,
+      "notes": "India imports nitrogen for its growing electronics and pharmaceutical industries."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/",
+    "https://www.airproducts.com/gases/nitrogen",
+    "https://www.airproducts.me/gases/nitrogen",
+    "https://www.airproducts.co.uk/gases/nitrogen",
+    "https://chemicalresearchinsight.com/2025/08/06/top-10-companies-in-the-high-purity-nitrogen-gas-industry-2025-market-leaders-enabling-precision-manufacturing/",
+    "https://www.cfindustries.com/"
+  ]
+}

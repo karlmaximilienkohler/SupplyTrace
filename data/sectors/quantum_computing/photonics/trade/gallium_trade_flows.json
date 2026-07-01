@@ -1,0 +1,71 @@
+{
+  "commodity": "Gallium",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.45,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a major producer and exporter of gallium, with many domestic companies involved in the supply chain."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.2,
+      "ownership_note": "Brazilian mine, Chinese owner (e.g., Neo Rare Metals)",
+      "notes": "Brazil is a significant source of gallium, with some mines owned by Chinese companies."
+    },
+    {
+      "country": "India",
+      "share": 0.15,
+      "ownership_note": "Private companies",
+      "notes": "India has a growing gallium industry, with several private companies involved in mining and processing."
+    },
+    {
+      "country": "Korea",
+      "share": 0.1,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "South Korea is a significant consumer of gallium, with some domestic companies involved in the supply chain."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "notes": "Other countries, including the United States, Japan, and Europe, also export gallium, but their market share is relatively small."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "The US is a significant consumer of gallium, with many domestic companies involved in the semiconductor industry."
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "notes": "China is both a major producer and consumer of gallium, with many domestic companies involved in the supply chain."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant consumer of gallium, with many domestic companies involved in the semiconductor industry."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a significant consumer of gallium, with many domestic companies involved in the semiconductor industry."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "notes": "Other countries, including the European Union, Taiwan, and Southeast Asia, also import gallium, but their market share is relatively small."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Gallium",
+    "https://www.neomaterials.com/rare-metals/gallium/",
+    "https://www.globalsources.com/manufacturers/gallium.html",
+    "https://www.ec21.com/companies/gallium.html",
+    "https://us.metoree.com/categories/7137/",
+    "https://www.industryresearch.biz/global-electronic-grade-gallium-market-26955894"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "commodity": "Arsine",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.5,
+      "ownership_note": "Majority of production facilities owned by domestic companies.",
+      "notes": "China is the largest producer and exporter of arsine, supplying a significant portion of the global market."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "ownership_note": "Production facilities operated by companies like Entegris and Linde.",
+      "notes": "The U.S. has a strong presence in the specialty gas market, including arsine."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "ownership_note": "Companies like Linde have significant operations in Germany.",
+      "notes": "Germany is a key player in the European market for specialty gases."
+    },
+    {
+      "country": "Japan",
+      "share": 0.05,
+      "ownership_note": "Taiyo Nippon Sanso is a major supplier.",
+      "notes": "Japan has a smaller but important role in the global arsine market."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "Local companies involved in the production and supply.",
+      "notes": "South Korea contributes to the regional supply of arsine."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "The U.S. is a major importer of arsine for its semiconductor and quantum computing industries."
+    },
+    {
+      "country": "Germany",
+      "share": 0.25,
+      "notes": "Germany imports arsine for its advanced manufacturing and technology sectors."
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "notes": "China also imports arsine to meet its domestic demand despite being a major exporter."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "notes": "Japan imports arsine for its electronics and semiconductor industries."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.05,
+      "notes": "Taiwan imports arsine for its semiconductor manufacturing."
+    }
+  ],
+  "sources_consulted": [
+    "https://us.metoree.com/categories/6829/",
+    "https://www.thomasnet.com/suppliers/usa/arsine-gas-32840506",
+    "https://www.qyresearch.com/reports/3781347/arsine",
+    "https://www.globalinforesearch.com/reports/3018670/arsine",
+    "https://www.globalchemmall.com/arsine",
+    "https://reports.valuates.com/market-reports/QYRE-Auto-32N12749/global-arsine"
+  ]
+}

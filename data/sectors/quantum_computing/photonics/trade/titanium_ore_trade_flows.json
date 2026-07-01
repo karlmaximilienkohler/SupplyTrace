@@ -1,0 +1,44 @@
+{
+  "commodity": "Titanium Ore (Australia \u2014 Iluka Resources)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Australia",
+      "share": 0.85,
+      "ownership_note": "Iluka Resources is an Australian company",
+      "notes": "Iluka Resources is a leading producer of zircon and high-grade titanium dioxide feedstocks (rutile and synthetic rutile) in Australia."
+    },
+    {
+      "country": "South Africa",
+      "share": 0.05,
+      "ownership_note": "South African mines owned by various companies",
+      "notes": "South Africa is a significant producer of titanium ore, with mines owned by various companies, including Rio Tinto and Anglo American."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.6,
+      "notes": "China is a major consumer of titanium ore, used in various industries, including aerospace, automotive, and construction."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Japan is a significant importer of titanium ore, used in industries such as aerospace, automotive, and electronics."
+    },
+    {
+      "country": "United States",
+      "share": 0.1,
+      "notes": "The United States is a minor importer of titanium ore, used in industries such as aerospace, automotive, and construction."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Iluka_Resources",
+    "https://www.iluka.com/",
+    "https://ancold.org.au/organisations/iluka-resources-limited/",
+    "https://www.greatmining.com/mining-company-Iluka-Resources.html",
+    "https://investingnews.com/company-profiles/iluka-resources-ltd/",
+    "https://announcements.asx.com.au/asxpdf/20241022/pdf/069d7hk0h7zp92.pdf"
+  ]
+}

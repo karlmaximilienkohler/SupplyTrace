@@ -1,0 +1,83 @@
+{
+  "commodity": "Silver Ore (Mexico \u2014 Fresnillo)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Mexico",
+      "share": 0.85,
+      "ownership_note": "Domestic production",
+      "notes": "Fresnilloplc is the world's largest primary silver producer and Mexico's largest gold producer."
+    },
+    {
+      "country": "China",
+      "share": 0.05,
+      "ownership_note": "State-owned enterprises",
+      "notes": "China is a significant importer of silver ores and concentrates from Mexico."
+    },
+    {
+      "country": "Korea, Rep.",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Korea is a significant importer of silver ores and concentrates from Mexico."
+    },
+    {
+      "country": "Bulgaria",
+      "share": 0.02,
+      "ownership_note": "Private companies",
+      "notes": "Bulgaria is a smaller importer of silver ores and concentrates from Mexico."
+    },
+    {
+      "country": "European Union",
+      "share": 0.02,
+      "ownership_note": "Multinational corporations",
+      "notes": "The European Union is a smaller importer of silver ores and concentrates from Mexico."
+    },
+    {
+      "country": "Canada",
+      "share": 0.01,
+      "ownership_note": "Private companies",
+      "notes": "Canada is a smaller importer of silver ores and concentrates from Mexico."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China is a significant importer of silver ores and concentrates from Mexico."
+    },
+    {
+      "country": "Korea, Rep.",
+      "share": 0.2,
+      "notes": "Korea is a significant importer of silver ores and concentrates from Mexico."
+    },
+    {
+      "country": "Bulgaria",
+      "share": 0.1,
+      "notes": "Bulgaria is a smaller importer of silver ores and concentrates from Mexico."
+    },
+    {
+      "country": "European Union",
+      "share": 0.1,
+      "notes": "The European Union is a smaller importer of silver ores and concentrates from Mexico."
+    },
+    {
+      "country": "Canada",
+      "share": 0.05,
+      "notes": "Canada is a smaller importer of silver ores and concentrates from Mexico."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "notes": "India is a smaller importer of silver ores and concentrates from Mexico."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Fresnillo_plc",
+    "https://www2.fresnilloplc.com/",
+    "https://silverinstitute.org/wp-content/uploads/2025/04/World_Silver_Survey-2025.pdf",
+    "https://www.ainvest.com/news/fresnillo-plc-strategic-position-global-silver-market-rising-industrial-demand-2509/",
+    "https://goldirablueprint.com/silver-miners-largest-silver-mining-companies/",
+    "https://farmonaut.com/mining/top-10-mexican-silver-mining-companies-small-firms-2026"
+  ]
+}

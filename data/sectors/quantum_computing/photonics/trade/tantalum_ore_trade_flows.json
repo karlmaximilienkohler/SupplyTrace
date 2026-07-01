@@ -1,0 +1,66 @@
+{
+  "commodity": "Tantalum Ore (Rwanda \u2014 AB Minerals)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Rwanda",
+      "share": 0.35,
+      "ownership_note": "AB Minerals is the primary exporter",
+      "notes": "Rwanda is a significant producer of tantalum ore, with AB Minerals being a key player in the country's mining industry."
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "ownership_note": "Chinese companies like Ningxia Orient Tantalum Industry and China Minmetals have significant stakes in global tantalum ore production",
+      "notes": "China is a major player in the global tantalum market, with several Chinese companies having significant stakes in tantalum ore production."
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "share": 0.15,
+      "ownership_note": "The DRC is a significant producer of tantalum ore, with several international companies operating in the country",
+      "notes": "The DRC is a major producer of tantalum ore, with several international companies operating in the country, including Global Advanced Metals and AMG."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.1,
+      "ownership_note": "Brazilian companies like H.C. Starck have significant stakes in global tantalum ore production",
+      "notes": "Brazil is a significant producer of tantalum ore, with several Brazilian companies having significant stakes in global production."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.15,
+      "notes": "Other countries, including Australia, Canada, and Mozambique, also produce tantalum ore, but to a lesser extent"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China is a significant importer of tantalum ore, with several Chinese companies using the metal in their electronics and other industries"
+    },
+    {
+      "country": "United States",
+      "share": 0.2,
+      "notes": "The United States is a significant importer of tantalum ore, with several American companies using the metal in their electronics and other industries"
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant importer of tantalum ore, with several Japanese companies using the metal in their electronics and other industries"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.25,
+      "notes": "Other countries, including South Korea, Germany, and the United Kingdom, also import tantalum ore, but to a lesser extent"
+    }
+  ],
+  "sources_consulted": [
+    "https://chemicalresearchinsight.com/2025/11/26/top-10-companies-in-the-tantalum-and-tantalum-alloy-bar-industry-2025-market-leaders-enabling-high-tech-applications/",
+    "https://www.mordorintelligence.com/industry-reports/tantalum-market/companies",
+    "https://www.emergenresearch.com/blog/top-10-companies-in-tantalum-market",
+    "https://www.globalinforesearch.com/reports/2361421/tantalum-ore",
+    "https://ensun.io/search/tantalum",
+    "https://www.qyresearch.com/reports/4515602/tantalum-ore"
+  ]
+}

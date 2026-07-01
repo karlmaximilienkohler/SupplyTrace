@@ -1,0 +1,83 @@
+{
+  "component": "Silicon Dioxide (USA \u2014 Corning)",
+  "sector": "Quantum Computing",
+  "segment": "Photonics",
+  "extracted_at": "2026-03-19T23:15:53.356335",
+  "model_used": "llama-3.3-70b-versatile",
+  "suppliers": [
+    {
+      "name": "Sio Silica",
+      "country": "Canada",
+      "ultimate_owner_country": null,
+      "parent_company": null,
+      "role": "Producer",
+      "quantum_relevance": "upstream",
+      "strategic_notes": "Largest high purity silica resource in Canada, secured 459 mining claims covering over 100,000 hectares of land.",
+      "source_url": "https://www.siosilica.com/",
+      "data_confidence": "high",
+      "market_share": 0.1095,
+      "share_source": "llm_prominence_rank"
+    },
+    {
+      "name": "Lorad Chemical Corporation",
+      "country": "USA",
+      "ultimate_owner_country": null,
+      "parent_company": null,
+      "role": "Producer",
+      "quantum_relevance": "direct",
+      "strategic_notes": "Top-ranked silicon dioxide manufacturer in 2026, according to Metoree.",
+      "source_url": "https://us.metoree.com/categories/6581/",
+      "data_confidence": "high",
+      "market_share": 0.438,
+      "share_source": "llm_prominence_rank"
+    },
+    {
+      "name": "MSE Supplies",
+      "country": "USA",
+      "ultimate_owner_country": null,
+      "parent_company": null,
+      "role": "Distributor",
+      "quantum_relevance": "adjacent",
+      "strategic_notes": "Supplier of various chemicals, including silicon dioxide, for industrial applications.",
+      "source_url": "https://us.metoree.com/categories/6581/",
+      "data_confidence": "high",
+      "market_share": 0.219,
+      "share_source": "llm_prominence_rank"
+    },
+    {
+      "name": "Junsei Chemical Co., Ltd.",
+      "country": "Japan",
+      "ultimate_owner_country": null,
+      "parent_company": null,
+      "role": "Producer",
+      "quantum_relevance": "direct",
+      "strategic_notes": "Japanese chemical company producing high-purity silicon dioxide.",
+      "source_url": "https://us.metoree.com/categories/6581/",
+      "data_confidence": "high",
+      "market_share": 0.146,
+      "share_source": "llm_prominence_rank"
+    },
+    {
+      "name": "Simcoa",
+      "country": "Australia",
+      "ultimate_owner_country": "Japan",
+      "parent_company": "Shin-Etsu Chemicals",
+      "role": "Producer",
+      "quantum_relevance": "upstream",
+      "strategic_notes": "Australian silicon smelter owned by Japanese parent company Shin-Etsu Chemicals.",
+      "source_url": "https://www.simcoa.com.au/history-silicon",
+      "data_confidence": "high",
+      "market_share": 0.0876,
+      "share_source": "llm_prominence_rank"
+    }
+  ],
+  "sources": [
+    "https://www.siosilica.com/",
+    "https://us.metoree.com/categories/6581/",
+    "https://www.simcoa.com.au/history-silicon",
+    "https://www.techspot.com/news/102377-two-mines-north-carolina-key-suppliers-world-semiconductor.html",
+    "https://www.simplot.com/silica-sand",
+    "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/2614-tsx-venture/rovr/164649-rover-critical-minerals-signs-loi-to-acquire-high-purity-silica-asset-with-average-99-6-sio2-in-golden-british-columbia.html",
+    "https://www.sibelco.com/en/150-years/spruce-pine"
+  ]
+}

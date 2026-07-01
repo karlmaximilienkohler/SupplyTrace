@@ -1,0 +1,127 @@
+{
+  "commodity": "Copper",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Chile",
+      "share": 28.0,
+      "ownership_note": "Majority of mines are state-owned or controlled by foreign companies.",
+      "notes": "Largest producer of copper globally."
+    },
+    {
+      "country": "Peru",
+      "share": 12.0,
+      "ownership_note": "Significant foreign investment, including Chinese companies.",
+      "notes": "Second largest producer, with major mines operated by multinational corporations."
+    },
+    {
+      "country": "China",
+      "share": 10.0,
+      "ownership_note": "Many mines are state-owned; also a major consumer.",
+      "notes": "Exports mainly refined copper."
+    },
+    {
+      "country": "Australia",
+      "share": 8.0,
+      "ownership_note": "Majority of mines are privately owned.",
+      "notes": "Strong mining sector with significant copper production."
+    },
+    {
+      "country": "Mexico",
+      "share": 7.0,
+      "ownership_note": "Foreign companies operate major mines.",
+      "notes": "Close ties to the U.S. market."
+    },
+    {
+      "country": "Democratic Republic of the Congo (DRC)",
+      "share": 5.0,
+      "ownership_note": "Foreign investment, particularly from Chinese firms.",
+      "notes": "Rich in copper resources but politically sensitive."
+    },
+    {
+      "country": "Zambia",
+      "share": 4.0,
+      "ownership_note": "Majority of mines are foreign-owned.",
+      "notes": "Significant copper exporter in Africa."
+    },
+    {
+      "country": "Russia",
+      "share": 3.0,
+      "ownership_note": "State-controlled companies dominate the sector.",
+      "notes": "Exports copper but less significant than other countries."
+    },
+    {
+      "country": "Canada",
+      "share": 2.0,
+      "ownership_note": "Majority of mines are privately owned.",
+      "notes": "Strong mining sector with diverse mineral production."
+    },
+    {
+      "country": "Brazil",
+      "share": 1.0,
+      "ownership_note": "Foreign companies operate major mines.",
+      "notes": "Emerging player in copper production."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 40.0,
+      "notes": "Largest consumer of copper globally, heavily reliant on imports."
+    },
+    {
+      "country": "United States",
+      "share": 15.0,
+      "notes": "Significant demand for copper in technology and construction."
+    },
+    {
+      "country": "Germany",
+      "share": 10.0,
+      "notes": "Strong industrial base requiring copper for manufacturing."
+    },
+    {
+      "country": "Japan",
+      "share": 8.0,
+      "notes": "Major importer for electronics and automotive industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 5.0,
+      "notes": "Growing demand for copper in technology sectors."
+    },
+    {
+      "country": "India",
+      "share": 4.0,
+      "notes": "Increasing demand due to infrastructure development."
+    },
+    {
+      "country": "Italy",
+      "share": 3.0,
+      "notes": "Significant industrial demand for copper."
+    },
+    {
+      "country": "United Kingdom",
+      "share": 2.0,
+      "notes": "Moderate demand for copper in various sectors."
+    },
+    {
+      "country": "France",
+      "share": 2.0,
+      "notes": "Moderate demand for copper in manufacturing."
+    },
+    {
+      "country": "Brazil",
+      "share": 1.0,
+      "notes": "Emerging market with growing demand."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.bing.com/aclick?ld=e8Y_XcLTx0k_AeTik_xDPkpzVUCUyjdqktCtCNY_yI4cXGbL2bGSGdpxmwQRDubFskTMTm9HPrGK156DtZRqqNtKXDeT_yH9OBig6chSx5sF4FIOBTel62yNg-wMyDj2dMuRNjBas3hyb5lh1gBcysuJt3pg2XR1qPcvSQk4t3nnq0fXNL476b6PY503aEdALYpHSFog&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWxpYmFiYS5jb20lMmZ0cmFkZSUyZnNlYXJjaCUzZnRhYiUzZGFsbCUyNlNlYXJjaFRleHQlM2RvdmVyc2VhcytzdXBwbGllciUyNnNyYyUzZHNlbV9iaW5nJTI2ZmllbGQlM2RVRyUyNmZyb20lM2RzZW1fYmluZyUyNmNtcGduJTNkNDg3NTE5NDY3JTI2YWRncnAlM2QxMjM0NzUyOTEyMzI1Njg5JTI2dGd0JTNka3dkLTc3MTcyNTIzOTE3MDM3JTNhbG9jLTE3MCUyNkt3ZElEJTNkNzcxNzI1MjM5MTcwMzclMjZtdGNodHlwJTNkcCUyNmJkbXRjaHR5cCslM2RiYiUyNm50d3JrJTNkbyUyNmRldmljZSUzZGMlMjZjcmVhdGl2ZSUzZDc3MTcyMjAxMjEwMDQzJTI2cDElM2RkZWZhdWx0JTI2cDIlM2RkZWZhdWx0JTI2cDMlM2RkZWZhdWx0JTI2UXVlcnklM2Rjb3BwZXIlMjUyMHN1cHBsaWVycyUyNTIwQ2hpbmElMjUyMEphcGFuJTI1MjBTb3V0aCUyNTIwS29yZWElMjUyMFRhaXdhbiUyNm1zY2xraWQlM2QyYWMwMjRhYWU3MGUxYjUzODMxZDRkMTdiZTJmZGM1Yg&rlid=2ac024aae70e1b53831d4d17be2fdc5b",
+    "https://www.mordorintelligence.com/industry-reports/china-copper-market/companies",
+    "https://www.made-in-china.com/manufacturers-directory/item3/Copper-1.html",
+    "https://www.globalsources.com/china-suppliers/copper.htm",
+    "https://www.go4worldbusiness.com/suppliers/copper.html",
+    "https://www.copperfurnace.com/"
+  ]
+}

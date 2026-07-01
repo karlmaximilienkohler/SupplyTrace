@@ -1,0 +1,72 @@
+{
+  "commodity": "Holmium copper alloy",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.42,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a significant producer and exporter of rare earth alloys, including Holmium copper alloy."
+    },
+    {
+      "country": "India",
+      "share": 0.25,
+      "ownership_note": "Private companies",
+      "notes": "India has a growing rare earth industry, with several companies producing Holmium copper alloy for domestic and international markets."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "ownership_note": "Private companies",
+      "notes": "Japan is a significant consumer of rare earth alloys, including Holmium copper alloy, and has a few domestic producers."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.08,
+      "ownership_note": "Private companies",
+      "notes": "South Korea has a small but growing rare earth industry, with a few companies producing Holmium copper alloy for domestic and international markets."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Private companies with Brazilian mines",
+      "notes": "Brazil has significant rare earth deposits, but its industry is still developing, with a few companies producing Holmium copper alloy for domestic and international markets."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.5,
+      "notes": "The US is a significant consumer of rare earth alloys, including Holmium copper alloy, for various industrial applications."
+    },
+    {
+      "country": "Germany",
+      "share": 0.2,
+      "notes": "Germany has a significant electronics industry, which drives demand for rare earth alloys, including Holmium copper alloy."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant consumer of rare earth alloys, including Holmium copper alloy, for various industrial applications."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea has a significant electronics industry, which drives demand for rare earth alloys, including Holmium copper alloy."
+    },
+    {
+      "country": "China",
+      "share": 0.05,
+      "notes": "China is a significant consumer of rare earth alloys, including Holmium copper alloy, for various industrial applications."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.ottokemi.com/alloys/HC.aspx",
+    "https://www.alibaba.com/showroom/holmium-copper-alloy.html",
+    "https://www.attelements.com/copper-metal-and-alloys/holmium-copper-alloy.html",
+    "https://www.rare-earths.net/rare-earth-powders/rare-earth-alloy-powder/hocu-alloy-powder.html",
+    "https://www.nanochemazone.com/product/holmium-copper-alloy/",
+    "https://www.Made-in-China.com/products-search/hot-china-products/Holmium_Alloy.html"
+  ]
+}

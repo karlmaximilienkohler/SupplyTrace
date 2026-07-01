@@ -1,0 +1,72 @@
+{
+  "commodity": "Nitrogen Trifluoride",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.5,
+      "ownership_note": "Significant foreign investment in production facilities.",
+      "notes": "China is the largest producer and exporter, driven by its semiconductor and electronics manufacturing sectors."
+    },
+    {
+      "country": "United States",
+      "share": 0.3,
+      "ownership_note": "Domestic production with some foreign ownership in key companies.",
+      "notes": "The U.S. has a strong market presence due to its advanced technology and demand in quantum computing."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "ownership_note": "Local companies with foreign partnerships.",
+      "notes": "South Korea's export is bolstered by its semiconductor industry."
+    },
+    {
+      "country": "United Kingdom",
+      "share": 0.05,
+      "ownership_note": "Limited production capacity, reliant on imports.",
+      "notes": "The UK has a smaller share but is involved in high-tech applications."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "ownership_note": "Some production facilities owned by multinational corporations.",
+      "notes": "Germany's share is primarily for high-purity applications in electronics."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "Major importer due to high demand in semiconductor and quantum computing sectors."
+    },
+    {
+      "country": "China",
+      "share": 0.3,
+      "notes": "Imports for domestic consumption in electronics manufacturing."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Strong demand in semiconductor and display technologies."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.1,
+      "notes": "Key player in semiconductor manufacturing, reliant on imports."
+    },
+    {
+      "country": "Singapore",
+      "share": 0.05,
+      "notes": "Growing market for high-tech applications."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.chemicalbook.com/Manufacturers/Nitrogen-trifluoride.htm",
+    "https://www.linkedin.com/pulse/hong-kong-high-purity-nitrogen-trifluoride-market-nvcqe",
+    "https://asiaiga.org/uploaded_docs/?C=M;O=D",
+    "https://asiaiga.org/uploaded_docs/?C=M;O=A",
+    "https://finance.yahoo.com/news/semiconductor-gases-market-surpass-usd-112800286.html",
+    "https://www.gov.uk/hmrc-internal-manuals/oil-taxation-manual/ot21750"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "commodity": "Gold",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.35,
+      "ownership_note": "Significant domestic production; foreign investments in mines.",
+      "notes": "Rapid growth in exports, especially to Asia and Europe."
+    },
+    {
+      "country": "Germany",
+      "share": 0.2,
+      "ownership_note": "Strong financial sector; imports gold for trading and storage.",
+      "notes": "Increasing exports due to demand for gold bars and jewelry."
+    },
+    {
+      "country": "UAE",
+      "share": 0.15,
+      "ownership_note": "Major trading hub; imports gold from various countries including Russia.",
+      "notes": "Benefiting from geopolitical shifts in gold trade."
+    },
+    {
+      "country": "Uzbekistan",
+      "share": 0.1,
+      "ownership_note": "State-controlled mining operations.",
+      "notes": "Growing exports, particularly to Asia."
+    },
+    {
+      "country": "Peru",
+      "share": 0.1,
+      "ownership_note": "Foreign companies operate mines; local regulations apply.",
+      "notes": "Significant gold production, primarily for export."
+    },
+    {
+      "country": "Russia",
+      "share": 0.05,
+      "ownership_note": "State-owned enterprises dominate; sanctions affecting exports.",
+      "notes": "Decline in exports due to geopolitical tensions."
+    },
+    {
+      "country": "Canada",
+      "share": 0.05,
+      "ownership_note": "Foreign investments in mining; significant production.",
+      "notes": "Stable export market, primarily to the US."
+    }
+  ],
+  "importers": [
+    {
+      "country": "India",
+      "share": 0.4,
+      "notes": "Largest consumer of gold for jewelry and investment."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "notes": "Major market for gold bars and coins."
+    },
+    {
+      "country": "China",
+      "share": 0.15,
+      "notes": "Growing demand for gold in jewelry and investment."
+    },
+    {
+      "country": "Germany",
+      "share": 0.1,
+      "notes": "Strong market for investment and industrial use."
+    },
+    {
+      "country": "Turkey",
+      "share": 0.1,
+      "notes": "Significant consumer market for gold jewelry."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.cosmeticindex.com/_marinis-gold-suppliers-contacts",
+    "https://asianews.network/gold-suppliers-cheated-of-millions-by-single-buyer/",
+    "https://www.alibaba.com/top-gold-suppliers.html",
+    "https://www.globalsources.com/manufacturers/Gold.html",
+    "https://www.wholesalecentral.com/category/Gold-Jewelry",
+    "https://www.alibaba.com/help/gold_supplier.html"
+  ]
+}

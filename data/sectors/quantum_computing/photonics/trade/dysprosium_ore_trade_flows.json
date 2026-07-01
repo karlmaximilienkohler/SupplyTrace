@@ -1,0 +1,71 @@
+{
+  "commodity": "Dysprosium Ore (Australia \u2014 Lynas)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Australia",
+      "share": 0.35,
+      "ownership_note": "Lynas Corporation",
+      "notes": "Major exporter of dysprosium ore"
+    },
+    {
+      "country": "China",
+      "share": 0.3,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "Domestic production and refining"
+    },
+    {
+      "country": "Myanmar",
+      "share": 0.15,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "Smaller contributions to global production"
+    },
+    {
+      "country": "United States",
+      "share": 0.1,
+      "ownership_note": "Private companies",
+      "notes": "Smaller contributions to global production"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "notes": "Including India, Brazil, and others"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "Major importer and consumer of dysprosium ore"
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Significant importer for electronics and automotive applications"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "notes": "Growing demand for dysprosium in electronics and renewable energy"
+    },
+    {
+      "country": "United States",
+      "share": 0.1,
+      "notes": "Importing for various applications, including electronics and defense"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.15,
+      "notes": "Including European countries, India, and others"
+    }
+  ],
+  "sources_consulted": [
+    "https://chemicalresearchinsight.com/2025/12/13/top-10-companies-in-the-dysprosium-carbonate-industry-2025-market-leaders-fueling-the-high-tech-supply-chain/",
+    "https://www.globalinforesearch.com/reports/2447508/dysprosium",
+    "https://www.sfa-oxford.com/rare-earths-and-minor-metals/rare-earths-elements/dysprosium-market-and-dysprosium-price-drivers/",
+    "https://www.futuremarketinsights.com/reports/dysprosium-market",
+    "https://criticalstrategicmetals.com/minerals/dysprosium/companies/",
+    "https://www.qyresearch.com/reports/1534138/dysprosium"
+  ]
+}

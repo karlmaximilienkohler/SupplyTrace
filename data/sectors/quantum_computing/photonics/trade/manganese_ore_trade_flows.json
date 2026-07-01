@@ -1,0 +1,60 @@
+{
+  "commodity": "Manganese Ore (South Africa \u2014 Assmang)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "South Africa",
+      "share": 0.55,
+      "ownership_note": "Assmang Proprietary Limited",
+      "notes": "Mainly exported through Port Elizabeth"
+    },
+    {
+      "country": "Australia",
+      "share": 0.2,
+      "ownership_note": "South32",
+      "notes": "Produced at Groote Eylandt Mining Company (GEMCO)"
+    },
+    {
+      "country": "Brazil",
+      "share": 0.1,
+      "ownership_note": "Chinese owner (e.g., Sinosteel)",
+      "notes": "Brazilian mine with Chinese ownership"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.15,
+      "notes": "Including countries like Gabon, China, and India"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.45,
+      "notes": "Major importer of manganese ore for steel production"
+    },
+    {
+      "country": "India",
+      "share": 0.25,
+      "notes": "Growing demand for manganese ore in the steel industry"
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Importing manganese ore for steel production and other industrial uses"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.15,
+      "notes": "Including countries like South Korea, Taiwan, and the United States"
+    }
+  ],
+  "sources_consulted": [
+    "https://farmonaut.com/mining/assmang-black-rock-mine-2026-trends-growth",
+    "https://www.steel-technology.com/suppliers/assmang-ltd",
+    "https://arm.co.za/arm-ferrous/",
+    "https://www.globalfirstmedia.com/features/assmang-limited-evolution-in-the-natural-resource-market/",
+    "https://www.reuters.com/business/energy/south-african-miners-bid-manganese-export-terminal-concession-2026-03-06/",
+    "https://www.south32.net/what-we-do/our-commodities/manganese"
+  ]
+}

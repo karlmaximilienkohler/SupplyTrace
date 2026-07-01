@@ -1,0 +1,111 @@
+{
+  "commodity": "Gold plated contacts",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.55,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a major manufacturer and exporter of gold plated contacts, with many domestic and international companies operating in the country."
+    },
+    {
+      "country": "United States",
+      "share": 0.2,
+      "ownership_note": "Private companies and research institutions",
+      "notes": "The US is home to several major manufacturers of gold plated contacts, particularly in the aerospace and electronics industries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "ownership_note": "Private companies and research institutions",
+      "notes": "Japan is known for its high-tech manufacturing capabilities and is a significant exporter of gold plated contacts, particularly in the electronics and automotive industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "Private companies and research institutions",
+      "notes": "South Korea is a major player in the electronics industry and exports a significant amount of gold plated contacts, particularly to countries in East Asia."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.05,
+      "ownership_note": "Private companies and research institutions",
+      "notes": "Taiwan is a significant exporter of gold plated contacts, particularly in the electronics and automotive industries, with many domestic and international companies operating in the country."
+    },
+    {
+      "country": "Germany",
+      "share": 0.03,
+      "ownership_note": "Private companies and research institutions",
+      "notes": "Germany is a major player in the automotive and electronics industries and exports a significant amount of gold plated contacts, particularly to countries in Europe."
+    },
+    {
+      "country": "India",
+      "share": 0.02,
+      "ownership_note": "Private companies and research institutions",
+      "notes": "India is a growing player in the electronics and automotive industries and exports a small but increasing amount of gold plated contacts, particularly to countries in South Asia and the Middle East."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.01,
+      "ownership_note": "Private companies and research institutions",
+      "notes": "Brazil is a significant producer of gold plated contacts, particularly in the aerospace and automotive industries, with many domestic and international companies operating in the country."
+    },
+    {
+      "country": "Russia",
+      "share": 0.01,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "Russia is a significant producer of gold plated contacts, particularly in the aerospace and automotive industries, with many domestic and international companies operating in the country."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.3,
+      "notes": "The US is a significant importer of gold plated contacts, particularly in the aerospace and electronics industries."
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "notes": "China is a significant importer of gold plated contacts, particularly in the electronics and automotive industries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant importer of gold plated contacts, particularly in the electronics and automotive industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a significant importer of gold plated contacts, particularly in the electronics and automotive industries."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "notes": "Germany is a significant importer of gold plated contacts, particularly in the automotive and electronics industries."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "notes": "India is a growing importer of gold plated contacts, particularly in the electronics and automotive industries."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.03,
+      "notes": "Brazil is a significant importer of gold plated contacts, particularly in the aerospace and automotive industries."
+    },
+    {
+      "country": "Russia",
+      "share": 0.02,
+      "notes": "Russia is a significant importer of gold plated contacts, particularly in the aerospace and automotive industries."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.globalspec.com/industrial-directory/gold_plated_electrical_contacts",
+    "https://www.mwcomponents.com/bellows-electrical-contacts",
+    "https://www.volza.com/p/gold-plating/manufacturers/",
+    "https://www.thomasnet.com/suppliers/usa/gold-plating-61670204",
+    "https://www.accio.com/plp/gold-plated-aa-batteri-contact",
+    "https://www.made-in-china.com/factory/gold-plated-contacts.html"
+  ]
+}

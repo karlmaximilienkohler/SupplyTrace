@@ -1,0 +1,60 @@
+{
+  "commodity": "Nickel Ore (Indonesia \u2014 Vale)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Indonesia",
+      "share": 0.85,
+      "ownership_note": "State-owned and private companies, including PTValeIndonesia",
+      "notes": "Indonesia accounts for 51% of global nickel mine production and has banned exports of unprocessed nickel ore since 2020."
+    },
+    {
+      "country": "China",
+      "share": 0.1,
+      "ownership_note": "Chinese state-owned companies, including GEM",
+      "notes": "China financed and built Indonesia's nickel industry, transforming the country into the world's largest producer in a decade."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Vale, a Brazilian mining giant",
+      "notes": "Vale halted its operations in Indonesia, affecting nickel exports."
+    },
+    {
+      "country": "Australia",
+      "share": 0.0,
+      "notes": "Australia's nickel production is affected by Indonesia's ban on exports of unprocessed nickel ore."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.6,
+      "notes": "China is a major consumer of nickel and has invested heavily in Indonesia's nickel industry."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Japan is a significant importer of nickel and has a strong demand for nickel-based products."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a major importer of nickel and has a growing demand for nickel-based products."
+    },
+    {
+      "country": "European Union",
+      "share": 0.1,
+      "notes": "The European Union is a significant importer of nickel and has a growing demand for nickel-based products, particularly for electric vehicle batteries."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.vale.com/indonesia",
+    "https://www.forbes.com/sites/yessarrosendar/2025/08/28/danantara-to-invest-in-vale-gems-14-billion-nickel-project-in-indonesia/",
+    "https://ieefa.org/resources/indonesias-nickel-companies-need-renewable-energy-amid-increasing-production",
+    "https://www.afr.com/markets/commodities/nickel-hits-15-month-high-as-indonesia-production-stalls-20260107-p5ns93",
+    "https://fortune.com/asia/2025/03/04/indonesia-nickel-exports-downstreaming-ev-battery/",
+    "https://www.mining.com/pt-vale-and-chinas-gem-partner-for-1-4-billion-indonesian-nickel-plant/"
+  ]
+}

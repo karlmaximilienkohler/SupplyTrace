@@ -1,0 +1,96 @@
+{
+  "commodity": "Copper connectors",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.55,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a dominant player in the global copper connector market, with many large manufacturers and suppliers based in the country."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "ownership_note": "Private companies",
+      "notes": "South Korea is known for its high-tech industry and has several major manufacturers of copper connectors."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "ownership_note": "Private companies",
+      "notes": "Japan has a well-established electronics industry and is home to several major manufacturers of copper connectors."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Taiwan is a significant player in the global electronics industry and has several major manufacturers of copper connectors."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "India has a growing electronics industry and is home to several major manufacturers of copper connectors."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Germany has a well-established electronics industry and is home to several major manufacturers of copper connectors."
+    },
+    {
+      "country": "United States",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "The United States has a significant electronics industry and is home to several major manufacturers of copper connectors."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "Brazil has a growing electronics industry and is home to several major manufacturers of copper connectors, including some state-owned enterprises."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.2,
+      "ownership_note": "Private companies and state-owned enterprises",
+      "notes": "Other countries, including countries in Southeast Asia, Eastern Europe, and Latin America, also have a presence in the global copper connector market."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.3,
+      "notes": "The United States is a significant importer of copper connectors, driven by the country's large electronics industry."
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "notes": "China is also a significant importer of copper connectors, driven by the country's large electronics industry and growing demand for high-tech products."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant importer of copper connectors, driven by the country's well-established electronics industry."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is also a significant importer of copper connectors, driven by the country's high-tech industry."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.25,
+      "notes": "Other countries, including countries in Europe, Southeast Asia, and Latin America, also import copper connectors."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.cnzhj.com/copper-tube-connectors/",
+    "https://www.copperbraid.com/laminated-copper-connectors",
+    "https://www.ghanshyamindustries.com/copper_connector_parts.html",
+    "https://www.a-lug.com/copper-tube-connector/",
+    "https://www.alliedmarketresearch.com/copper-alloy-connector-market-A325891",
+    "https://www.socialmediaasia.com/2025/11/25/copper-alloy-connector-market-to-reach-24-9-billion-by-2033-at-6-5-cagr-allied-market-research/"
+  ]
+}

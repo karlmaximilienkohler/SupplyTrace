@@ -1,0 +1,127 @@
+{
+  "commodity": "Aluminum Alloy",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 40.0,
+      "ownership_note": "Significant foreign investments in production facilities.",
+      "notes": "China dominates the global aluminum alloy market, with extensive production capabilities."
+    },
+    {
+      "country": "Australia",
+      "share": 15.0,
+      "ownership_note": "Major mines owned by foreign companies.",
+      "notes": "Australia is a key supplier of bauxite, the primary raw material for aluminum production."
+    },
+    {
+      "country": "Canada",
+      "share": 10.0,
+      "ownership_note": "Aluminum production facilities often owned by multinational corporations.",
+      "notes": "Canada has a strong aluminum production sector, particularly in Quebec."
+    },
+    {
+      "country": "United States",
+      "share": 8.0,
+      "ownership_note": "Domestic production supplemented by imports.",
+      "notes": "The U.S. has significant aluminum production but also relies on imports."
+    },
+    {
+      "country": "Russia",
+      "share": 7.0,
+      "ownership_note": "State-controlled companies dominate the sector.",
+      "notes": "Russia is a significant player in the aluminum market, though geopolitical tensions affect trade."
+    },
+    {
+      "country": "Brazil",
+      "share": 5.0,
+      "ownership_note": "Mining operations often controlled by foreign entities.",
+      "notes": "Brazil has substantial bauxite reserves and aluminum production."
+    },
+    {
+      "country": "United Arab Emirates",
+      "share": 3.0,
+      "ownership_note": "Investment from international firms in local production.",
+      "notes": "UAE has rapidly developed its aluminum production capabilities."
+    },
+    {
+      "country": "India",
+      "share": 2.0,
+      "ownership_note": "Growing sector with both domestic and foreign investments.",
+      "notes": "India is increasing its aluminum production to meet domestic and export demands."
+    },
+    {
+      "country": "Germany",
+      "share": 2.0,
+      "ownership_note": "Strong industrial base with significant imports.",
+      "notes": "Germany is a key player in the European aluminum market."
+    },
+    {
+      "country": "South Africa",
+      "share": 1.0,
+      "ownership_note": "Mining and production often linked to international companies.",
+      "notes": "South Africa has a smaller but notable aluminum production sector."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 25.0,
+      "notes": "The U.S. is a major importer of aluminum alloys for various industries."
+    },
+    {
+      "country": "Germany",
+      "share": 20.0,
+      "notes": "Germany imports significant amounts of aluminum alloys for automotive and manufacturing."
+    },
+    {
+      "country": "Japan",
+      "share": 15.0,
+      "notes": "Japan relies on imports for its aluminum alloy needs, particularly in electronics."
+    },
+    {
+      "country": "India",
+      "share": 10.0,
+      "notes": "India is increasing its imports to support its growing manufacturing sector."
+    },
+    {
+      "country": "South Korea",
+      "share": 8.0,
+      "notes": "South Korea imports aluminum alloys for its electronics and automotive industries."
+    },
+    {
+      "country": "Brazil",
+      "share": 5.0,
+      "notes": "Brazil imports aluminum alloys to supplement its domestic production."
+    },
+    {
+      "country": "United Kingdom",
+      "share": 4.0,
+      "notes": "The UK imports aluminum alloys for various industrial applications."
+    },
+    {
+      "country": "France",
+      "share": 3.0,
+      "notes": "France imports aluminum alloys for its automotive and aerospace sectors."
+    },
+    {
+      "country": "Italy",
+      "share": 2.0,
+      "notes": "Italy imports aluminum alloys for its manufacturing and design industries."
+    },
+    {
+      "country": "Mexico",
+      "share": 2.0,
+      "notes": "Mexico imports aluminum alloys to support its automotive and manufacturing sectors."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.iqsdirectory.com/aluminum-alloy/",
+    "https://www.bing.com/aclick?ld=e8DUe7qTAOKwo94VUmXqHa4TVUCUyEwTdJJM76604WUJOgWj-A4cKdK2Sb9BTo7HIe3W0CmfhewhSsJzBKugkIt3MSB5J66PU3bsVi6Btn75aEyLYpjJrFQXd5USUwE--M79SNYZyfy6Kq-SHHDA0_U29O3aG7pAYIZOGUVJ3mwBL00boXnxj4C9ZZiVor9dQx9ArTgA&u=aHR0cHMlM2ElMmYlMmZ3d3cubWFkZS1pbi1jaGluYS5jb20lM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY29udGVudCUzZFg3ODY5ODM1JTI2dXRtX2NhbXBhaWduJTNkNTEyMzQ5MDMlMjZhZGdyb3VwJTNkOTE1NjcyMTc1JTI2dXRtX3Rlcm0lM2RtYWRlJTI1MjBpbiUyNTIwY2hpbmElMjUyMGRpcmVjdCUyNm10cCUzZGJwJTI2bmV0JTNkbyUyNmRldiUzZGMlMjZsb2MlM2QxNjQ1ODAtMTAwJTI2bXNjbGtpZCUzZGI5MDRiOGY2MTI1MjFhYmQzMmU5ZDE0YjRkMWZjNDcz&rlid=b904b8f612521abd32e9d14b4d1fc473",
+    "https://www.bing.com/aclick?ld=e8afZ-GfhvudtRNnzxR9N4uDVUCUwgQ5akkIQYm-pIUjFop5vmsfhi7d_zzRraMg0VgaFpk7V0GSmeqOYdE0eBR5aj8zAblDQeJxyFYqIa9BEOaWGAhKyQB_AiHTXmiI8QTKYEMOxY65JOVAzlfvp9elRAr-v-anStjWBaLa2v77YYumSWLAQA2a6xXlJYkpkVYMthiA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWxpYmFiYS5jb20lMmZ0cmFkZSUyZnNlYXJjaCUzZnRhYiUzZGFsbCUyNlNlYXJjaFRleHQlM2RvdmVyc2VhcytzdXBwbGllciUyNnNyYyUzZHNlbV9iaW5nJTI2ZmllbGQlM2RVRyUyNmZyb20lM2RzZW1fYmluZyUyNmNtcGduJTNkNDg3NTE5NDY3JTI2YWRncnAlM2QxMjM0NzUyOTEyMzI1Njg5JTI2dGd0JTNka3dkLTc3MTcyNTIzOTE3MDM3JTNhbG9jLTE3MCUyNkt3ZElEJTNkNzcxNzI1MjM5MTcwMzclMjZtdGNodHlwJTNkcCUyNmJkbXRjaHR5cCslM2RiYiUyNm50d3JrJTNkbyUyNmRldmljZSUzZGMlMjZjcmVhdGl2ZSUzZDc3MTcyMjAxMjEwMDQzJTI2cDElM2RkZWZhdWx0JTI2cDIlM2RkZWZhdWx0JTI2cDMlM2RkZWZhdWx0JTI2UXVlcnklM2RBbHVtaW51bSUyNTIwQWxsb3klMjUyMHN1cHBsaWVycyUyNTIwQ2hpbmElMjUyMEphcGFuJTI1MjBTb3V0aCUyNTIwS29yZWElMjUyMFRhaXdhbiUyNm1zY2xraWQlM2Q3ZmU0ZjJhYzA2NDUxYTY0ZWM5YjliMTE1OTA4OWM1MA&rlid=7fe4f2ac06451a64ec9b9b1159089c50",
+    "https://www.made-in-china.com/products-search/hot-china-products/Aluminum_Alloys.html",
+    "https://www.yizengpipe.com/aluminum-alloy/",
+    "https://www.alumhm.com/company-profile/"
+  ]
+}

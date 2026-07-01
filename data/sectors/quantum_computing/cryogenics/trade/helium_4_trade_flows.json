@@ -1,0 +1,71 @@
+{
+  "commodity": "Helium-4",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.55,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is the largest producer and exporter of helium, with many state-owned enterprises and private companies operating in the industry."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "ownership_note": "Private companies and government-owned facilities",
+      "notes": "The US is a significant producer of helium, with private companies and government-owned facilities operating in the industry."
+    },
+    {
+      "country": "Russia",
+      "share": 0.1,
+      "ownership_note": "State-owned enterprises",
+      "notes": "Russia is a significant producer of helium, with state-owned enterprises operating in the industry."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "India is a growing producer of helium, with private companies operating in the industry."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.05,
+      "notes": "Other countries, including Canada, Australia, and Brazil, also produce and export helium, but their market share is relatively small."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "The US is the largest importer of helium, with many industries relying on the gas for various applications."
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "notes": "China is a significant importer of helium, with the gas used in various industries, including electronics and aerospace."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant importer of helium, with the gas used in various industries, including electronics and healthcare."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a significant importer of helium, with the gas used in various industries, including electronics and aerospace."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "notes": "Other countries, including Germany, France, and the UK, also import helium, but their market share is relatively small."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Helium",
+    "https://www.intelmarketresearch.com/helium-market-71",
+    "https://www.globalsources.com/manufacturers/helium.html",
+    "https://www.alibaba.com/showroom/manufacture-helium.html",
+    "https://www.Made-in-China.com/manufacturers/helium.html",
+    "https://finance.yahoo.com/news/asp-isotopes-ceo-warns-helium-202706192.html"
+  ]
+}

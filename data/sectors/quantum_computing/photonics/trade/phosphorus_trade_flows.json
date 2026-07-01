@@ -1,0 +1,72 @@
+{
+  "commodity": "Phosphorus (USA \u2014 Chemours)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.25,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a significant producer and exporter of phosphorus, with many domestic and international companies operating in the sector."
+    },
+    {
+      "country": "USA",
+      "share": 0.2,
+      "ownership_note": "Chemours and other domestic companies",
+      "notes": "The USA is a major producer of phosphorus, with Chemours being a leading player in the market."
+    },
+    {
+      "country": "Morocco",
+      "share": 0.15,
+      "ownership_note": "State-owned phosphate mining company, Office Cherifien des Phosphates (OCP)",
+      "notes": "Morocco is a significant producer of phosphorus, with OCP being the largest phosphate mining company in the world."
+    },
+    {
+      "country": "Jordan",
+      "share": 0.1,
+      "ownership_note": "State-owned phosphate mining company, Jordan Phosphate Mines Company (JPMC)",
+      "notes": "Jordan is a smaller but still significant producer of phosphorus, with JPMC being the main phosphate mining company in the country."
+    },
+    {
+      "country": "Tunisia",
+      "share": 0.05,
+      "ownership_note": "State-owned phosphate mining company, Compagnie des Phosphates de Gafsa (CPG)",
+      "notes": "Tunisia is a smaller producer of phosphorus, with CPG being the main phosphate mining company in the country."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China is a significant importer of phosphorus, with many domestic companies using it as a raw material in the production of fertilizers and other chemicals."
+    },
+    {
+      "country": "India",
+      "share": 0.2,
+      "notes": "India is a significant importer of phosphorus, with many domestic companies using it as a raw material in the production of fertilizers and other chemicals."
+    },
+    {
+      "country": "Indonesia",
+      "share": 0.15,
+      "notes": "Indonesia is a smaller but still significant importer of phosphorus, with many domestic companies using it as a raw material in the production of fertilizers and other chemicals."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.1,
+      "notes": "Brazil is a smaller importer of phosphorus, with many domestic companies using it as a raw material in the production of fertilizers and other chemicals."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "notes": "South Korea is a smaller importer of phosphorus, with many domestic companies using it as a raw material in the production of fertilizers and other chemicals."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.bing.com/aclick?ld=e8V0xQf19K_m5ZWVmJAxzCCjVUCUxt98mnCOIP0BtI7llrPTdq0dk1hpjE_FQlAvTUNXYFhfOl0wJjBesJ4r5QpAuKSQRjZKWcxLyZ7_2AfSfIE3uy6lSFfow5xulVHi4DbkqQgUPVZ5c4LLQggNEh1EWVKPQCoPAabn146TNo5r1P6oGIXaNsJabpFO6FkPcBsvAR7A&u=aHR0cHMlM2ElMmYlMmZlbi5tYWRlLWluLWNoaW5hLmNvbSUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jb250ZW50JTNkRjEwNlFDSjklMjZ1dG1fY2FtcGFpZ24lM2Q0NTg0MjAxOTMlMjZhZGdyb3VwJTNkMTE4NzQ3NDQyNjQzMjI3MCUyNnV0bV90ZXJtJTNkbWFudWZhY3R1cmVzJTI1MjBjaGluYSUyNm10cCUzZGJiJTI2bmV0JTNkbyUyNmRldiUzZGMlMjZsb2MlM2QxNjQ1ODAtMTAwJTI2bXNjbGtpZCUzZDE5N2Q4NDE4YzExNTFiY2Q4NDVhZWRhNGI2MzEwMjQw&rlid=197d8418c1151bcd845aeda4b6310240",
+    "https://www.etradeasia.com/manufacturers/",
+    "https://goldenfortuneusa.com/",
+    "https://www.alibaba.com/",
+    "https://asianavigator.com/",
+    "https://www.asianfoodgroup.com/asian-food-wholesale"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "commodity": "High purity copper",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Chile",
+      "share": 0.25,
+      "ownership_note": "State-owned Codelco dominates the copper mining industry in Chile.",
+      "notes": "Chile is the world's largest copper producer, accounting for over 30% of global production."
+    },
+    {
+      "country": "Peru",
+      "share": 0.2,
+      "ownership_note": "Peruvian state-owned mining company, Compa\u00f1\u00eda Minera Antamina, is a major player in the country's copper mining industry.",
+      "notes": "Peru is the second-largest copper producer in the world."
+    },
+    {
+      "country": "China",
+      "share": 0.15,
+      "ownership_note": "Chinese state-owned companies, such as China Molybdenum, have significant investments in copper mining projects around the world.",
+      "notes": "China is a major consumer of copper and has significant investments in copper mining projects."
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "share": 0.1,
+      "ownership_note": "Chinese state-owned companies, such as China Molybdenum, have significant investments in copper mining projects in the DRC.",
+      "notes": "The DRC is a significant producer of copper, with many Chinese state-owned companies operating in the country."
+    },
+    {
+      "country": "Australia",
+      "share": 0.05,
+      "ownership_note": "Australian companies, such as BHP and Rio Tinto, have significant investments in copper mining projects around the world.",
+      "notes": "Australia is a significant producer of copper, with many Australian companies operating in the country."
+    },
+    {
+      "country": "United States",
+      "share": 0.05,
+      "ownership_note": "American companies, such as Freeport-McMoRan, have significant investments in copper mining projects around the world.",
+      "notes": "The United States is a significant producer of copper, with many American companies operating in the country."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China is the world's largest consumer of copper, accounting for over 50% of global demand."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant consumer of copper, with many Japanese companies operating in the electronics and automotive industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a significant consumer of copper, with many South Korean companies operating in the electronics and automotive industries."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "notes": "Germany is a significant consumer of copper, with many German companies operating in the electronics and automotive industries."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "notes": "India is a significant consumer of copper, with many Indian companies operating in the electronics and automotive industries."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Copper",
+    "https://www.linkedin.com/pulse/future-outlook-high-purity-copper-sputtering-target-material-wrroe",
+    "https://www.chmme.com/blog/what-are-the-future-prospects-for-the-development-of-copper-refining-agents-2136743.html",
+    "https://www.xometry.com/resources/materials/what-is-copper/",
+    "https://scienceinsights.org/what-is-copper-cathode-production-purity-uses/",
+    "https://www.beskamold.com/copper-101-vs-110/"
+  ]
+}

@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+data/active_session.json
+data/**/saved_scenarios.json
+data/**/_archive/
+data/**/_ai_scenario_cache/

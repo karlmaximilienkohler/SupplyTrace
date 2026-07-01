@@ -1,0 +1,67 @@
+{
+  "commodity": "Copper wire",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.55,
+      "ownership_note": "State-owned and private enterprises",
+      "notes": "China is home to the world's largest manufacturers of copper wire, with many factories located in provinces such as Xinjiang and Hebei."
+    },
+    {
+      "country": "United States",
+      "share": 0.2,
+      "ownership_note": "Private companies",
+      "notes": "The US has a significant copper wire manufacturing industry, with companies such as Smith, a leading global distributor of electronic components and semiconductors."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.1,
+      "ownership_note": "State-owned and private enterprises",
+      "notes": "Brazil is a significant producer of copper, with many mines located in the country."
+    },
+    {
+      "country": "Peru",
+      "share": 0.05,
+      "ownership_note": "State-owned and private enterprises",
+      "notes": "Peru is also a significant producer of copper, with many mines located in the country."
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "share": 0.05,
+      "ownership_note": "State-owned and private enterprises",
+      "notes": "The DRC is a significant producer of copper, with many mines located in the country."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China is a significant importer of copper wire, with many companies using it in their manufacturing processes."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "notes": "The US is also a significant importer of copper wire, with many companies using it in their manufacturing processes."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant importer of copper wire, with many companies using it in their manufacturing processes."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is also a significant importer of copper wire, with many companies using it in their manufacturing processes."
+    }
+  ],
+  "sources_consulted": [
+    "http://www.trade193.com/Copper-Wire/",
+    "https://www.3ltechtextile.com/copper-coated-copper-wire/",
+    "https://www.tradeboss.com/default.cgi/action/viewcompanies/manufacturers_exporters_wholesalers_sellers/copper+wires/",
+    "https://www.fizzflowdistributor.com/copper-wire-distributors/",
+    "https://www.fizzflowdistributor.com/copper-wire-cable-distributor/",
+    "https://www.ec21.com/companies/copper-wire.html"
+  ]
+}

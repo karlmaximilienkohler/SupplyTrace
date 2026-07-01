@@ -1,0 +1,72 @@
+{
+  "commodity": "Copper Braids",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.35,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a significant producer of copper and has a well-established manufacturing base for copper braids."
+    },
+    {
+      "country": "Germany",
+      "share": 0.2,
+      "ownership_note": "Private companies",
+      "notes": "Germany has a strong electrical engineering industry and is home to several major copper braid manufacturers."
+    },
+    {
+      "country": "India",
+      "share": 0.15,
+      "ownership_note": "Private companies",
+      "notes": "India has a growing electrical engineering industry and is a significant producer of copper braids."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "ownership_note": "Private companies",
+      "notes": "South Korea has a well-established electronics industry and is a significant producer of copper braids."
+    },
+    {
+      "country": "Japan",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Japan has a strong electronics industry and is a significant producer of copper braids."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "The US is a significant market for copper braids, driven by demand from the electrical engineering and electronics industries."
+    },
+    {
+      "country": "Europe",
+      "share": 0.25,
+      "notes": "Europe is a significant market for copper braids, driven by demand from the electrical engineering and electronics industries."
+    },
+    {
+      "country": "China",
+      "share": 0.15,
+      "notes": "China is a significant importer of copper braids, driven by demand from the electrical engineering and electronics industries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "notes": "Japan is a significant importer of copper braids, driven by demand from the electronics industry."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "notes": "South Korea is a significant importer of copper braids, driven by demand from the electronics industry."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.bing.com/aclick?ld=e8Ig50snv27z2vH9o2ynVi-DVUCUzCsnh4XTVzhiySPwcdYVf8rmwQSKLpymC8cMzn4MKHXfnMor4fT0kxVUIKfwsLRF7FieB4t1BVVj0lyn0FpRsJhYMCaMSzkgZJdM_F1WyGm4Ew4GR9If4OXwph5MJqen2Ba8h69_iCiUmnwlebVQV1W-lYcXAAS6mlFuY2P3Ctmw&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWxpYmFiYS5jb20lMmZ0cmFkZSUyZnNlYXJjaCUzZnRhYiUzZGFsbCUyNlNlYXJjaFRleHQlM2RmaW5kK3N1cHBsaWVycyUyNnNyYyUzZHNlbV9iaW5nJTI2ZmllbGQlM2RVRyUyNmZyb20lM2RzZW1fYmluZyUyNmNtcGduJTNkNDg3NTE5NDY3JTI2YWRncnAlM2QxMjM0NzUyOTEyMzI1Njg5JTI2dGd0JTNka3dkLTc3MTcyNTIzOTEwNTg0JTNhbG9jLTE3MCUyNkt3ZElEJTNkNzcxNzI1MjM5MTA1ODQlMjZtdGNodHlwJTNkcCUyNmJkbXRjaHR5cCslM2RiYiUyNm50d3JrJTNkbyUyNmRldmljZSUzZGMlMjZjcmVhdGl2ZSUzZDc3MTcyMjAxMjEwMDQzJTI2cDElM2RkZWZhdWx0JTI2cDIlM2RkZWZhdWx0JTI2cDMlM2RkZWZhdWx0JTI2UXVlcnklM2RHbG9iYWwlMjUyMG1hbnVmYWN0dXJlcnMlMjUyMG9mJTI1MjBDb3BwZXIlMjUyMEJyYWlkcyUyNTNBJTI2bXNjbGtpZCUzZGQ0NWEzOGMwMjU5OTFkMTI0MGIzNTE3Y2IyM2ZhNGI5&rlid=d45a38c025991d1240b3517cb23fa4b9",
+    "https://www.globalinforesearch.com/reports/1792740/copper-flexible-braids",
+    "https://www.qyresearch.com/reports/5403712/copper-flexible-braids",
+    "https://www.linkedin.com/pulse/copper-flexible-braids-market-brands-supply-chain-aacle",
+    "https://www.accio.com/supplier/copper-braid-manufacturers",
+    "https://dataintelo.com/report/global-copper-flexible-braids-market"
+  ]
+}

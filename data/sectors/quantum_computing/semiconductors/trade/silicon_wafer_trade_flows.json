@@ -1,0 +1,83 @@
+{
+  "commodity": "Silicon Wafer",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "ownership_note": "Significant foreign investment in production facilities.",
+      "notes": "China is a major player in silicon wafer production, with a large domestic market and export capacity."
+    },
+    {
+      "country": "Japan",
+      "share": 0.25,
+      "ownership_note": "Home to leading manufacturers like Sumco.",
+      "notes": "Japan has a strong reputation for high-quality silicon wafers."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "ownership_note": "Major companies involved in semiconductor manufacturing.",
+      "notes": "South Korea's exports are driven by its advanced technology sector."
+    },
+    {
+      "country": "Germany",
+      "share": 0.1,
+      "ownership_note": "Strong engineering and manufacturing base.",
+      "notes": "Germany is known for precision manufacturing in the semiconductor industry."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.05,
+      "ownership_note": "Key player in semiconductor supply chains.",
+      "notes": "Taiwan's semiconductor industry is crucial for global supply."
+    },
+    {
+      "country": "United States",
+      "share": 0.05,
+      "ownership_note": "Home to several leading semiconductor companies.",
+      "notes": "The U.S. has a smaller share in wafer exports compared to Asia."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.3,
+      "notes": "Largest market for silicon wafers, driven by semiconductor manufacturing."
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "notes": "Significant imports to support domestic production and technology."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "notes": "Strong demand for high-quality wafers in automotive and industrial applications."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "notes": "Imports to supplement domestic production."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "Imports to support its semiconductor industry."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.1,
+      "notes": "Imports to meet the needs of its semiconductor fabrication plants."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.eetasia.com/global-silicon-wafer-shipments-up-3-yoy-in-2q-2025/",
+    "https://waferpro.com/",
+    "https://www.giiresearch.com/report/tbrc1527137-silicon-wafer-global-market-report.html",
+    "https://www.imarcgroup.com/top-silicon-wafer-manufacturing-companies",
+    "https://www.semi.org/en/news-media-press/semi-press-releases/global-silicon-wafer-shipments-projected-to-log-robust-growth-through-2024-semi-reports",
+    "https://www.pvtime.org/2023-worlds-top-20-global-silicon-material-wafer-manufacturers-revealed-by-pvbl/"
+  ]
+}

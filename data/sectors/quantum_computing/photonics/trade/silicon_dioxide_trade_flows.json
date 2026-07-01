@@ -1,0 +1,84 @@
+{
+  "commodity": "Silicon Dioxide (USA \u2014 Corning)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Canada",
+      "share": 0.25,
+      "ownership_note": "Sio is the largest high purity silica resource located in Canada",
+      "notes": "459 mining claims covering over 100,000 hectares of land"
+    },
+    {
+      "country": "USA",
+      "share": 0.2,
+      "ownership_note": "Corning is a major supplier of high-purity quartz",
+      "notes": "Ultra-high-purity quartz is essential for semiconductor chips"
+    },
+    {
+      "country": "Australia",
+      "share": 0.15,
+      "ownership_note": "Barrack Mines Ltd acquired the Western Australian Silicon Project",
+      "notes": "Construction of the silicon smelter began in 1988"
+    },
+    {
+      "country": "North Carolina (USA)",
+      "share": 0.1,
+      "ownership_note": "The Overton mine has been in operation since 1927",
+      "notes": "Proven reserves to continue to supply customers well into the future"
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Chinese owner of a Brazilian mine",
+      "notes": "Uncertain market share due to lack of information"
+    },
+    {
+      "country": "China",
+      "share": 0.05,
+      "ownership_note": "Chinese owner of a Brazilian mine",
+      "notes": "Uncertain market share due to lack of information"
+    },
+    {
+      "country": "Golden, British Columbia (Canada)",
+      "share": 0.05,
+      "ownership_note": "Rover Critical Minerals Signs LOI to Acquire High Purity Silica Asset",
+      "notes": "Average 99.6% SiO2"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "Major importer of high-purity quartz for semiconductor chips"
+    },
+    {
+      "country": "USA",
+      "share": 0.2,
+      "notes": "Importing high-purity quartz for various applications"
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Importing high-purity quartz for semiconductor and glass production"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "Importing high-purity quartz for semiconductor and display production"
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "notes": "Importing high-purity quartz for various industrial applications"
+    }
+  ],
+  "sources_consulted": [
+    "https://www.siosilica.com/",
+    "https://us.metoree.com/categories/6581/",
+    "https://www.simcoa.com.au/history-silicon",
+    "https://www.techspot.com/news/102377-two-mines-north-carolina-key-suppliers-world-semiconductor.html",
+    "https://www.simplot.com/silica-sand",
+    "https://www.juniorminingnetwork.com/junior-miner-news/press-releases/2614-tsx-venture/rovr/164649-rover-critical-minerals-signs-loi-to-acquire-high-purity-silica-asset-with-average-99-6-sio2-in-golden-british-columbia.html"
+  ]
+}

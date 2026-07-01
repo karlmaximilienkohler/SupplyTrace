@@ -1,0 +1,78 @@
+{
+  "commodity": "Phosphorus",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.45,
+      "ownership_note": "Significant control over phosphorite resources.",
+      "notes": "Dominates global production and export of phosphorus compounds."
+    },
+    {
+      "country": "Morocco",
+      "share": 0.2,
+      "ownership_note": "OCP Group is a major player.",
+      "notes": "Holds large reserves of phosphate rock."
+    },
+    {
+      "country": "United States",
+      "share": 0.15,
+      "ownership_note": "Major companies include The Mosaic Company.",
+      "notes": "Significant producer of phosphate fertilizers."
+    },
+    {
+      "country": "Russia",
+      "share": 0.1,
+      "ownership_note": "State-controlled resources.",
+      "notes": "Emerging player in phosphorus exports."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Mining operations often controlled by foreign entities.",
+      "notes": "Growing market for phosphorus fertilizers."
+    },
+    {
+      "country": "Other",
+      "share": 0.05,
+      "ownership_note": "Includes various smaller producers.",
+      "notes": "Collective share from multiple countries."
+    }
+  ],
+  "importers": [
+    {
+      "country": "India",
+      "share": 0.25,
+      "notes": "High demand for fertilizers and agricultural inputs."
+    },
+    {
+      "country": "United States",
+      "share": 0.2,
+      "notes": "Imports significant quantities for agricultural use."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.15,
+      "notes": "Major importer due to agricultural needs."
+    },
+    {
+      "country": "European Union",
+      "share": 0.2,
+      "notes": "Collective demand from member states for fertilizers."
+    },
+    {
+      "country": "China",
+      "share": 0.1,
+      "notes": "Imports to supplement domestic production."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.trademo.com/manufacturers/phosphorus",
+    "https://us.metoree.com/categories/7139/",
+    "https://www.persistencemarketresearch.com/blog/demand-for-packaged-foods-and-drinks-to-drive-the-food-grade-phosphoric-acid-market.asp",
+    "https://www.thomasnet.com/suppliers/usa/phosphorus-57790602",
+    "https://www.phosphorusplatform.eu/espp-members",
+    "https://www.marketsandmarkets.com/ResearchInsight/phosphates-market.asp"
+  ]
+}

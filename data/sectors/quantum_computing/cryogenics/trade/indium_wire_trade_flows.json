@@ -1,0 +1,83 @@
+{
+  "commodity": "Indium wire",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.35,
+      "ownership_note": "Indium Corporation has factories located in China",
+      "notes": "Indium Corporation is a global leader in the manufacture of advanced electronics assembly materials"
+    },
+    {
+      "country": "USA",
+      "share": 0.2,
+      "ownership_note": "GOODFELLOW CAMBRIDGE LTD, SIGMA ALDRICH CO LLC, and Sierra Harness Manufacturing LLC are US-based suppliers",
+      "notes": "GOODFELLOW CAMBRIDGE LTD, SIGMA ALDRICH CO LLC, and Sierra Harness Manufacturing LLC accounted for 59% of World total Indium Wire exports"
+    },
+    {
+      "country": "Malaysia",
+      "share": 0.1,
+      "ownership_note": "Indium has a factory located in Malaysia",
+      "notes": "Indium has global technical support and factories located in Malaysia, Singapore, South Korea, the United Kingdom, and the USA"
+    },
+    {
+      "country": "Singapore",
+      "share": 0.05,
+      "ownership_note": "Indium has a factory located in Singapore",
+      "notes": "Indium has global technical support and factories located in Malaysia, Singapore, South Korea, the United Kingdom, and the USA"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "Indium has a factory located in South Korea",
+      "notes": "Indium has global technical support and factories located in Malaysia, Singapore, South Korea, the United Kingdom, and the USA"
+    },
+    {
+      "country": "United Kingdom",
+      "share": 0.05,
+      "ownership_note": "Indium has a factory located in the United Kingdom",
+      "notes": "Indium has global technical support and factories located in Malaysia, Singapore, South Korea, the United Kingdom, and the USA"
+    },
+    {
+      "country": "Other",
+      "share": 0.2,
+      "notes": "Other suppliers, including Dowa Metals & Mining Co., Ltd., Advanced Refractory Metals, JUFENG, and Hebei Videng Biotechnology Co., Ltd."
+    }
+  ],
+  "importers": [
+    {
+      "country": "USA",
+      "share": 0.4,
+      "notes": "The USA is a significant importer of Indium wire, with many suppliers exporting to the country"
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is also a significant importer of Indium wire, with many suppliers exporting to the country"
+    },
+    {
+      "country": "Germany",
+      "share": 0.1,
+      "notes": "Germany is another significant importer of Indium wire, with many suppliers exporting to the country"
+    },
+    {
+      "country": "Holland",
+      "share": 0.05,
+      "notes": "Holland is also an importer of Indium wire, with some suppliers exporting to the country"
+    },
+    {
+      "country": "Other",
+      "share": 0.3,
+      "notes": "Other importers, including the UK, Malaysia, and Singapore"
+    }
+  ],
+  "sources_consulted": [
+    "https://www.volza.com/p/indium-wire/manufacturers/",
+    "https://www.researchandmarkets.com/articles/key-companies-in-indium",
+    "https://www.futureelectronics.com/m/indium",
+    "https://matrixelectrotech.com/manufacturers/indium",
+    "https://www.digikey.com/en/supplier-centers/indium-corporation",
+    "https://indiumwire.en.made-in-china.com/"
+  ]
+}

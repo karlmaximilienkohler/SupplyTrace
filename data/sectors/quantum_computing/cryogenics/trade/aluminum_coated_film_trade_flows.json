@@ -1,0 +1,71 @@
+{
+  "commodity": "Aluminum coated film",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.32,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a significant producer of aluminum and has a large market for aluminum coated film, with companies like Henan Zhongxin Aluminum Co. Ltd. and UNIVACCO Foils having a presence in the country."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "ownership_note": "Private companies like Dunmore, US Foils, Inc., and Alufoil Products Co.",
+      "notes": "The US has a significant market for aluminum coated film, with companies like Dunmore and US Foils, Inc. being major players in the industry."
+    },
+    {
+      "country": "United Kingdom",
+      "share": 0.15,
+      "ownership_note": "Private companies like Ultimet Films Limited",
+      "notes": "The UK has a smaller but significant market for aluminum coated film, with companies like Ultimet Films Limited being major players in the industry."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.08,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "Brazil has a growing market for aluminum coated film, with companies like All Foils having a presence in the country."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.2,
+      "notes": "Other countries like India, Japan, and South Korea also have a presence in the aluminum coated film market, but their market share is smaller compared to the top four countries."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China is a significant importer of aluminum coated film, with companies like Henan Zhongxin Aluminum Co. Ltd. and UNIVACCO Foils having a presence in the country."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "notes": "The US is also a significant importer of aluminum coated film, with companies like Dunmore and US Foils, Inc. being major players in the industry."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant importer of aluminum coated film, with companies like All Foils having a presence in the country."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is also a significant importer of aluminum coated film, with companies like Ultimet Films Limited having a presence in the country."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "notes": "Other countries like India, Brazil, and the UK also import aluminum coated film, but their market share is smaller compared to the top four countries."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.globalinforesearch.com/reports/2446301/aluminum-coated-plastic-film",
+    "https://www.researchandmarkets.com/reports/6157672/aluminum-coated-composite-film-market-global",
+    "https://www.dunmore.com/",
+    "https://www.alufilm.com/",
+    "https://ultimetfilms.com/",
+    "https://www.qyresearch.com/reports/3493682/aluminum-coated-plastic-film"
+  ]
+}

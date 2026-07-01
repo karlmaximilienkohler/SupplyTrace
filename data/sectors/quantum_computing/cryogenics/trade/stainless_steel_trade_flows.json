@@ -1,0 +1,127 @@
+{
+  "commodity": "stainless steel",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.35,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is the world's largest producer and exporter of stainless steel, with many state-owned enterprises and private companies operating in the industry."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "ownership_note": "Private companies",
+      "notes": "Japan is a significant producer and exporter of stainless steel, with companies like Nippon Steel and JFE Steel operating in the industry."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "ownership_note": "Private companies",
+      "notes": "South Korea is a major producer and exporter of stainless steel, with companies like POSCO and Hyundai Steel operating in the industry."
+    },
+    {
+      "country": "India",
+      "share": 0.1,
+      "ownership_note": "Private companies",
+      "notes": "India is a growing producer and exporter of stainless steel, with companies like Jindal Steel and Tata Steel operating in the industry."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Germany is a significant producer and exporter of stainless steel, with companies like ThyssenKrupp and Salzgitter operating in the industry."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.03,
+      "ownership_note": "Private companies",
+      "notes": "Brazil is a minor producer and exporter of stainless steel, with companies like Gerdau and Usiminas operating in the industry."
+    },
+    {
+      "country": "Russia",
+      "share": 0.02,
+      "ownership_note": "State-owned enterprises",
+      "notes": "Russia is a minor producer and exporter of stainless steel, with state-owned enterprises operating in the industry."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.01,
+      "ownership_note": "Private companies",
+      "notes": "Taiwan is a minor producer and exporter of stainless steel, with companies like China Steel and Tung Ho Steel operating in the industry."
+    },
+    {
+      "country": "Italy",
+      "share": 0.01,
+      "ownership_note": "Private companies",
+      "notes": "Italy is a minor producer and exporter of stainless steel, with companies like Acerinox and Outokumpu operating in the industry."
+    },
+    {
+      "country": "Sweden",
+      "share": 0.01,
+      "ownership_note": "Private companies",
+      "notes": "Sweden is a minor producer and exporter of stainless steel, with companies like Outokumpu and SSAB operating in the industry."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "The US is a significant importer of stainless steel, with major consumers in the automotive, aerospace, and construction industries."
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "notes": "China is a significant importer of stainless steel, with major consumers in the construction, automotive, and consumer goods industries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant importer of stainless steel, with major consumers in the automotive, aerospace, and electronics industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a significant importer of stainless steel, with major consumers in the automotive, electronics, and construction industries."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "notes": "Germany is a minor importer of stainless steel, with major consumers in the automotive, aerospace, and construction industries."
+    },
+    {
+      "country": "India",
+      "share": 0.03,
+      "notes": "India is a minor importer of stainless steel, with major consumers in the construction, automotive, and consumer goods industries."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.02,
+      "notes": "Brazil is a minor importer of stainless steel, with major consumers in the construction, automotive, and consumer goods industries."
+    },
+    {
+      "country": "Russia",
+      "share": 0.01,
+      "notes": "Russia is a minor importer of stainless steel, with major consumers in the construction, automotive, and consumer goods industries."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.01,
+      "notes": "Taiwan is a minor importer of stainless steel, with major consumers in the electronics, automotive, and construction industries."
+    },
+    {
+      "country": "Italy",
+      "share": 0.01,
+      "notes": "Italy is a minor importer of stainless steel, with major consumers in the construction, automotive, and consumer goods industries."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.bing.com/aclick?ld=e8uMfwFM1oOKGyy-eodFg16zVUCUz1MN5RlguFIJPx8pga9fwXjGR1BXTun50gQAFen8sV8QS7kfmmEul0OsFhrM-On3JW8GeNIDNNdKwcExlHHOFClxTqZ4h9qe6EtS5DKuisFA6ZnnxroomxU1z_HjFEW6sYjzAxTrbcUzkW1t-Q2cFSoHoeoZlHun5bbe9_omkCyw&u=aHR0cHMlM2ElMmYlMmZ3d3cub3V0b2t1bXB1LmNvbSUyZnByb2R1Y3RzJTNmbXNjbGtpZCUzZGY2ZWZiMTcxOTU3YzEwZTg3Zjk3ZDhjZDA5YTM0YWUzJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkQ29udGludW91cyUyNTIwU0VNJTI1MjAtJTI1MjBTdGFpbmxlc3MlMjUyMFN0ZWVsJTI1MjBHZW5lcmljJTI1MjAtJTI1MjBFTkclMjZ1dG1fdGVybSUzZHNzJTI1MjBzdGFpbmxlc3MlMjUyMHN0ZWVsJTI2dXRtX2NvbnRlbnQlM2RTdGFpbmxlc3MlMjUyMFN0ZWVsJTI1MjBHZW5lcmlj&rlid=f6efb171957c10e87f97d8cd09a34ae3",
+    "https://kongfangmetal.com/top-10-stainless-steel-manufacturers-2025/",
+    "https://www.huaxiao-alloy.com/blog/top-10-stainless-steel-manufacturer/",
+    "https://jianglinsteel.com/the-best-10-stainless-steel-manufacturers-in-the-world/",
+    "https://ssalloy-steel.com/blog/top-9-stainless-steel-manufacturers-globally-industry-leaders-and-innovations/",
+    "https://www.fortunebusinessinsights.com/blog/top-stainless-steel-manufacturers-10885"
+  ]
+}

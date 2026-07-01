@@ -1,0 +1,121 @@
+{
+  "commodity": "Steel",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.35,
+      "ownership_note": "State-owned and private companies",
+      "notes": "China Baowu Group, HBIS Group, and other major steel producers"
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "ownership_note": "State-owned and private companies",
+      "notes": "NSSMC Group, Nippon Steel Trading Corporation"
+    },
+    {
+      "country": "India",
+      "share": 0.15,
+      "ownership_note": "State-owned and private companies",
+      "notes": "Tata Steel Group"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "ownership_note": "State-owned and private companies",
+      "notes": "Hyundai Steel Company"
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Asian Steel Group Co., Limited, GMTC"
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Indo-Asia, other steel traders"
+    },
+    {
+      "country": "United States",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Nucor Corporation, Midwest Steel Supply"
+    },
+    {
+      "country": "Russia",
+      "share": 0.05,
+      "ownership_note": "State-owned companies",
+      "notes": "Other steel producers"
+    },
+    {
+      "country": "Kazakhstan",
+      "share": 0.05,
+      "ownership_note": "State-owned companies",
+      "notes": "Other steel producers"
+    }
+  ],
+  "importers": [
+    {
+      "country": "Vietnam",
+      "share": 0.25,
+      "notes": "Major steel importer in Southeast Asia"
+    },
+    {
+      "country": "India",
+      "share": 0.2,
+      "notes": "Large steel market in Asia"
+    },
+    {
+      "country": "Bangladesh",
+      "share": 0.15,
+      "notes": "Growing steel market in South Asia"
+    },
+    {
+      "country": "Pakistan",
+      "share": 0.1,
+      "notes": "Steel market in South Asia"
+    },
+    {
+      "country": "Thailand",
+      "share": 0.05,
+      "notes": "Steel market in Southeast Asia"
+    },
+    {
+      "country": "Singapore",
+      "share": 0.05,
+      "notes": "Steel market in Southeast Asia"
+    },
+    {
+      "country": "Malaysia",
+      "share": 0.05,
+      "notes": "Steel market in Southeast Asia"
+    },
+    {
+      "country": "Europe",
+      "share": 0.1,
+      "notes": "Large steel market in the region"
+    },
+    {
+      "country": "United States",
+      "share": 0.05,
+      "notes": "Steel market in North America"
+    },
+    {
+      "country": "South America",
+      "share": 0.05,
+      "notes": "Steel market in the region"
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/List_of_steel_producers",
+    "https://midweststeelsupply.org/article/top-10-steel-companies-in-the-world-2024-2025-updated-list/",
+    "https://worldsteel.org/data/world-steel-in-figures/world-steel-in-figures-2025/",
+    "https://gmk.center/en/infographic/top-30-largest-steel-producers-in-the-world-industry-leaders-in-2024/",
+    "https://underthehardhat.org/top-10-global-steel-companies/",
+    "https://www.metalbook.com/blogs/top-10-largest-steel-producing-companies-in-the-world/"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "commodity": "Gallium",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.7,
+      "ownership_note": "Significant domestic production; foreign investments in mining.",
+      "notes": "China dominates the gallium market, controlling a large portion of global supply."
+    },
+    {
+      "country": "Germany",
+      "share": 0.1,
+      "ownership_note": "Local production with some foreign investments.",
+      "notes": "Germany is a key player in the European market for gallium."
+    },
+    {
+      "country": "United States",
+      "share": 0.08,
+      "ownership_note": "Domestic production with reliance on imports.",
+      "notes": "The U.S. has significant reserves but imports a portion of its gallium."
+    },
+    {
+      "country": "Japan",
+      "share": 0.05,
+      "ownership_note": "Manufacturing and processing capabilities.",
+      "notes": "Japan is a notable supplier in the Asian market."
+    },
+    {
+      "country": "Canada",
+      "share": 0.04,
+      "ownership_note": "Mining operations with some foreign ownership.",
+      "notes": "Canada is emerging as a supplier due to its critical minerals strategy."
+    },
+    {
+      "country": "Australia",
+      "share": 0.03,
+      "ownership_note": "Local production with foreign investments.",
+      "notes": "Australia is focusing on gallium as part of its critical minerals strategy."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "Major consumer of gallium for electronics and quantum computing."
+    },
+    {
+      "country": "Germany",
+      "share": 0.2,
+      "notes": "Significant demand for high-tech applications."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Strong market for electronics and optoelectronics."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "Growing demand in semiconductor manufacturing."
+    },
+    {
+      "country": "China",
+      "share": 0.05,
+      "notes": "Imports gallium for specific high-tech applications despite being a major exporter."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "notes": "Emerging market for gallium in electronics."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.virginengineers.com/gallium-manufacturer-supplier.html",
+    "https://www.Made-in-China.com/manufacturers-directory/item3/Gallium-1.html",
+    "https://www.sohoinchina.com/where-to-buy-gallium-metal/",
+    "https://www.tuocaimetals.com/showroom/6n-gallium/",
+    "https://www.ec21.com/ec-market/gallium.html?isGroupList=N",
+    "https://www.chemicalbook.com/ProdSupplierGNCB1208001_EN.htm"
+  ]
+}

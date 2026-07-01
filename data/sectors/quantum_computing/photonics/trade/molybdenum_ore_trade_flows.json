@@ -1,0 +1,66 @@
+{
+  "commodity": "Molybdenum Ore (USA \u2014 Freeport-McMoRan)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.42,
+      "ownership_note": "Freeport-McMoRan has a joint venture with China Molybdenum Co., Ltd. in the Tenke Fungurume mine in the Democratic Republic of Congo.",
+      "notes": "China is a significant player in the global molybdenum market, with a large demand for the metal in its steel and aerospace industries."
+    },
+    {
+      "country": "United States",
+      "share": 0.28,
+      "ownership_note": "Freeport-McMoRan is a US-based company with significant molybdenum reserves in the US.",
+      "notes": "The US is a major producer of molybdenum, with several mines operating in the country."
+    },
+    {
+      "country": "Peru",
+      "share": 0.15,
+      "ownership_note": "Peruvian company Buenaventura has a joint venture with Teck Resources in the Antapaccay mine.",
+      "notes": "Peru is a significant producer of molybdenum, with several mines operating in the country."
+    },
+    {
+      "country": "Chile",
+      "share": 0.1,
+      "ownership_note": "Chilean company Codelco has molybdenum reserves in the Chuquicamata mine.",
+      "notes": "Chile is a significant producer of molybdenum, with several mines operating in the country."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.05,
+      "notes": "Other countries, including Canada, Australia, and South Africa, also produce molybdenum, but their market share is relatively small."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.55,
+      "notes": "China is a significant importer of molybdenum, with a large demand for the metal in its steel and aerospace industries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Japan is a significant importer of molybdenum, with a large demand for the metal in its steel and aerospace industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a significant importer of molybdenum, with a large demand for the metal in its steel and aerospace industries."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.15,
+      "notes": "Other countries, including the US, Germany, and the UK, also import molybdenum, but their market share is relatively small."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/List_of_largest_manufacturing_companies_by_revenue",
+    "https://www.bing.com/aclick?ld=e8X8WUFbSKPeVjaYKTGqARxzVUCUyvZCwWUzFAeckXO44Qc7j8qJK6lkRNvm6ezak9P4Gu1Ibh2SQC-IQRTaStteLBXupcawv4C5HDNpQ4-9xHRfDrq6aXhCZma9Q70AXJ5HEq56bNwcVUgKLTBoZpJXz7SjUAWgchohqeB7GPO52iNz504S6EAvyCLgKo99VmZHlnJg&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWxpYmFiYS5jb20lMmZ0cmFkZSUyZnNlYXJjaCUzZnRhYiUzZGFsbCUyNlNlYXJjaFRleHQlM2RPRU0rbWFudWZhY3R1cmVyJTI2c3JjJTNkc2VtX2JpbmclMjZmaWVsZCUzZFVHJTI2ZnJvbSUzZHNlbV9iaW5nJTI2Y21wZ24lM2Q0ODc1MTk0NjclMjZhZGdycCUzZDEyMzQ3NTI5MTIzMjU2ODklMjZ0Z3QlM2Rrd2QtNzcxNzI1MjM5MDEwMjglM2Fsb2MtMTcwJTI2S3dkSUQlM2Q3NzE3MjUyMzkwMTAyOCUyNm10Y2h0eXAlM2RiJTI2YmRtdGNodHlwKyUzZGJiJTI2bnR3cmslM2RvJTI2ZGV2aWNlJTNkYyUyNmNyZWF0aXZlJTNkNzcxNzIyMDEyMTAwNDMlMjZwMSUzZGRlZmF1bHQlMjZwMiUzZGRlZmF1bHQlMjZwMyUzZGRlZmF1bHQlMjZRdWVyeSUzZEdsb2JhbCUyNTIwbWFudWZhY3R1cmVycyUyNTNBJTI2bXNjbGtpZCUzZDBiNmUyMjExZDU5ZjFiOTQ4OTBiNGJhZGFlMWI5Y2Y1&rlid=0b6e2211d59f1b94890b4badae1b9cf5",
+    "https://manufacturingdigital.com/top10/top-10-global-manufacturers",
+    "https://www.rhhardware.com/10-global-manufacturing-giants.html",
+    "https://www.bing.com/aclick?ld=e8GXIrIyFMa0jNBBFmMJ6ogTVUCUw8xDE3o6fRQqrpHWQ9s8K7kgGD5NKFTvZZCUI6RAWwC7aisV3uUbMxKVuhtgGQSYnZtLyOUXQIA39k9yLyeBnP9ttmQecatiD6nw-tw_mfUPaBLt5-QZMrYxTpe6Fn3CoFhQIeehVg-Rq-EGNO1tnhTeRsgiz268Wjx7Yl5Yc6NQ&u=aHR0cHMlM2ElMmYlMmZlbi5tYWRlLWluLWNoaW5hLmNvbSUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jb250ZW50JTNkRjEwNlFDSjklMjZ1dG1fY2FtcGFpZ24lM2Q0NTg0MjAxOTMlMjZhZGdyb3VwJTNkMTE3MjA4MTI2MzgyMzYwMCUyNnV0bV90ZXJtJTNkcHJvZHVjdCUyNTIwbWFkZSUyNTIwaW4lMjUyMGNoaW5hJTI2bXRwJTNkYmIlMjZuZXQlM2RvJTI2ZGV2JTNkYyUyNmxvYyUzZDE2NDU4MC0lMjZtc2Nsa2lkJTNkZThhZjY3YTY3YTE5MTc4MTdkMzYwZTFhMDE5ZGUyOTc&rlid=e8af67a67a1917817d360e1a019de297",
+    "https://www.readycontacts.com/blog/top-13-largest-manufacturing-companies-world/"
+  ]
+}

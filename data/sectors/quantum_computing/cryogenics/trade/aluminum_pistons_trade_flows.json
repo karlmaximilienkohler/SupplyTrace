@@ -1,0 +1,83 @@
+{
+  "commodity": "Aluminum pistons",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.42,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a major producer of aluminum and has a well-established manufacturing base for pistons."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "ownership_note": "Multinational corporations and private companies",
+      "notes": "The US has a significant presence in the global piston market, with many major manufacturers based there."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "ownership_note": "Multinational corporations and private companies",
+      "notes": "Japan is a major producer of high-performance pistons, particularly for the automotive industry."
+    },
+    {
+      "country": "Germany",
+      "share": 0.08,
+      "ownership_note": "Multinational corporations and private companies",
+      "notes": "Germany has a strong presence in the global piston market, with many major manufacturers based there."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "Multinational corporations and private companies",
+      "notes": "South Korea is a significant producer of pistons, particularly for the automotive industry."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "India is a growing producer of pistons, with many domestic manufacturers emerging in recent years."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.35,
+      "notes": "The US is a significant importer of aluminum pistons, particularly for the automotive industry."
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "notes": "China is a major importer of high-performance pistons, particularly for the aerospace and defense industries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant importer of pistons, particularly for the automotive industry."
+    },
+    {
+      "country": "Germany",
+      "share": 0.1,
+      "notes": "Germany is a significant importer of pistons, particularly for the automotive and industrial equipment industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "notes": "South Korea is a growing importer of pistons, particularly for the automotive industry."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "notes": "Brazil is a significant importer of pistons, particularly for the agricultural and construction equipment industries."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.alibaba.com/showroom/forged-piston-75mm.html",
+    "https://www.alibaba.com/showroom/yanmar-4tnv88-piston.html",
+    "https://www.alibaba.com/showroom/beryllium-piston.html",
+    "https://www.alibaba.com/product-insights/car-pistons-s.html",
+    "https://www.alibaba.com/showroom/1zz-piston.html",
+    "https://www.alibaba.com/showroom/toyota-vitz-piston.html"
+  ]
+}

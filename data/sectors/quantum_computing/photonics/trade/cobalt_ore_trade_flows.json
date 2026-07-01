@@ -1,0 +1,49 @@
+{
+  "commodity": "Cobalt Ore (Democratic Republic of Congo \u2014 Glencore)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Democratic Republic of Congo",
+      "share": 0.74,
+      "ownership_note": "Glencore (75%) and G\u00e9camines (25%)",
+      "notes": "Kamoto Copper Company (KCC) is a copper and cobalt producer in the DRC, jointly owned by Glencore and G\u00e9camines."
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "ownership_note": "Chinese state-owned enterprises and policy banks control roughly 80% of cobalt output in the DRC",
+      "notes": "Chinese companies control 72% of the cobalt and copper mines in the DRC"
+    },
+    {
+      "country": "Indonesia",
+      "share": 0.02,
+      "notes": "The DRC plans to partner with Indonesia to manage global supply and impose export quotas on cobalt"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.04,
+      "notes": "Remaining industrial production is split among a Swiss-based commodity giant, a Kazakh-backed mining company, and others"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China's dominance in the cobalt supply chain is a result of its investments in mines in the DRC and its long-term transportation investments in surrounding countries like Tanzania and Zambia"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.6,
+      "notes": "Growing demand for cobalt from other countries, including the US, EU, and Japan"
+    }
+  ],
+  "sources_consulted": [
+    "https://www.spglobal.com/energy/en/news-research/latest-news/metals/011326-trade-review-asian-cobalt-market-to-stay-supported-in-q1-on-drc-congo-shipment-delays",
+    "https://chinaglobalsouth.com/analysis/chinas-role-in-the-dr-congo-cobalt-supply-chain-whos-who/",
+    "https://www.bloomberg.com/features/2025-congo-china-cobalt/",
+    "https://www.mining.com/web/congo-plans-cobalt-export-quotas-partnership-with-indonesia-to-tackle-glut/",
+    "https://ssi.armywarcollege.edu/SSI-Media/Recent-Publications/Article/3938204/china-in-the-democratic-republic-of-the-congo-a-new-dynamic-in-critical-mineral/",
+    "https://raremetal.org/cobalt.html"
+  ]
+}

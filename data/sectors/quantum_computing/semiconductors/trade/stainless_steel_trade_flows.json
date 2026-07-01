@@ -1,0 +1,89 @@
+{
+  "commodity": "Stainless Steel (SS-316L)",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.3,
+      "ownership_note": "Significant foreign investments in production facilities.",
+      "notes": "China is a leading manufacturer and exporter of stainless steel, including SS-316L."
+    },
+    {
+      "country": "India",
+      "share": 0.25,
+      "ownership_note": "Domestic production with some foreign partnerships.",
+      "notes": "India is one of the largest producers and exporters of stainless steel."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "ownership_note": "Strong industrial base with high-quality production.",
+      "notes": "Germany is known for its engineering and high-quality stainless steel products."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "ownership_note": "Advanced technology in stainless steel production.",
+      "notes": "Japan has a reputation for high-quality stainless steel manufacturing."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "ownership_note": "Major player in the global stainless steel market.",
+      "notes": "South Korea has significant production capacity for stainless steel."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.05,
+      "ownership_note": "Growing exporter with competitive pricing.",
+      "notes": "Taiwan is increasing its presence in the stainless steel market."
+    },
+    {
+      "country": "Italy",
+      "share": 0.05,
+      "ownership_note": "Known for specialized stainless steel products.",
+      "notes": "Italy has a niche market for high-end stainless steel applications."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "Major importer of stainless steel for various industries, including quantum computing."
+    },
+    {
+      "country": "Germany",
+      "share": 0.2,
+      "notes": "Imports stainless steel for its robust manufacturing sector."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Imports to supplement domestic production for high-tech applications."
+    },
+    {
+      "country": "India",
+      "share": 0.1,
+      "notes": "Imports stainless steel to meet growing domestic demand."
+    },
+    {
+      "country": "China",
+      "share": 0.1,
+      "notes": "Imports for specialized applications despite being a major exporter."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "notes": "Imports for local industries, including mining and manufacturing."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.robustspecialmetals.com/stainless-steel-316-316l-forgings-manufacturer-supplier/",
+    "https://www.metalloyinternational.com/stainless-steel-316l-sheet-plate-manufacturer-supplier.html",
+    "https://www.metalloyinternational.com/stainless-steel-316-316l-forged-fittings-manufacturer-supplier.html",
+    "https://www.tescosteel.com/stainless-steel-316l-outlets-manufacturer-supplier.html",
+    "https://www.kkfittings.com/ss-316-316l-stainless-steel-supplier-exporter-in-india/",
+    "https://www.prosaicsteel.com/316-316l-stainless-steel-rings-supplier.html"
+  ]
+}

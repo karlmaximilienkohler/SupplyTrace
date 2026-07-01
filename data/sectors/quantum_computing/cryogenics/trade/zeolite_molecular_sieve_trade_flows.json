@@ -1,0 +1,83 @@
+{
+  "commodity": "Zeolite molecular sieve",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.55,
+      "ownership_note": "State-owned and private enterprises",
+      "notes": "Major manufacturers include Shanghai Fuxu Molecular Sieve Co., Ltd., SNOWPAEK, and others listed on Alibaba"
+    },
+    {
+      "country": "United States",
+      "share": 0.2,
+      "ownership_note": "Private companies",
+      "notes": "Uses zeolite as a commercial product and has a significant market for sodium silicates"
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "ownership_note": "Private companies",
+      "notes": "Has a significant market for zeolite molecular sieves in the glass making industry"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Has a growing market for zeolite molecular sieves in various industries"
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Has a significant market for zeolite molecular sieves in the detergent industry"
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Has a growing market for zeolite molecular sieves in various industries"
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.3,
+      "notes": "Significant market for sodium silicates and zeolite molecular sieves"
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Significant market for zeolite molecular sieves in the glass making industry"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "notes": "Growing market for zeolite molecular sieves in various industries"
+    },
+    {
+      "country": "China",
+      "share": 0.1,
+      "notes": "Imports zeolite molecular sieves for use in various industries"
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "notes": "Significant market for zeolite molecular sieves in the chemical industry"
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "notes": "Imports zeolite molecular sieves for use in the detergent industry"
+    }
+  ],
+  "sources_consulted": [
+    "https://www.alibaba.com/supplier/zeolite-molecular-sieve-manufacturer.html",
+    "https://www.alibaba.com/zeolite-molecular-sieve-suppliers.html",
+    "https://www.alibaba.com/showroom/zeolite-molecular-sieve-manufacturers.html",
+    "https://www.alibaba.com/showroom/synthetic-zeolite.html",
+    "https://www.alibaba.com/showroom/zeolite-manufacturers-molecular-sieve.html",
+    "https://www.alibaba.com/showroom/professional-manufacturer-zeolite-molecular-sieve.html"
+  ]
+}

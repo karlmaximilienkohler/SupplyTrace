@@ -1,0 +1,90 @@
+{
+  "commodity": "Steel bearings",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.45,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a major producer of steel bearings, with many domestic companies exporting to global markets."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "ownership_note": "Private companies",
+      "notes": "Japanese companies such as NSK, NTN, and NACHI are well-known for their high-quality steel bearings."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "ownership_note": "Private companies",
+      "notes": "German companies such as FAG, INA, and Schaeffler are major players in the global steel bearing market."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "ownership_note": "Private companies",
+      "notes": "South Korean companies such as SKF and Timken have a significant presence in the global steel bearing market."
+    },
+    {
+      "country": "United States",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "US companies such as Timken and NSK have a smaller but still significant presence in the global steel bearing market."
+    },
+    {
+      "country": "India",
+      "share": 0.03,
+      "ownership_note": "Private companies",
+      "notes": "Indian companies such as SKF and FAG have a growing presence in the global steel bearing market."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.02,
+      "ownership_note": "Private companies",
+      "notes": "Brazilian companies such as SKF and FAG have a smaller presence in the global steel bearing market, with some domestic production and export."
+    },
+    {
+      "country": "Russia",
+      "share": 0.01,
+      "ownership_note": "State-owned enterprises",
+      "notes": "Russian companies such as SKF and FAG have a small presence in the global steel bearing market, with some domestic production and export."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.3,
+      "notes": "The US is a major importer of steel bearings, with many domestic companies relying on imports to meet demand."
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "notes": "China is a significant importer of steel bearings, with many domestic companies importing high-quality bearings from other countries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Japan is a major importer of steel bearings, with many domestic companies importing high-quality bearings from other countries."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "notes": "Germany is a significant importer of steel bearings, with many domestic companies importing high-quality bearings from other countries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a smaller importer of steel bearings, with some domestic companies importing high-quality bearings from other countries."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.bearingmaker.com/top-10-bearing-manufacturers-2025/",
+    "https://jiegongbearing.com/top-11-bearing-manufacturers-in-the-world/",
+    "https://nyzbearing.com/top-10-bearing-manufacturers/",
+    "https://us.metoree.com/categories/6100/",
+    "https://chemicalresearchinsight.com/2025/06/03/top-10-companies-in-the-rolling-bearing-steel-industry-2025-market-leaders-powering-global-machinery/",
+    "https://lynbc-bearing.com/blog/thin-section-bearings/global-top-10-bearing-manufacturers-in-2025"
+  ]
+}

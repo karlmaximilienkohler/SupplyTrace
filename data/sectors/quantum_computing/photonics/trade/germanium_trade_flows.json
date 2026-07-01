@@ -1,0 +1,77 @@
+{
+  "commodity": "Germanium (Russia \u2014 JSC Germanium)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Russia",
+      "share": 0.45,
+      "ownership_note": "JSC Germanium",
+      "notes": "Primary producer and exporter"
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "ownership_note": "State-owned enterprises",
+      "notes": "Significant producer and exporter, with some Germanium sourced from Russia"
+    },
+    {
+      "country": "United States",
+      "share": 0.15,
+      "ownership_note": "Private companies",
+      "notes": "Smaller producer and exporter, with some Germanium sourced from China and Russia"
+    },
+    {
+      "country": "Japan",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Smaller producer and exporter, with some Germanium sourced from China and Russia"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Smaller producer and exporter, with some Germanium sourced from China and Russia"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "notes": "Including Brazil, with some Germanium sourced from Chinese owners"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "Significant importer for quantum computing applications"
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "notes": "Significant importer for quantum computing applications"
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Significant importer for quantum computing applications"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "Significant importer for quantum computing applications"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "notes": "Including European countries, with some Germanium sourced from Chinese owners"
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/List_of_largest_manufacturing_companies_by_revenue",
+    "https://manufacturingdigital.com/top10/top-10-global-manufacturers",
+    "https://www.rhhardware.com/10-global-manufacturing-giants.html",
+    "https://www.readycontacts.com/blog/top-13-largest-manufacturing-companies-world/",
+    "https://companydata.com/world/manufacturers/",
+    "https://www.zippia.com/advice/largest-manufacturing-companies/"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "commodity": "Nitrile Rubber",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "ownership_note": "Significant foreign investment in production facilities.",
+      "notes": "China is a major player in the nitrile rubber market, with substantial production capacity."
+    },
+    {
+      "country": "Germany",
+      "share": 0.2,
+      "ownership_note": "Home to several leading chemical companies.",
+      "notes": "Germany is known for high-quality nitrile rubber production."
+    },
+    {
+      "country": "United States",
+      "share": 0.15,
+      "ownership_note": "Major companies involved in synthetic rubber production.",
+      "notes": "The U.S. has a strong market presence but faces competition from lower-cost producers."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "ownership_note": "Home to advanced manufacturing technologies.",
+      "notes": "Japan produces specialized nitrile rubber products."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "Emerging market with growing production capabilities.",
+      "notes": "South Korea is increasing its share in the nitrile rubber market."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "ownership_note": "Growing manufacturing sector with foreign partnerships.",
+      "notes": "India is expanding its nitrile rubber production capacity."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.3,
+      "notes": "The largest importer of nitrile rubber, driven by industrial demand."
+    },
+    {
+      "country": "Germany",
+      "share": 0.25,
+      "notes": "Significant demand for nitrile rubber in automotive and industrial applications."
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "notes": "Imports nitrile rubber for domestic manufacturing needs."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Imports specialized nitrile rubber for high-tech applications."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.1,
+      "notes": "Emerging market with increasing demand for nitrile rubber products."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.tradeindia.com/mumbai/nitrile-rubber-city-207486.html",
+    "https://www.intelmarketresearch.com/hydrogenated-nitrile-butadiene-rubber-2025-2032-312-1285",
+    "https://www.verifiedmarketresearch.com/blog/top-hydrogenated-nitrile-butadiene-rubber-manufacturers/",
+    "https://en.polykem.cn/lists/40.html",
+    "https://financialreports.eu/filings/evonik-industries-ag/annual-report/2024/978583/",
+    "https://tidcindia.in/"
+  ]
+}

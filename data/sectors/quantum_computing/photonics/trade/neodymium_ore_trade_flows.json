@@ -1,0 +1,60 @@
+{
+  "commodity": "Neodymium Ore (China \u2014 China Northern Rare Earth)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.85,
+      "ownership_note": "State-owned enterprise",
+      "notes": "China Northern Rare Earth controls over 30% of global neodymium supply"
+    },
+    {
+      "country": "United States",
+      "share": 0.1,
+      "ownership_note": "MP Materials Corp.",
+      "notes": "Operates the Mountain Pass mine in California"
+    },
+    {
+      "country": "Australia",
+      "share": 0.05,
+      "ownership_note": "MP Materials: Mt Weld Central Lanthanide Deposit",
+      "notes": "High-quality ore"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.6,
+      "notes": "Major magnet manufacturers globally"
+    },
+    {
+      "country": "United States",
+      "share": 0.2,
+      "notes": "Domestic supply chain, from Mountain Pass to Texas magnets"
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "notes": "High-performance rare-earth magnets"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "notes": "High-performance rare-earth magnets"
+    },
+    {
+      "country": "European Union",
+      "share": 0.05,
+      "notes": "High-performance rare-earth magnets"
+    }
+  ],
+  "sources_consulted": [
+    "https://www.bing.com/aclick?ld=e8YxCRBGYG4twJi_IFxQ_lLDVUCUxmh7UKKneAsHZiNsxHEkHm-SvEHastBzqNEHHJAE1fgxmsHKOpYXX7C-Ln4p6sn1EREQAJjFeMbvB4eFNx8wuON1zpvGR-DjHAv3xEPQ7wfITWPqMPRiZoxYN-VzAkvN8zC7myYthq8fTl6xM2rAWxSdgKDFv46jOmb5zboBNxhA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWxpYmFiYS5jb20lMmZ0cmFkZSUyZnNlYXJjaCUzZnRhYiUzZGFsbCUyNlNlYXJjaFRleHQlM2RkaXN0cmlidXRvcitzdXBwbGllciUyNnNyYyUzZHNlbV9iaW5nJTI2ZmllbGQlM2RVRyUyNmZyb20lM2RzZW1fYmluZyUyNmNtcGduJTNkNDg3NTE5NDY3JTI2YWRncnAlM2QxMjM0NzUyOTEyMzI1Njg5JTI2dGd0JTNka3dkLTc3MTcyNTIzOTEzODE3JTNhbG9jLTE3MCUyNkt3ZElEJTNkNzcxNzI1MjM5MTM4MTclMjZtdGNodHlwJTNkcCUyNmJkbXRjaHR5cCslM2RiYiUyNm50d3JrJTNkbyUyNmRldmljZSUzZGMlMjZjcmVhdGl2ZSUzZDc3MTcyMjAxMjEwMDQzJTI2cDElM2RkZWZhdWx0JTI2cDIlM2RkZWZhdWx0JTI2cDMlM2RkZWZhdWx0JTI2UXVlcnklM2ROZW9keW1pdW0lMjUyME9yZSUyNTIwc3VwcGxpZXIlMjUyMENoaW5hJTI1MjBKYXBhbiUyNTIwU291dGglMjUyMEtvcmVhJTI1MjBUYWl3YW4lMjZtc2Nsa2lkJTNkODVhYjMyODY4OGUyMWU2MTEyYTE1YjNhZjA3NmNiMTk&rlid=85ab328688e21e6112a15b3af076cb19",
+    "https://chemicalresearchinsight.com/2026/03/14/top-10-companies-in-the-neodymium-metal-industry-2026-market-leaders-driving-the-magnet-revolution/",
+    "https://www.mordorintelligence.com/industry-reports/neodymium-market/companies",
+    "https://korhogominerals.com/neodymium-mining-hotspots-top-global-locations/",
+    "http://www.micromarketmonitor.com/market/europe-neodymium-5906051639.html",
+    "https://criticalstrategicmetals.com/minerals/neodymium/supply-chain/"
+  ]
+}

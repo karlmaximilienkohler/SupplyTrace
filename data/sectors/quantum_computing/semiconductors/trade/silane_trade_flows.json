@@ -1,0 +1,72 @@
+{
+  "commodity": "Silane",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.5,
+      "ownership_note": "Majority of production facilities owned by domestic companies.",
+      "notes": "China is the largest producer and exporter of silane, supplying a significant portion of the global market."
+    },
+    {
+      "country": "Germany",
+      "share": 0.2,
+      "ownership_note": "Manufacturers include both local and international companies.",
+      "notes": "Germany is a key player in the European market for silane."
+    },
+    {
+      "country": "United States",
+      "share": 0.15,
+      "ownership_note": "Includes both domestic production and imports from subsidiaries.",
+      "notes": "The U.S. has a strong chemical manufacturing base contributing to silane exports."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "ownership_note": "Japanese companies have significant R&D in silane applications.",
+      "notes": "Japan is known for high-quality silane products."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "Local companies are involved in the production and export of silane.",
+      "notes": "South Korea is emerging as a supplier in the Asian market."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.3,
+      "notes": "The U.S. imports silane for various industrial applications, including electronics and solar energy."
+    },
+    {
+      "country": "Germany",
+      "share": 0.25,
+      "notes": "Germany imports silane for its robust manufacturing sector."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Japan imports silane for its semiconductor and solar industries."
+    },
+    {
+      "country": "China",
+      "share": 0.15,
+      "notes": "China also imports silane to meet domestic demand despite being a major exporter."
+    },
+    {
+      "country": "India",
+      "share": 0.1,
+      "notes": "India is increasing its imports of silane for various industrial applications."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.globalsources.com/china-suppliers/silane.htm",
+    "https://www.bing.com/aclick?ld=e8SqsSdumyl_KH625dBCjF2jVUCUzHxcg4g_y32G3RXEYVtWmYyTuCtxjgBi6KgU3_wJngDWGS-vC8w0207DCsRBrwvqeONyHPU7-hCLvJ-g_kpJivMV3Sb8Gluf2uO0Ux0VIXUWKTYLWES5J1SQXptx_TRIFP2MyqpjAGTr9ysw0uMLDWhMEUQOSzVANE8TZ2U6NLHA&u=aHR0cHMlM2ElMmYlMmZ3d3cubmJzcGVjY2hlbS5jb20lMmZzZXJ2aWNlcyUyZmN1c3RvbS1wcm9kdWN0LWRldmVsb3BtZW50JTJmJTNmbXNjbGtpZCUzZGY0NjJkZjlmNDQxYjFlODc3MmY1YjYyMjIwOGFlMzhhJTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkTmVsc29uJTI1MjBCcm9zJTI2dXRtX3Rlcm0lM2RQSUJTSSUyNTIwQ2hlbWljYWxzJTI2dXRtX2NvbnRlbnQlM2RQSUJTSSUyNTIwQ2hlbWljYWw&rlid=f462df9f441b1e8772f5b622208ae38a",
+    "https://us.metoree.com/categories/6531/",
+    "https://www.silsource.com/categories/silanes-supplier-distributor-1-1.aspx",
+    "https://www.industrystock.com/en/companies/Chemical-Industry/Connections/Silanes",
+    "https://www.univarsolutions.com/product-categories/silicones/silanes"
+  ]
+}

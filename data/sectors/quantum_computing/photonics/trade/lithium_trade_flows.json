@@ -1,0 +1,50 @@
+{
+  "commodity": "Lithium (Chile \u2014 SQM)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Chile",
+      "share": 0.55,
+      "ownership_note": "State-owned and private mining firms",
+      "notes": "Chile holds the world's largest lithium reserves and is the world's second-largest producer"
+    },
+    {
+      "country": "Australia",
+      "share": 0.25,
+      "ownership_note": "Albemarle operates mines in Australia",
+      "notes": "Australia is the world's leading producer, extracting lithium directly from hard-rock mines"
+    },
+    {
+      "country": "China",
+      "share": 0.15,
+      "ownership_note": "Tianqi Lithium owns a 22% stake in SQM",
+      "notes": "China has given the green light to a major partnership between Chile's state-owned copper giant, Codelco"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China is a major consumer of lithium for electric vehicles and renewable energy storage"
+    },
+    {
+      "country": "United States",
+      "share": 0.2,
+      "notes": "The US is a significant consumer of lithium for industrial uses and electric vehicles"
+    },
+    {
+      "country": "Europe",
+      "share": 0.15,
+      "notes": "Europe is a growing market for lithium, driven by the adoption of electric vehicles and renewable energy"
+    }
+  ],
+  "sources_consulted": [
+    "https://www.bing.com/aclick?ld=e8Lz5eRjeqWQuNBOScmG82fzVUCUy637OI7pXzvIblKnguYYp5afpBmyWwpSojnGjzv_QNcUNJmnsdiljS0k9M09kwzo1vQd_vxj8_UNBV5HvWDQc9QjmwXsb-YpdkH9XDJ2q57riEjP7ucSyM3di0loP4gXI9esQ-XVNVLAFQ2QH8VFR2lBddk-3GnkI3c_iRSGd3Gg&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWxpYmFiYS5jb20lMmZwcmVtaXVtJTJmbGlzdCtvZittYW51ZmFjdHVyaW5nK2NvbXBhbmllcy5odG1sJTNmc3JjJTNkc2VtX2JpbmclMjZmaWVsZCUzZFVHJTI2ZnJvbSUzZHNlbV9iaW5nJTI2Y21wZ24lM2Q0ODcwMTA0MTIlMjZhZGdycCUzZDEyMzI1NTM3NzIzMDAxNTElMjZ0Z3QlM2Rrd2QtNzcwMzUwMzQ4NDU5NDklM2Fsb2MtMTcwJTI2S3dkSUQlM2Q3NzAzNTAzNDg0NTk0OSUyNm10Y2h0eXAlM2RwJTI2YmRtdGNodHlwKyUzZGJiJTI2bnR3cmslM2RvJTI2ZGV2aWNlJTNkYyUyNmNyZWF0aXZlJTNkNzcwMzQ3NTEwMTU0OTglMjZwMSUzZGRlZmF1bHQlMjZwMiUzZGRlZmF1bHQlMjZwMyUzZGRlZmF1bHQlMjZRdWVyeSUzZEdsb2JhbCUyNTIwbWFudWZhY3R1cmVycyUyNTIwb2YlMjUyMExpdGhpdW0lMjUyMENoaWxlJTI1MjAlZTIlODAlOTQlMjUyMFNRTSUyNm1zY2xraWQlM2RlMjU2YjFjYjYwN2ExNTk3N2Y2NmQ4NzcxNTg1MDUyNw&rlid=e256b1cb607a15977f66d87715850527",
+    "https://sqmlitio.com/en/",
+    "https://sqm.com/en/productos/litio-y-derivados/",
+    "https://lithium.org/en/members/sqm/",
+    "https://autoworldjournal.com/chile-forms-lithium-giant/",
+    "https://www.americasquarterly.org/article/chiles-embattled-lithium-king/"
+  ]
+}

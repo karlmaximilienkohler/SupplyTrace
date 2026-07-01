@@ -1,0 +1,72 @@
+{
+  "commodity": "Titanium",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.35,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a significant producer and exporter of titanium, with major companies like BaoTi and VSMPO having operations in the country."
+    },
+    {
+      "country": "Russia",
+      "share": 0.25,
+      "ownership_note": "State-owned enterprises",
+      "notes": "Russia is another major producer and exporter of titanium, with companies like VSMPO being significant players in the global market."
+    },
+    {
+      "country": "United States",
+      "share": 0.15,
+      "ownership_note": "Private companies",
+      "notes": "The US is a significant producer and exporter of titanium, with companies like U.S. Titanium Industry Inc. and ATI being major players in the global market."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.1,
+      "ownership_note": "Private companies",
+      "notes": "Brazil is a significant producer of titanium, with companies like Vale and Samarco having operations in the country."
+    },
+    {
+      "country": "Australia",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Australia is a significant producer of titanium, with companies like Iluka Resources and Titanium Corporation having operations in the country."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "The US is a significant importer of titanium, driven by demand from the aerospace, medical, and automotive sectors."
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "notes": "China is a significant importer of titanium, driven by demand from the aerospace, medical, and automotive sectors."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant importer of titanium, driven by demand from the aerospace, medical, and automotive sectors."
+    },
+    {
+      "country": "Germany",
+      "share": 0.1,
+      "notes": "Germany is a significant importer of titanium, driven by demand from the aerospace, medical, and automotive sectors."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "notes": "South Korea is a significant importer of titanium, driven by demand from the aerospace, medical, and automotive sectors."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Titanium",
+    "https://hontitan.com/top-10-titanium-manufacturers-world-2026/",
+    "https://www.procurementresource.com/blog/titanium-manufacturers-in-the-world",
+    "https://www.qinghangmetal.com/full-list-of-titanium-manufacturers-in-usa/",
+    "https://www.globalsources.com/manufacturers/titanium.html",
+    "https://www.chemanalyst.com/industry-report/titanium-dioxide-market-599"
+  ]
+}

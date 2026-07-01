@@ -1,0 +1,61 @@
+{
+  "commodity": "Niobium titanium superconducting wire",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Finland",
+      "share": 0.35,
+      "ownership_note": "Luvata is a Finnish company",
+      "notes": "Luvata is a world-leader in producing niobium-titanium (NbTi)-based low-temperature superconducting wires"
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "ownership_note": "Chinese state-owned enterprises and private companies",
+      "notes": "China has significant production capacity for niobium-titanium alloys and superconducting wires"
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "ownership_note": "Japanese companies such as Furukawa Electric and Sumitomo Electric",
+      "notes": "Japan has a long history of research and development in superconductivity and has significant production capacity for niobium-titanium alloys and superconducting wires"
+    },
+    {
+      "country": "United States",
+      "share": 0.1,
+      "ownership_note": "American companies such as Superconducting Technologies and Oxford Instruments",
+      "notes": "The US has a significant presence in the superconductivity industry, with many companies producing niobium-titanium alloys and superconducting wires"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China is a major consumer of niobium-titanium alloys and superconducting wires, driven by its growing high-tech industry"
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "notes": "The US is a significant consumer of niobium-titanium alloys and superconducting wires, driven by its strong presence in the aerospace and healthcare industries"
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant consumer of niobium-titanium alloys and superconducting wires, driven by its strong presence in the electronics and automotive industries"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a growing consumer of niobium-titanium alloys and superconducting wires, driven by its growing high-tech industry"
+    }
+  ],
+  "sources_consulted": [
+    "https://luvata.com/products/superconducting-wire-cable/",
+    "https://www.edgetechmat.com/product/niobium-wire/",
+    "https://www.transparencymarketresearch.com/niobiumtitanium-alloys-market.html",
+    "https://patents.google.com/patent/US3366728A/en",
+    "https://www.samaterials.com/61-superconducting-materials.html",
+    "https://www.techsciresearch.com/report/north-america-superconducting-wire-market/29147.html"
+  ]
+}

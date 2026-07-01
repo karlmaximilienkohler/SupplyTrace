@@ -1,0 +1,78 @@
+{
+  "commodity": "Boron",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Turkey",
+      "share": 40.0,
+      "ownership_note": "State-owned and private companies",
+      "notes": "Turkey is the largest producer of boron minerals, with significant global market influence."
+    },
+    {
+      "country": "United States",
+      "share": 20.0,
+      "ownership_note": "Rio Tinto Group (US Borax)",
+      "notes": "The US is a major player in the boron market, primarily through Rio Tinto's operations."
+    },
+    {
+      "country": "China",
+      "share": 15.0,
+      "ownership_note": "Various private and state-owned enterprises",
+      "notes": "China has a growing role in boron production, particularly in specialized applications."
+    },
+    {
+      "country": "Chile",
+      "share": 10.0,
+      "ownership_note": "Private companies",
+      "notes": "Chile contributes to the global boron supply, though on a smaller scale."
+    },
+    {
+      "country": "Argentina",
+      "share": 5.0,
+      "ownership_note": "Private companies",
+      "notes": "Argentina has emerging boron production capabilities."
+    },
+    {
+      "country": "Brazil",
+      "share": 5.0,
+      "ownership_note": "Chinese-owned operations",
+      "notes": "Brazil has boron resources, but significant control is held by foreign entities."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 30.0,
+      "notes": "The US imports boron for various industrial applications, including electronics and materials."
+    },
+    {
+      "country": "Germany",
+      "share": 25.0,
+      "notes": "Germany is a significant importer due to its advanced manufacturing sector."
+    },
+    {
+      "country": "Japan",
+      "share": 20.0,
+      "notes": "Japan imports boron for high-tech applications, including electronics and ceramics."
+    },
+    {
+      "country": "South Korea",
+      "share": 15.0,
+      "notes": "South Korea's tech industry drives demand for boron."
+    },
+    {
+      "country": "China",
+      "share": 10.0,
+      "notes": "China imports boron to supplement its domestic production."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.gonzo-news.com/chemicalsmaterials/global-boron-nitride-market-analysis-report-denka-boron-nitride.html",
+    "https://www.linkedin.com/pulse/boron-steel-market-size-emerging-growth-2024-2032-r5wgf",
+    "https://www.360marketupdates.com/global-boron-analyzers-market-30403480",
+    "https://www.marketresearch.com/APO-Research-Inc-v4273/Global-Boron-based-Neutron-Absorber-38503697/",
+    "https://www.goldwheels.com/chemicalsmaterials/global-boron-nitride-market-analysis-report-boron-nitride-aerosol-lubricoat.html",
+    "https://www.qyresearch.com/reports/2329250/boron-nitride-ceramic-release-agent"
+  ]
+}

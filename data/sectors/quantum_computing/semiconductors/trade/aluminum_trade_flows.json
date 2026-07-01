@@ -1,0 +1,127 @@
+{
+  "commodity": "Aluminum",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 50.0,
+      "ownership_note": "Majority state-owned enterprises",
+      "notes": "Dominates global aluminum production and export."
+    },
+    {
+      "country": "Australia",
+      "share": 15.0,
+      "ownership_note": "Foreign-owned mines",
+      "notes": "Significant bauxite and alumina production."
+    },
+    {
+      "country": "Canada",
+      "share": 10.0,
+      "ownership_note": "Majority foreign investment",
+      "notes": "Strong presence in aluminum smelting."
+    },
+    {
+      "country": "Russia",
+      "share": 8.0,
+      "ownership_note": "State-controlled companies",
+      "notes": "Key player in global aluminum market."
+    },
+    {
+      "country": "United States",
+      "share": 5.0,
+      "ownership_note": "Domestic and foreign ownership",
+      "notes": "Production has declined but still significant."
+    },
+    {
+      "country": "United Arab Emirates",
+      "share": 4.0,
+      "ownership_note": "State-owned enterprises",
+      "notes": "Growing aluminum production capacity."
+    },
+    {
+      "country": "Brazil",
+      "share": 3.0,
+      "ownership_note": "Foreign-owned operations",
+      "notes": "Rich in bauxite resources."
+    },
+    {
+      "country": "India",
+      "share": 2.0,
+      "ownership_note": "Mixed ownership",
+      "notes": "Emerging player in aluminum production."
+    },
+    {
+      "country": "Norway",
+      "share": 1.5,
+      "ownership_note": "Majority state-owned",
+      "notes": "Strong focus on sustainable production."
+    },
+    {
+      "country": "Germany",
+      "share": 1.5,
+      "ownership_note": "Mixed ownership",
+      "notes": "Significant aluminum processing industry."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 30.0,
+      "notes": "Largest consumer of aluminum for various industries."
+    },
+    {
+      "country": "Germany",
+      "share": 20.0,
+      "notes": "Strong manufacturing sector requiring aluminum."
+    },
+    {
+      "country": "Japan",
+      "share": 15.0,
+      "notes": "High demand for aluminum in technology and automotive sectors."
+    },
+    {
+      "country": "China",
+      "share": 10.0,
+      "notes": "Imports for further processing despite being a top exporter."
+    },
+    {
+      "country": "South Korea",
+      "share": 8.0,
+      "notes": "Growing demand in electronics and automotive industries."
+    },
+    {
+      "country": "India",
+      "share": 5.0,
+      "notes": "Increasing demand for aluminum in construction and automotive."
+    },
+    {
+      "country": "United Kingdom",
+      "share": 4.0,
+      "notes": "Significant aluminum processing and manufacturing."
+    },
+    {
+      "country": "France",
+      "share": 3.0,
+      "notes": "Strong industrial base requiring aluminum."
+    },
+    {
+      "country": "Italy",
+      "share": 2.0,
+      "notes": "Growing demand in automotive and construction."
+    },
+    {
+      "country": "Brazil",
+      "share": 2.0,
+      "notes": "Emerging market with increasing aluminum needs."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.steel-technology.com/articles/aluminum-producing-companies-in-the-world",
+    "https://www.researchandmarkets.com/articles/key-companies-in-aluminum-system",
+    "https://statranker.org/economy/industry-and-manufacturing/top-10-aluminum-producing-countries-in-2025-global-production-insights/",
+    "https://www.alcircle.com/news/global-giants-unveiling-the-top-5-primary-aluminium-manufacturers-in-2023-105783",
+    "https://www.accio.com/blog/top-aluminum-producers-global-trends-and-production-insights",
+    "https://www.statista.com/statistics/280920/largest-aluminum-companies-worldwide/"
+  ]
+}

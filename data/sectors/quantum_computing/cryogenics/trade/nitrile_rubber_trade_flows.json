@@ -1,0 +1,84 @@
+{
+  "commodity": "Nitrile rubber",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.35,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a significant producer and exporter of nitrile rubber, with many domestic manufacturers supplying to global markets."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "ownership_note": "Private companies",
+      "notes": "US-based companies, such as CGR Products, Inc., and BRP Manufacturing Company, are major players in the global nitrile rubber market."
+    },
+    {
+      "country": "India",
+      "share": 0.15,
+      "ownership_note": "Private companies",
+      "notes": "India is a growing producer and exporter of nitrile rubber, with many domestic manufacturers supplying to global markets."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "ownership_note": "Private companies",
+      "notes": "Japanese companies, such as Arihant Exim Corporation, are significant players in the global nitrile rubber market."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "South Korea is a smaller but growing producer and exporter of nitrile rubber, with some domestic manufacturers supplying to global markets."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Brazil is a smaller producer and exporter of nitrile rubber, with some domestic manufacturers supplying to global markets."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Germany is a smaller producer and exporter of nitrile rubber, with some domestic manufacturers supplying to global markets."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "The US is a significant importer of nitrile rubber, driven by demand from the medical, industrial, and automotive sectors."
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "notes": "China is a significant importer of nitrile rubber, driven by demand from the industrial and automotive sectors."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant importer of nitrile rubber, driven by demand from the automotive and industrial sectors."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a smaller but growing importer of nitrile rubber, driven by demand from the automotive and industrial sectors."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "notes": "India is a smaller importer of nitrile rubber, driven by demand from the industrial and automotive sectors."
+    }
+  ],
+  "sources_consulted": [
+    "https://chemicalresearchinsight.com/2025/06/08/top-10-companies-in-the-nitrile-rubber-nbr-latex-industry-2025-market-leaders-powering-medical-and-industrial-applications/",
+    "https://us.metoree.com/categories/5362/",
+    "https://www.globalinforesearch.com/reports/3361884/nitrile-rubber--nbr",
+    "https://www.sourcifychina.com/top-nitrile-rubber-manufacturers-compare/",
+    "https://chemicalresearchinsight.com/2025/06/10/top-10-companies-in-the-global-nitrile-rubber-latex-market-2025-industry-leaders-shaping-protective-solutions/",
+    "https://chemicalresearchinsight.com/2025/08/07/top-10-companies-in-the-liquid-nitrile-rubber-industry-2025-market-leaders-powering-specialty-polymer-solutions/"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "commodity": "Tin-Silver Solder",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.45,
+      "ownership_note": "Significant control over global supply chains, including mining and processing.",
+      "notes": "China dominates the production and export of tin-silver solder due to its extensive mining and manufacturing capabilities."
+    },
+    {
+      "country": "Malaysia",
+      "share": 0.25,
+      "ownership_note": "Local production with foreign investments, including Chinese companies.",
+      "notes": "Malaysia is a key player in the solder market, leveraging its tin resources."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.15,
+      "ownership_note": "Tin mines owned by foreign entities, including Chinese interests.",
+      "notes": "Brazil has significant tin reserves but exports are influenced by foreign ownership."
+    },
+    {
+      "country": "United States",
+      "share": 0.1,
+      "ownership_note": "Domestic production with some reliance on imports.",
+      "notes": "The U.S. has a smaller share but is increasing its domestic production capabilities."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "ownership_note": "Manufacturing base with some reliance on imported raw materials.",
+      "notes": "Germany is known for high-quality solder products but has limited tin resources."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "Major importer of tin-silver solder for its electronics and aerospace industries."
+    },
+    {
+      "country": "Germany",
+      "share": 0.3,
+      "notes": "Significant demand for high-quality solder in manufacturing and electronics."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Strong electronics sector driving demand for solder products."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "Growing electronics industry with increasing solder imports."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.bing.com/aclick?ld=e8oBL7btRJdYz7Pvz1fxvyPzVUCUzX1qSFVkLJABMjzSmdQsdVyEwofoXfusKbbY6Yx9sAOOZx8rEc458OUtvSbOdUtYdQUJDnyDrPHbS5BjlP81kUlisJyxHYelWNUjj5yyFU17i7rXieHaDuOErLGbbe27Cs7reDtdOXomEpylLgiUPaC-OrNzOncXhIiztKPFahng&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWxpYmFiYS5jb20lMmZ0cmFkZSUyZnNlYXJjaCUzZnRhYiUzZGFsbCUyNlNlYXJjaFRleHQlM2RvdmVyc2VhcytzdXBwbGllciUyNnNyYyUzZHNlbV9iaW5nJTI2ZmllbGQlM2RVRyUyNmZyb20lM2RzZW1fYmluZyUyNmNtcGduJTNkNDg3NTE5NDY3JTI2YWRncnAlM2QxMjM0NzUyOTEyMzI1Njg5JTI2dGd0JTNka3dkLTc3MTcyNTIzOTE3MDM3JTNhbG9jLTE3MCUyNkt3ZElEJTNkNzcxNzI1MjM5MTcwMzclMjZtdGNodHlwJTNkcCUyNmJkbXRjaHR5cCslM2RiYiUyNm50d3JrJTNkbyUyNmRldmljZSUzZGMlMjZjcmVhdGl2ZSUzZDc3MTcyMjAxMjEwMDQzJTI2cDElM2RkZWZhdWx0JTI2cDIlM2RkZWZhdWx0JTI2cDMlM2RkZWZhdWx0JTI2UXVlcnklM2RUaW4tU2lsdmVyJTI1MjBTb2xkZXIlMjUyMHN1cHBsaWVycyUyNTIwQ2hpbmElMjUyMEphcGFuJTI1MjBTb3V0aCUyNTIwS29yZWElMjUyMFRhaXdhbiUyNm1zY2xraWQlM2Q3NDhiMDVkNTczMTgxZjExZDZkNTZjNjgyOWQxMTBmZA&rlid=748b05d573181f11d6d56c6829d110fd",
+    "https://www.bing.com/aclick?ld=e8nLpz0pbhYeVg5j2xPDbEUDVUCUz3LWyDJcQjt6suuwTrpgqSKMqZskfYVNVPGiHo24-vrCweztap-x4eggO-VgHKMvzHEkrhnK1R-B7fYYSWcqQuKq13O54eNrH2r5b_-5ITB-kYxjIWjB2UJVumSaMBYa7H4fI9X4B3umZpXFyyqzFw0ikmNVy1XNnTPn_xis5CEA&u=aHR0cHMlM2ElMmYlMmZtZXRhbGxpY3Jlc291cmNlcy5jb20lMmZjb250YWN0LXVzJTJmJTNmbXNjbGtpZCUzZGQwZDY2YTBmOGE3NTEzZDg3ZGQwMDNiMmQwYmIwYmZh&rlid=d0d66a0f8a7513d87dd003b2d0bb0bfa",
+    "https://www.bing.com/aclick?ld=e85BOkWbxdWmQ52o49W52PuTVUCUzgDd8QYtbAiW7wIgPzq2XQLfRi3FReC-8NhjOwvuPZ2sIqELX1bMt9T9cxIYI-aqkfa6-VJDx05lE30H2mTApCl9gQwvcezpLc9GB_t6SkcwxgBdoeGVIIDyz0Jq3VUYzl1e5spa0E05Fe1c3puF9Z_mWqRf8f0MSiW44_HGJsjA&u=aHR0cHMlM2ElMmYlMmZ3d3cua2FwcGFsbG95LmNvbSUzZl92c3JlZmRvbSUzZHBwY2dvb2dsZSUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV90ZXJtJTNkVGluJTI1MjBTaWx2ZXIlMjUyMFNvbGRlciUyNnV0bV9jYW1wYWlnbiUzZEthcHAlMjUyMEFsbG95JTI2cmFuJTNkb0JYJTI2bXNjbGtpZCUzZGRjZDNjYmYwYjliNTFlNmE1MWVmYTI0ZGUzN2I1OGQ3JTI2dXRtX3NvdXJjZSUzZGJpbmclMjZ1dG1fbWVkaXVtJTNkY3BjJTI2dXRtX2NhbXBhaWduJTNkS2FwcCUyNTIwQWxsb3klMjZ1dG1fdGVybSUzZFRpbiUyNTIwU2lsdmVyJTI1MjBTb2xkZXIlMjZ1dG1fY29udGVudCUzZFRpbiUyNTIwU2lsdmVyJTI1MjBTb2xkZXI&rlid=dcd3cbf0b9b51e6a51efa24de37b58d7",
+    "https://www.bing.com/aclick?ld=e8MZ4L-sT6GtuTzNBNa_6AvDVUCUwWxjCg_2JkN3KnYq5BPmDHDBafxnR0hbYNp48qHkaqLjHyO9ZZNyIfrbydONOJkloL-49s9C4covG_1V3Swqw9Way4A6LlUiWfpEo9uwsxohkvDqIBiFIKtAchuoi0cjBpUDAsNQILYqt4RB67uVH8BYadv4JLrvEi5MKD9vgQEA&u=aHR0cHMlM2ElMmYlMmZhZC5kb3VibGVjbGljay5uZXQlMmZzZWFyY2hhZHMlMmZsaW5rJTJmY2xpY2slM2ZsaWQlM2Q0MzcwMDA3Nzc3Njg3MzUwOCUyNmRzX3Nfa3dnaWQlM2Q1ODcwMDAwODUyMTc5OTc1NSUyNiUyNmRzX2VfYWRpZCUzZDc5ODUyMjIyNzg2MzE4JTI2ZHNfZV90YXJnZXRfaWQlM2Rrd2QtNzk4NTI0MDUzMDEwNDElM2Fsb2MtNjYlMjYlMjZkc19lX25ldHdvcmslM2RvJTI2ZHNfdXJsX3YlM2QyJTI2ZHNfZGVzdF91cmwlM2RodHRwcyUzYSUyZiUyZnd3dy5mYWlyZS5jb20lMmZjYXRlZ29yeSUyZldvbWVuJTJmc3ViY2F0ZWdvcnklMmZBcHBhcmVsJTJmUGFudHMlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2RCSV9FTUVBX0VVUk9fRU5fUlRMX1BST19TRUFSQ0hfTkJfWF9TVVBQTElFUl9WMiUyNmdjbGlkJTNkZTVjMWIyZmQzYjU1MWRhZDdlM2FkYjQwNjE5YmEwZmQlMjZnY2xzcmMlM2QzcC5kcyUyNiUyNmtleXdvcmQlM2Rjb21wYW5pZXMlMjUyMHN1cHBsaWVycyUyNm1hdGNodHlwZSUzZHAlMjZkZXZpY2UlM2RjJTI2YWRncm91cGlkJTNkMTI3NzYzMzgyOTkyNTc5MiUyNmFkaWQlM2QlMjZjYW1wYWlnbmlkJTNkNjg3Njc5NjMyJTI2Z2NsaWQlM2RlNWMxYjJmZDNiNTUxZGFkN2UzYWRiNDA2MTliYTBmZCUyNmdjbHNyYyUzZDNwLmRzJTI2bXNjbGtpZCUzZGU1YzFiMmZkM2I1NTFkYWQ3ZTNhZGI0MDYxOWJhMGZk&rlid=e5c1b2fd3b551dad7e3adb40619ba0fd",
+    "https://www.bing.com/aclick?ld=e8_J0ZeELFVz7TSfAoPz7GajVUCUxwXNagyvCY8n-vA80WTPRVe0Z8n1uH-6Npx8aD-gdMHbluB6svSPZQBLQC6KNkX6onMmkiydeYpheMzmGOt4_ZvRnOwYcbnobvs3Y0qNaWpVxe5-UWjUlz8oFCF0lVfT68cvflUYMlWEOTE58FJzhPBWZ1_Ok6l5smUDQgXXYjhw&u=aHR0cHMlM2ElMmYlMmZ3d3cuZmFjdHVyZWUuZGUlMmZlbiUyZnNlcnZpY2VzJTJmc2hlZXQtbWV0YWwtcHJvY2Vzc2luZyUyZiUzZnV0bV9pZCUzZDU4MDM1OTYyNCUyNmRldmljZSUzZGMlMjZtYXRjaHR5cGUlM2RwJTI2bmV0d29yayUzZG8lMjZnY2xpZCUzZCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFNfRU5fTWFudWZhY3R1cmluZ19Tb2x1dGlvbnNfQ29uc29saWRhdGVkJTI2dXRtX3Rlcm0lM2RtZXRhbCUyNTIwbWFudWZhY3R1cmVyJTI2dXRtX2NvbnRlbnQlM2QlMjZoc2FfYWNjJTNkNjU0OTE0ODcyMyUyNmhzYV9jYW0lM2QyMTc5MzkzNjA1MCUyNmhzYV9ncnAlM2QxMjY4ODM4MDcyOTIxMzM2JTI2aHNhX2FkJTNkJTI2aHNhX3NyYyUzZG8lMjZoc2FfdGd0JTNka3dkLTc5MzAyODg1MDkwNjQ2JTNhbG9jLTE3MCUyNmhzYV9rdyUzZG1ldGFsJTI1MjBtYW51ZmFjdHVyZXIlMjZoc2FfbXQlM2RwJTI2aHNhX25ldCUzZGFkd29yZHMlMjZoc2FfdmVyJTNkMyUyNm1zY2xraWQlM2RmNDQyMWIwZGI0NDIxNDBiNTkyZDcyYjBlZThjNmM1ZQ&rlid=f4421b0db442140b592d72b0ee8c6c5e",
+    "https://en.wikipedia.org/wiki/Copperweld"
+  ]
+}

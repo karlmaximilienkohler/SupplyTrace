@@ -1,0 +1,78 @@
+{
+  "commodity": "Aluminum 6061",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.55,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is the largest producer and exporter of aluminum 6061, with a significant presence of state-owned enterprises and private companies."
+    },
+    {
+      "country": "India",
+      "share": 0.2,
+      "ownership_note": "Private companies",
+      "notes": "India is a significant producer and exporter of aluminum 6061, with private companies playing a major role in the industry."
+    },
+    {
+      "country": "Korea",
+      "share": 0.1,
+      "ownership_note": "Private companies",
+      "notes": "Korea is a smaller but significant producer and exporter of aluminum 6061, with private companies dominating the industry."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Private companies with Brazilian mine ownership",
+      "notes": "Brazil is a smaller producer and exporter of aluminum 6061, with private companies owning mines and controlling the industry."
+    },
+    {
+      "country": "United States",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "The United States is a smaller producer and exporter of aluminum 6061, with private companies playing a role in the industry."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.05,
+      "ownership_note": "Various private and state-owned companies",
+      "notes": "Other countries, including those in Southeast Asia, Europe, and Africa, also produce and export aluminum 6061, with various private and state-owned companies involved in the industry."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.3,
+      "notes": "The United States is a significant importer of aluminum 6061, driven by demand from the aerospace, automotive, and construction industries."
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "notes": "China is a significant importer of aluminum 6061, driven by demand from the aerospace, automotive, and construction industries."
+    },
+    {
+      "country": "Europe",
+      "share": 0.15,
+      "notes": "Europe is a significant importer of aluminum 6061, driven by demand from the aerospace, automotive, and construction industries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "notes": "Japan is a smaller but significant importer of aluminum 6061, driven by demand from the aerospace and automotive industries."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.25,
+      "notes": "Other countries, including those in Southeast Asia, Latin America, and Africa, also import aluminum 6061, driven by demand from various industries."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Aluminium",
+    "https://www.globalsources.com/manufacturers/aluminum-6061.html",
+    "https://www.mustafaaluminium.com/aluminium-6061-bars/",
+    "https://www.sjhmalu.com/aluminum-extrusion-automotive-6061-vs-6063",
+    "https://moonmagazine.co.uk/aluminum-6061-t6-vs-t651-vs-t6511/",
+    "https://www.Made-in-China.com/manufacturers/aluminum-profile.html"
+  ]
+}

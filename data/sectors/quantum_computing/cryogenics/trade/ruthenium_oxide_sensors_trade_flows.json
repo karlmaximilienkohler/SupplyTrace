@@ -1,0 +1,79 @@
+{
+  "commodity": "Ruthenium oxide sensors",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.45,
+      "ownership_note": "Chinese ownership of some manufacturers",
+      "notes": "Majority of global ruthenium oxide sensor production is in China"
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Home to Sumitomo Metal Mining Co., Ltd., a top-ranked ruthenium company"
+    },
+    {
+      "country": "India",
+      "share": 0.1,
+      "ownership_note": "Indian ownership of Otto Chemie, a major ruthenium supplier",
+      "notes": "Otto Chemie is a significant supplier of ruthenium metal and oxide sensors"
+    },
+    {
+      "country": "USA",
+      "share": 0.05,
+      "notes": "Home to Reade Advanced Materials, a top-ranked ruthenium company"
+    },
+    {
+      "country": "Netherlands",
+      "share": 0.05,
+      "notes": "Home to Lenntech, a top-ranked ruthenium company"
+    },
+    {
+      "country": "Other",
+      "share": 0.15,
+      "notes": "Includes other countries with smaller ruthenium oxide sensor production"
+    }
+  ],
+  "importers": [
+    {
+      "country": "Europe",
+      "share": 0.4,
+      "notes": "Europe is the second-largest market for ruthenium oxide cryogenic temperature sensors"
+    },
+    {
+      "country": "Asia",
+      "share": 0.3,
+      "notes": "Asia is a significant market for ruthenium oxide sensors, driven by demand from countries like China and Japan"
+    },
+    {
+      "country": "North America",
+      "share": 0.15,
+      "notes": "North America is a smaller but growing market for ruthenium oxide sensors"
+    },
+    {
+      "country": "South America",
+      "share": 0.05,
+      "notes": "South America is a smaller market for ruthenium oxide sensors"
+    },
+    {
+      "country": "Africa",
+      "share": 0.05,
+      "notes": "Africa is a smaller market for ruthenium oxide sensors"
+    },
+    {
+      "country": "Other",
+      "share": 0.05,
+      "notes": "Includes other regions with smaller ruthenium oxide sensor demand"
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Ruthenium",
+    "https://www.emergenresearch.com/industry-report/ruthenium-oxide-cryogenic-temperature-sensors-market",
+    "https://www.linkedin.com/pulse/mexico-ruthenium-oxide-temperature-sensor-market-size-cagr-aojae",
+    "https://www.researchgate.net/publication/239348123_Ruthenium_oxide_cryogenic_temperature_sensors",
+    "https://www.academia.edu/11124287/Ruthenium_oxide_cryogenic_temperature_sensors",
+    "https://www.Made-in-China.com/manufacturers/ruthenium.html"
+  ]
+}

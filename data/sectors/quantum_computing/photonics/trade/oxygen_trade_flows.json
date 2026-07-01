@@ -1,0 +1,71 @@
+{
+  "commodity": "Oxygen (Australia \u2014 BOC)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Australia",
+      "share": 0.55,
+      "ownership_note": "BOC Australia is a subsidiary of the global BOC Group",
+      "notes": "Major supplier of oxygen to various industries, including medical and industrial sectors"
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "ownership_note": "CAIRE Inc. is a subsidiary of the global BOC Group, but has a Chinese owner",
+      "notes": "Supplier of oxygen generators and portable concentrators to various industries"
+    },
+    {
+      "country": "United States",
+      "share": 0.1,
+      "ownership_note": "CAIRE Inc. has a US presence",
+      "notes": "Supplier of oxygen therapy products to the medical sector"
+    },
+    {
+      "country": "United Kingdom",
+      "share": 0.05,
+      "ownership_note": "BOC has a UK head office",
+      "notes": "Supplier of oxygen to various industries, including medical and industrial sectors"
+    },
+    {
+      "country": "Other",
+      "share": 0.1,
+      "notes": "Includes other countries not mentioned in the context"
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "Major importer of oxygen for medical and industrial use"
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "notes": "Importer of oxygen for industrial and medical use"
+    },
+    {
+      "country": "India",
+      "share": 0.15,
+      "notes": "Importer of oxygen for medical and industrial use"
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "notes": "Importer of oxygen for industrial and medical use"
+    },
+    {
+      "country": "Other",
+      "share": 0.1,
+      "notes": "Includes other countries not mentioned in the context"
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/BOC_(company)",
+    "https://www.boc.com.au/shop/en/au/home",
+    "https://www.bocgases.co.uk/pages/about-boc",
+    "https://au.linkedin.com/company/boc-south-pacific",
+    "https://www.boc.co.nz/shop/en/nz/home",
+    "https://www.caireaustralia.com.au/"
+  ]
+}

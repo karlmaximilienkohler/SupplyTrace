@@ -1,0 +1,436 @@
+{
+  "technology_domain": "Quantum Computing",
+  "segment": "Photonics",
+  "sources": [
+    "https://www.nature.com/articles/s41586-025-08820-7",
+    "https://postquantum.com/post-quantum/bills-of-materials-quantum-readiness/",
+    "https://www.nature.com/articles/s41586-025-08820-7.pdf",
+    "https://arxiv.org/html/2409.08229v1",
+    "https://www.science.org/doi/10.1126/science.abb2823",
+    "https://arxiv.org/html/2404.17570v1",
+    "https://irtc.info/2024/08/21/quantum-technology-the-next-supply-bottleneck/",
+    "https://warontherocks.com/2025/10/the-supply-chain-chokepoints-in-quantum/"
+  ],
+  "supply_chain": [
+    {
+      "name": "Gate Stack",
+      "children": [
+        {
+          "name": "Gate Dielectric",
+          "children": [
+            {
+              "name": "Silicon Dioxide",
+              "children": [
+                {
+                  "name": "Silicon (USA \u2014 Dow Corning)",
+                  "leaf_id": "PHO-001"
+                },
+                {
+                  "name": "Oxygen (Australia \u2014 BOC)",
+                  "leaf_id": "PHO-002"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gate Metal",
+          "children": [
+            {
+              "name": "Aluminum",
+              "children": [
+                {
+                  "name": "Aluminum Ore (Australia \u2014 Rio Tinto)",
+                  "leaf_id": "PHO-003"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Substrate",
+      "children": [
+        {
+          "name": "Silicon Wafer",
+          "children": [
+            {
+              "name": "High-Purity Silicon",
+              "children": [
+                {
+                  "name": "Silicon (Japan \u2014 Shin-Etsu)",
+                  "leaf_id": "PHO-004"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Metallisation",
+      "children": [
+        {
+          "name": "Interconnect Metal",
+          "children": [
+            {
+              "name": "Copper",
+              "children": [
+                {
+                  "name": "Copper Ore (Chile \u2014 Codelco)",
+                  "leaf_id": "PHO-005"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Barrier Metal",
+          "children": [
+            {
+              "name": "Tungsten",
+              "children": [
+                {
+                  "name": "Tungsten Ore (China \u2014 China Molybdenum)",
+                  "leaf_id": "PHO-006"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Packaging",
+      "children": [
+        {
+          "name": "Optical Fiber",
+          "children": [
+            {
+              "name": "Glass",
+              "children": [
+                {
+                  "name": "Silicon Dioxide (USA \u2014 Corning)",
+                  "leaf_id": "PHO-007"
+                },
+                {
+                  "name": "Germanium (Russia \u2014 JSC Germanium)",
+                  "leaf_id": "PHO-008"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Photonic Chip",
+          "children": [
+            {
+              "name": "Lithium Niobate",
+              "children": [
+                {
+                  "name": "Lithium (Chile \u2014 SQM)",
+                  "leaf_id": "PHO-009"
+                },
+                {
+                  "name": "Niobium (Brazil \u2014 CBMM)",
+                  "leaf_id": "PHO-010"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Single Photon Source",
+      "children": [
+        {
+          "name": "Quantum Dot",
+          "children": [
+            {
+              "name": "Indium Phosphide",
+              "children": [
+                {
+                  "name": "Indium (China \u2014 China Tin)",
+                  "leaf_id": "PHO-011"
+                },
+                {
+                  "name": "Phosphorus (USA \u2014 Chemours)",
+                  "leaf_id": "PHO-012"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Superconducting Detector",
+      "children": [
+        {
+          "name": "Niobium Nitride",
+          "children": [
+            {
+              "name": "Niobium (Brazil \u2014 CBMM)",
+              "leaf_id": "PHO-013"
+            },
+            {
+              "name": "Nitrogen (USA \u2014 Air Products)",
+              "leaf_id": "PHO-014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Optical Switch",
+      "children": [
+        {
+          "name": "Electro-Optic Material",
+          "children": [
+            {
+              "name": "Lithium Tantalate",
+              "children": [
+                {
+                  "name": "Lithium (Chile \u2014 SQM)",
+                  "leaf_id": "PHO-015"
+                },
+                {
+                  "name": "Tantalum (Rwanda \u2014 AB Minerals)",
+                  "leaf_id": "PHO-016"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Waveguide",
+      "children": [
+        {
+          "name": "Silicon Oxynitride",
+          "children": [
+            {
+              "name": "Silicon (USA \u2014 Dow Corning)",
+              "leaf_id": "PHO-017"
+            },
+            {
+              "name": "Oxygen (Australia \u2014 BOC)",
+              "leaf_id": "PHO-018"
+            },
+            {
+              "name": "Nitrogen (USA \u2014 Air Products)",
+              "leaf_id": "PHO-019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Diamond",
+      "children": [
+        {
+          "name": "Synthetic Diamond",
+          "children": [
+            {
+              "name": "Carbon (USA \u2014 General Electric)",
+              "leaf_id": "PHO-020"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rare Earth Elements",
+      "children": [
+        {
+          "name": "Neodymium",
+          "children": [
+            {
+              "name": "Neodymium Ore (China \u2014 China Northern Rare Earth)",
+              "leaf_id": "PHO-021"
+            }
+          ]
+        },
+        {
+          "name": "Dysprosium",
+          "children": [
+            {
+              "name": "Dysprosium Ore (Australia \u2014 Lynas)",
+              "leaf_id": "PHO-022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Other Materials",
+      "children": [
+        {
+          "name": "Gold",
+          "children": [
+            {
+              "name": "Gold Ore (South Africa \u2014 AngloGold Ashanti)",
+              "leaf_id": "PHO-023"
+            }
+          ]
+        },
+        {
+          "name": "Silver",
+          "children": [
+            {
+              "name": "Silver Ore (Mexico \u2014 Fresnillo)",
+              "leaf_id": "PHO-024"
+            }
+          ]
+        },
+        {
+          "name": "Copper",
+          "children": [
+            {
+              "name": "Copper Ore (Chile \u2014 Codelco)",
+              "leaf_id": "PHO-025"
+            }
+          ]
+        },
+        {
+          "name": "Tin",
+          "children": [
+            {
+              "name": "Tin Ore (China \u2014 Yunnan Tin)",
+              "leaf_id": "PHO-026"
+            }
+          ]
+        },
+        {
+          "name": "Lead",
+          "children": [
+            {
+              "name": "Lead Ore (Australia \u2014 BHP)",
+              "leaf_id": "PHO-027"
+            }
+          ]
+        },
+        {
+          "name": "Zinc",
+          "children": [
+            {
+              "name": "Zinc Ore (Canada \u2014 Teck Resources)",
+              "leaf_id": "PHO-028"
+            }
+          ]
+        },
+        {
+          "name": "Tantalum",
+          "children": [
+            {
+              "name": "Tantalum Ore (Rwanda \u2014 AB Minerals)",
+              "leaf_id": "PHO-029"
+            }
+          ]
+        },
+        {
+          "name": "Tungsten",
+          "children": [
+            {
+              "name": "Tungsten Ore (China \u2014 China Molybdenum)",
+              "leaf_id": "PHO-030"
+            }
+          ]
+        },
+        {
+          "name": "Molybdenum",
+          "children": [
+            {
+              "name": "Molybdenum Ore (USA \u2014 Freeport-McMoRan)",
+              "leaf_id": "PHO-031"
+            }
+          ]
+        },
+        {
+          "name": "Cobalt",
+          "children": [
+            {
+              "name": "Cobalt Ore (Democratic Republic of Congo \u2014 Glencore)",
+              "leaf_id": "PHO-032"
+            }
+          ]
+        },
+        {
+          "name": "Nickel",
+          "children": [
+            {
+              "name": "Nickel Ore (Indonesia \u2014 Vale)",
+              "leaf_id": "PHO-033"
+            }
+          ]
+        },
+        {
+          "name": "Chromium",
+          "children": [
+            {
+              "name": "Chromium Ore (South Africa \u2014 Glencore)",
+              "leaf_id": "PHO-034"
+            }
+          ]
+        },
+        {
+          "name": "Manganese",
+          "children": [
+            {
+              "name": "Manganese Ore (South Africa \u2014 Assmang)",
+              "leaf_id": "PHO-035"
+            }
+          ]
+        },
+        {
+          "name": "Vanadium",
+          "children": [
+            {
+              "name": "Vanadium Ore (South Africa \u2014 Bushveld Minerals)",
+              "leaf_id": "PHO-036"
+            }
+          ]
+        },
+        {
+          "name": "Titanium",
+          "children": [
+            {
+              "name": "Titanium Ore (Australia \u2014 Iluka Resources)",
+              "leaf_id": "PHO-037"
+            }
+          ]
+        },
+        {
+          "name": "Zirconium",
+          "children": [
+            {
+              "name": "Zirconium Ore (Australia \u2014 Iluka Resources)",
+              "leaf_id": "PHO-038"
+            }
+          ]
+        },
+        {
+          "name": "Hafnium",
+          "children": [
+            {
+              "name": "Hafnium Ore (Australia \u2014 Iluka Resources)",
+              "leaf_id": "PHO-039"
+            }
+          ]
+        },
+        {
+          "name": "Niobium",
+          "children": [
+            {
+              "name": "Niobium Ore (Brazil \u2014 CBMM)",
+              "leaf_id": "PHO-040"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

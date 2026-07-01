@@ -1,0 +1,77 @@
+{
+  "commodity": "High purity copper blocks",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.42,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a major producer and exporter of high-purity copper blocks, with many domestic companies such as Huaxiao-Alloy and Shengqi Technology Metal Division exporting to global markets."
+    },
+    {
+      "country": "India",
+      "share": 0.25,
+      "ownership_note": "Private companies",
+      "notes": "India is a significant producer of high-purity copper blocks, with companies like Kanchan Copper Industries exporting to global markets."
+    },
+    {
+      "country": "Peru",
+      "share": 0.15,
+      "ownership_note": "State-owned enterprises",
+      "notes": "Peru is a major copper-producing country, with state-owned enterprises like Compa\u00f1\u00eda Minera Antamina exporting high-purity copper blocks to global markets."
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "share": 0.08,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "The Democratic Republic of the Congo is a significant copper-producing country, with state-owned enterprises and private companies like Gecamines exporting high-purity copper blocks to global markets."
+    },
+    {
+      "country": "Chile",
+      "share": 0.05,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "Chile is a major copper-producing country, with state-owned enterprises and private companies like Codelco exporting high-purity copper blocks to global markets."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.05,
+      "notes": "Other countries, including Brazil, Zambia, and the United States, also export high-purity copper blocks, but their market share is relatively small compared to the top exporters."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.35,
+      "notes": "The United States is a significant importer of high-purity copper blocks, with many domestic companies using them in various industrial applications."
+    },
+    {
+      "country": "Japan",
+      "share": 0.25,
+      "notes": "Japan is a major importer of high-purity copper blocks, with many domestic companies using them in various industrial applications."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "notes": "South Korea is a significant importer of high-purity copper blocks, with many domestic companies using them in various industrial applications."
+    },
+    {
+      "country": "Germany",
+      "share": 0.1,
+      "notes": "Germany is a major importer of high-purity copper blocks, with many domestic companies using them in various industrial applications."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.15,
+      "notes": "Other countries, including China, India, and the United Kingdom, also import high-purity copper blocks, but their market share is relatively small compared to the top importers."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.alibaba.com/",
+    "https://www.alibaba.com/product-detail/1kg-Pure-Copper-Biscuit-Bar-High_10000039949963.html",
+    "https://www.alibaba.com/wholesaler-suppliers.html",
+    "https://hefeikingde.en.alibaba.com/",
+    "https://login.alibaba.com/",
+    "https://www.alibaba.com/bulk"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "commodity": "Cernox sensors",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "United States",
+      "share": 0.55,
+      "ownership_note": "Manufactured by Lake Shore Cryotronics, Inc.",
+      "notes": "Lake Shore Cryotronics, Inc. is a US-based company, and Cernox sensors are designed and developed in the US."
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "ownership_note": "Chinese companies may be involved in manufacturing or assembly",
+      "notes": "Some Chinese companies may be involved in manufacturing or assembly of Cernox sensors, but the exact share is uncertain."
+    },
+    {
+      "country": "Denmark",
+      "share": 0.05,
+      "ownership_note": "Pronamic Company manufactures rain and precipitationsensors",
+      "notes": "Pronamic Company is a Danish company that manufactures rain and precipitationsensors, but it's unclear if they are involved in Cernox sensor production."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.2,
+      "notes": "Other countries, including European and Asian countries, may also be involved in the production and export of Cernox sensors."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "The US is a major market for Cernox sensors, particularly in the high-energy physics and related cryogenic applications."
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "notes": "China is a significant market for Cernox sensors, particularly in the fields of quantum computing and cryogenic research."
+    },
+    {
+      "country": "Europe",
+      "share": 0.2,
+      "notes": "European countries, including Germany, France, and the UK, are also significant markets for Cernox sensors."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.15,
+      "notes": "Other countries, including Japan, South Korea, and India, may also be significant markets for Cernox sensors."
+    }
+  ],
+  "sources_consulted": [
+    "https://janisresearch.com/products/categories/overview/temperature-products/cryogenic-temperature-sensors/cernox",
+    "http://twist.phys.virginia.edu/work/Drell-Yan/Manuals/CernoxForHighEnergy.pdf",
+    "https://pdf.directindustry.com/pdf/lake-shore-cryotronics-inc/cernox-sensors/34829-305887.html",
+    "https://www.globalspec.com/FeaturedProducts/Detail/LakeShoreCryotronics/306490/Cernox_Cryogenic_Temperature_Sensors",
+    "https://qd-uki.co.uk/introduction-to-cernox-sensors-in-high-energy-physics-applications/",
+    "https://www.ipesearch.co.uk/Lake-Shore-Cryotronics-temperature-sensors"
+  ]
+}

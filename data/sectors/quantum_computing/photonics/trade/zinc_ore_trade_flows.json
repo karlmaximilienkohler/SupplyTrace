@@ -1,0 +1,52 @@
+{
+  "commodity": "Zinc Ore (Canada \u2014 Teck Resources)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.35,
+      "ownership_note": "State-owned and private companies",
+      "notes": "China is a major zinc producer and exporter, with a significant market share in the global zinc ore market."
+    },
+    {
+      "country": "Canada",
+      "share": 0.25,
+      "ownership_note": "Teck Resources (private company)",
+      "notes": "As the beneficial controller of the commodity, Canada has a significant share in the global zinc ore market."
+    },
+    {
+      "country": "Australia",
+      "share": 0.15,
+      "ownership_note": "Private companies",
+      "notes": "Australia is a significant zinc producer and exporter, with a notable market share in the global zinc ore market."
+    },
+    {
+      "country": "Europe",
+      "share": 0.1,
+      "ownership_note": "Private companies",
+      "notes": "European countries, such as the UK and Germany, are also significant zinc producers and exporters, with a smaller but still notable market share in the global zinc ore market."
+    },
+    {
+      "country": "Other",
+      "share": 0.15,
+      "ownership_note": "Various countries",
+      "notes": "Other countries, including those in North America, Oceania, Asia, and Africa, also export zinc ore, but with a smaller market share compared to the top exporters."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China is the largest consumer of zinc ore, driven by its significant production and demand for the metal."
+    }
+  ],
+  "sources_consulted": [
+    "https://chemicalresearchinsight.com/2025/11/23/top-10-companies-in-the-zinc-ore-industry-2025-global-leaders-in-mineral-supply-and-sustainable-mining/",
+    "https://www.mordorintelligence.com/industry-reports/zinc-market/companies",
+    "https://worldunfolds.com/largest-zinc-producer-in-the-world/",
+    "https://us.metoree.com/categories/2789/",
+    "https://www.globalinforesearch.com/reports/2837783/zinc-ore",
+    "https://www.prof-research.com/index.php?route=information/news/news&news_id=7873"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "commodity": "Mylar film",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Japan",
+      "share": 0.35,
+      "ownership_note": "DuPont Teijin Films (Japanese-American joint venture)",
+      "notes": "Leading manufacturer of Mylar film, with significant market share in Asia and globally"
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "notes": "Home to several major Mylar film manufacturers, including DuPont and Chemplex Industries"
+    },
+    {
+      "country": "China",
+      "share": 0.15,
+      "ownership_note": "Hongji Group (Chinese company with global operations)",
+      "notes": "Growing presence in the global Mylar film market, with increasing exports to Asia and Europe"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "Home to several major Mylar film manufacturers, including Toray Plastics"
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.05,
+      "notes": "Significant exports of Mylar film to Asia and Europe, with several local manufacturers"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "Major importer of Mylar film for various applications, including electronics and packaging"
+    },
+    {
+      "country": "United States",
+      "share": 0.2,
+      "notes": "Significant importer of Mylar film for various applications, including aerospace and automotive"
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Imports Mylar film for various applications, including electronics and healthcare"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "Imports Mylar film for various applications, including electronics and packaging"
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "notes": "Imports Mylar film for various applications, including electronics and automotive"
+    }
+  ],
+  "sources_consulted": [
+    "https://us.metoree.com/categories/3040/",
+    "https://mylar.com/",
+    "https://ensun.io/search/mylar-polyester-film-product",
+    "https://www.futuremarketinsights.com/reports/mylar-film-market-share-analysis",
+    "https://www.volza.com/p/mylar-film/manufacturers/",
+    "https://fujiansupertech.com/product-category/mylar-film/"
+  ]
+}

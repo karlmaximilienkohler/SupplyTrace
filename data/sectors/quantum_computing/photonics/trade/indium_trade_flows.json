@@ -1,0 +1,71 @@
+{
+  "commodity": "Indium (China \u2014 China Tin)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.85,
+      "ownership_note": "State-owned conglomerates and specialized metal producers",
+      "notes": "China is the largest producer and exporter of indium, with a significant presence in global supply chains."
+    },
+    {
+      "country": "Japan",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Japan was once the world's largest producer of indium, but now China dominates the market."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Chinese-owned mines",
+      "notes": "Brazilian mines owned by Chinese companies contribute to the global indium supply."
+    },
+    {
+      "country": "Canada",
+      "share": 0.03,
+      "ownership_note": "Private companies",
+      "notes": "Canada is a minor player in the global indium market, with some private companies operating in the country."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.02,
+      "notes": "Other countries, including the United States, Australia, and Peru, also contribute to the global indium supply, but their market share is relatively small."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.6,
+      "notes": "China is a significant importer of indium, driven by its dynamic electronics manufacturing ecosystem."
+    },
+    {
+      "country": "United States",
+      "share": 0.2,
+      "notes": "The United States is a major importer of indium, with many companies using the metal in their electronics and semiconductor products."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is another significant importer of indium, with many companies using the metal in their electronics and semiconductor products."
+    },
+    {
+      "country": "Japan",
+      "share": 0.05,
+      "notes": "Japan is also an importer of indium, driven by its electronics and semiconductor industries."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.05,
+      "notes": "Other countries, including the European Union, Taiwan, and India, also import indium, but their market share is relatively small."
+    }
+  ],
+  "sources_consulted": [
+    "https://chemicalresearchinsight.com/2025/07/07/top-10-companies-in-the-china-gallium-indium-tin-alloy-industry-2025-market-leaders-enabling-next-gen-electronics/",
+    "https://www.globalinforesearch.com/reports/2411697/indium",
+    "https://us.metoree.com/categories/6855/",
+    "https://www.researchandmarkets.com/articles/key-companies-in-indium",
+    "https://www.sourcifychina.com/top-indium-supplier-compare/",
+    "https://www.sohoinchina.com/top-indium-company-compare/"
+  ]
+}

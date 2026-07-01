@@ -1,0 +1,66 @@
+{
+  "commodity": "Copper Ore (Chile \u2014 Codelco)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Chile",
+      "share": 0.85,
+      "ownership_note": "State-owned",
+      "notes": "Codelco is the world's largest copper producer and responsible for a significant portion of Chile's copper output."
+    },
+    {
+      "country": "China",
+      "share": 0.1,
+      "ownership_note": "Chinese companies own some Chilean mines",
+      "notes": "Chinese companies have invested in Chilean copper mines, including the Brazilian-owned mine in Chile."
+    },
+    {
+      "country": "Peru",
+      "share": 0.03,
+      "ownership_note": "Private companies",
+      "notes": "Peruvian private companies export copper ore from their mines in Peru."
+    },
+    {
+      "country": "Australia",
+      "share": 0.02,
+      "ownership_note": "Private companies",
+      "notes": "Australian private companies export copper ore from their mines in Australia."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.0,
+      "notes": "Minimal exports from other countries"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China is a significant importer of copper ore, including from Chile."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Japan is a significant importer of copper ore, including from Chile."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "notes": "South Korea is a significant importer of copper ore, including from Chile."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.25,
+      "notes": "Minimal imports from other countries"
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Codelco",
+    "https://www.codelco.com/minisitio-ingles",
+    "https://miningdigital.com/top10/top-10-copper-mining-companies-in-chile",
+    "https://www.reuters.com/world/americas/codelco-monthly-output-dives-sowing-doubts-about-validity-end-2025-production-2026-03-17/",
+    "https://investingnews.com/daily/resource-investing/base-metals-investing/copper-investing/top-copper-producing-companies/",
+    "https://www.britannica.com/money/Codelco"
+  ]
+}

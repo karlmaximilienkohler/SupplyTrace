@@ -1,0 +1,78 @@
+{
+  "commodity": "Titanium Alloy (Ti-6Al-4V)",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "ownership_note": "Significant control over titanium ore and production facilities.",
+      "notes": "China is a major player in the titanium supply chain, controlling a large portion of the global market."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "ownership_note": "Home to key manufacturers and advanced processing facilities.",
+      "notes": "The US has a strong aerospace sector driving demand for Ti-6Al-4V."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "ownership_note": "Advanced technology in titanium processing.",
+      "notes": "Japan is known for high-quality titanium products, particularly in aerospace."
+    },
+    {
+      "country": "Russia",
+      "share": 0.1,
+      "ownership_note": "Significant titanium reserves and production capabilities.",
+      "notes": "Russia has a growing presence in the titanium market, especially for aerospace applications."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Titanium ore mining, with foreign ownership of processing facilities.",
+      "notes": "Brazil has substantial titanium ore resources but limited processing capacity."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "ownership_note": "Strong engineering and manufacturing capabilities.",
+      "notes": "Germany is known for high-quality engineering products, including titanium alloys."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.3,
+      "notes": "Major consumer of titanium alloys for aerospace and medical applications."
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "notes": "Growing domestic demand for titanium alloys in various industries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Strong demand in aerospace and automotive sectors."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "notes": "High demand for precision engineering and manufacturing."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "Increasing use of titanium alloys in technology and manufacturing."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Ti-6Al-4V",
+    "https://www.chinaalloypipe.com/titanium-pipe/corrosion-resistant-titanium-alloy-ti6al4v.html",
+    "https://www.nisarginternational.com/titanium-and-titanium-alloys.php",
+    "https://www.firmetal.com/titanium/titanium-6aluminum-4vanadium-grade5.html",
+    "https://www.technavio.com/report/ti-6al-4v-titanium-alloy-market-industry-analysis",
+    "https://lkalloy.com/titanium-alloys/titanium-alloy-ti-6al-4v/"
+  ]
+}

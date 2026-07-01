@@ -1,0 +1,60 @@
+{
+  "commodity": "Chromium Ore (South Africa \u2014 Glencore)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "South Africa",
+      "share": 0.85,
+      "ownership_note": "Glencore Operations South Africa",
+      "notes": "South Africa contributes over 40% of the world's chrome supply"
+    },
+    {
+      "country": "Kazakhstan",
+      "share": 0.1,
+      "ownership_note": "Glencore",
+      "notes": "Glencore is one of the world's largest diversified natural resource companies and a dominant force in the chrome ore market, primarily through its operations in South Africa and Kazakhstan"
+    },
+    {
+      "country": "China",
+      "share": 0.05,
+      "ownership_note": "Chinese consortium (SinoSteel, Juxian)",
+      "notes": "Glencore is thought to be in negotiations with a consortium of Asian, mostly Chinese, mills to purchase its ferroalloy assets"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.6,
+      "notes": "China is a major consumer of chromium ore, with a significant demand for the metal in its steel industry"
+    },
+    {
+      "country": "India",
+      "share": 0.2,
+      "notes": "India is another major consumer of chromium ore, with a significant demand for the metal in its steel industry"
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "notes": "Japan is a significant consumer of chromium ore, with a demand for the metal in its steel industry and other industrial applications"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "notes": "South Korea is a significant consumer of chromium ore, with a demand for the metal in its steel industry and other industrial applications"
+    },
+    {
+      "country": "United States",
+      "share": 0.05,
+      "notes": "The United States is a significant consumer of chromium ore, with a demand for the metal in its steel industry and other industrial applications"
+    }
+  ],
+  "sources_consulted": [
+    "https://www.glencore.com/what-we-do/metals-and-minerals/ferroalloys",
+    "https://chemicalresearchinsight.com/2025/12/05/top-10-companies-in-the-chrome-ore-concentrate-industry-2025-market-leaders-powering-global-stainless-steel-production/",
+    "https://www.miningweekly.com/article/south-africas-chromite-recovery-potential-broadened-by-glencore-sibanye-deal-2025-02-19",
+    "https://criticalstrategicmetals.com/minerals/chromium/companies/",
+    "https://www.mordorintelligence.com/industry-reports/chromium-market/companies",
+    "https://www.oreways.com/articles/chrome-mining-in-south-africa-a-comprehensive-overview.html?id=16"
+  ]
+}

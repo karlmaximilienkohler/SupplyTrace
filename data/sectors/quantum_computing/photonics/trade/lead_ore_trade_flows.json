@@ -1,0 +1,66 @@
+{
+  "commodity": "Lead Ore (Australia \u2014 BHP)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Australia",
+      "share": 0.55,
+      "ownership_note": "BHP is the primary exporter",
+      "notes": "BHP is a multinational mining, metals and petroleum company headquartered in Melbourne, Australia"
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a significant consumer of lead ore, and many Chinese companies have invested in lead ore mines around the world"
+    },
+    {
+      "country": "Brazil",
+      "share": 0.1,
+      "ownership_note": "Chinese and Brazilian companies",
+      "notes": "Brazil is a significant producer of lead ore, and many Chinese companies have invested in Brazilian mines"
+    },
+    {
+      "country": "Peru",
+      "share": 0.05,
+      "ownership_note": "Peruvian state-owned enterprises and private companies",
+      "notes": "Peru is a significant producer of lead ore, and many Peruvian companies have invested in lead ore mines"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "notes": "Other countries, including the United States, Canada, and Africa"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.6,
+      "notes": "China is a significant consumer of lead ore, and many Chinese companies have invested in lead ore mines around the world"
+    },
+    {
+      "country": "India",
+      "share": 0.15,
+      "notes": "India is a significant consumer of lead ore, and many Indian companies have invested in lead ore mines around the world"
+    },
+    {
+      "country": "United States",
+      "share": 0.1,
+      "notes": "The United States is a significant consumer of lead ore, and many American companies have invested in lead ore mines around the world"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.15,
+      "notes": "Other countries, including Japan, South Korea, and Europe"
+    }
+  ],
+  "sources_consulted": [
+    "https://www.exporthub.com/lead-ores-manufacturers/",
+    "https://www.tradewheel.com/lead-ore/",
+    "https://www.prof-research.com/index.php?route=information/news/news&news_id=7871",
+    "https://www.mordorintelligence.com/industry-reports/lead-market/companies",
+    "https://ec21.com/companies/lead-ore.html",
+    "https://www.listcompany.org/Lead_Ore_Product.html"
+  ]
+}

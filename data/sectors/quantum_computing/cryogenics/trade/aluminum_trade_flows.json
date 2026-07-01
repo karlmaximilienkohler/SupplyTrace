@@ -1,0 +1,96 @@
+{
+  "commodity": "Aluminum",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.35,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "Hongqiao, a state-owned enterprise, is the world's largest aluminum producer, accounting for approximately 15% of global production."
+    },
+    {
+      "country": "United Arab Emirates",
+      "share": 0.15,
+      "ownership_note": "Emirates Global Aluminium (EGA) is a UAE-based company",
+      "notes": "EGA operates smelters in Dubai and Abu Dhabi, accounting for nearly 4% of global aluminum production."
+    },
+    {
+      "country": "United States",
+      "share": 0.1,
+      "ownership_note": "Alcoa Corporation, Novelis Inc., and Logan Aluminum are major US-based aluminum producers",
+      "notes": "Alcoa Corporation is one of the top aluminum producers globally, while Novelis Inc. is the largest recycler of aluminum globally."
+    },
+    {
+      "country": "Australia",
+      "share": 0.05,
+      "ownership_note": "Rio Tinto and Alcoa are major Australian aluminum producers",
+      "notes": "Rio Tinto operates aluminum smelters in Australia, while Alcoa has a significant presence in the country."
+    },
+    {
+      "country": "Canada",
+      "share": 0.05,
+      "ownership_note": "Alcoa and Rio Tinto have operations in Canada",
+      "notes": "Alcoa and Rio Tinto operate aluminum smelters in Canada, contributing to the country's aluminum exports."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Vale and Alcoa have operations in Brazil",
+      "notes": "Vale operates aluminum smelters in Brazil, while Alcoa has a significant presence in the country."
+    },
+    {
+      "country": "Russia",
+      "share": 0.05,
+      "ownership_note": "Rusal and Norilsk Nickel are major Russian aluminum producers",
+      "notes": "Rusal is one of the largest aluminum producers globally, while Norilsk Nickel operates aluminum smelters in Russia."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "ownership_note": "Hindalco Industries and Nalco are major Indian aluminum producers",
+      "notes": "Hindalco Industries is a leading aluminum producer in India, while Nalco operates aluminum smelters in the country."
+    },
+    {
+      "country": "Norway",
+      "share": 0.05,
+      "ownership_note": "Norsk Hydro is a major Norwegian aluminum producer",
+      "notes": "Norsk Hydro operates aluminum smelters in Norway, contributing to the country's aluminum exports."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China is the world's largest consumer of aluminum, driven by its growing construction and manufacturing sectors."
+    },
+    {
+      "country": "United States",
+      "share": 0.2,
+      "notes": "The US is a significant importer of aluminum, driven by its automotive and aerospace industries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a major importer of aluminum, driven by its electronics and automotive industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a significant importer of aluminum, driven by its electronics and automotive industries."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "notes": "Germany is a major importer of aluminum, driven by its automotive and aerospace industries."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/List_of_largest_aluminum_producers_by_output",
+    "https://www.steel-technology.com/articles/aluminum-producing-companies-in-the-world",
+    "https://disfold.com/industry/aluminum/companies/",
+    "https://chemicalresearchinsight.com/2025/06/13/top-10-companies-in-the-global-aluminium-alloys-industry-2025-market-leaders-powering-lightweight-solutions/",
+    "https://companydata.com/manufacturers/world/aluminium-manufacturers/",
+    "https://www.fortunebusinessinsights.com/blog/top-aluminium-companies-in-the-world-10995"
+  ]
+}

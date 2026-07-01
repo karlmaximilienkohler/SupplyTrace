@@ -1,0 +1,66 @@
+{
+  "commodity": "Silver Powder",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.45,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a major producer and exporter of silver powder, with companies like CNMC Ningxia Orient Group and Kunming Noble Metal Electronic Materials being key players."
+    },
+    {
+      "country": "India",
+      "share": 0.25,
+      "ownership_note": "Private companies",
+      "notes": "India is a significant producer and exporter of silver powder, with companies like Shoei Chemical and Mitsui Kinzoku being major players."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "ownership_note": "Private companies",
+      "notes": "South Korea is a smaller but still significant producer and exporter of silver powder, with companies like Heraeus and Changgui Metal Powder being key players."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Brazil is a smaller producer and exporter of silver powder, with companies like Tongling Nonferrous Metals Group Holding having a presence in the country."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "notes": "Other countries, including the United States, Japan, and European nations, also export silver powder, but their market share is relatively small compared to the top four countries."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China is a major importer of silver powder, driven by its growing demand for electronics and other industries."
+    },
+    {
+      "country": "India",
+      "share": 0.25,
+      "notes": "India is a significant importer of silver powder, driven by its growing demand for electronics and other industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "notes": "South Korea is a smaller but still significant importer of silver powder, driven by its demand for electronics and other industries."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.2,
+      "notes": "Other countries, including the United States, Japan, and European nations, also import silver powder, but their market share is relatively small compared to the top four countries."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Silver",
+    "https://www.globalsources.com/manufacturers/silver-powder.html",
+    "https://www.alibaba.com/",
+    "https://www.linkedin.com/pulse/global-silver-powder-paste-electronic-components-market-jbwkf/",
+    "https://www.goodreturns.in/silver-rates/",
+    "https://www.volza.com/p/silver/manufacturers/manufacturers-in-japan/"
+  ]
+}

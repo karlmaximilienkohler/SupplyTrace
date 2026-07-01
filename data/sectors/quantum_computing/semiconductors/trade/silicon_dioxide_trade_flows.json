@@ -1,0 +1,78 @@
+{
+  "commodity": "Silicon Dioxide",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.45,
+      "ownership_note": "Significant domestic production; some foreign investments in mining.",
+      "notes": "China is the largest producer and exporter of silicon dioxide, particularly in various forms like fumed and precipitated silica."
+    },
+    {
+      "country": "United States",
+      "share": 0.2,
+      "ownership_note": "Major companies with domestic production; some foreign ownership in specific sectors.",
+      "notes": "The U.S. has a strong chemical manufacturing base and exports high-purity silicon dioxide."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "ownership_note": "Strong industrial base; some foreign investments in chemical production.",
+      "notes": "Germany is known for high-quality industrial silica products."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.1,
+      "ownership_note": "Mining operations owned by foreign companies.",
+      "notes": "Brazil has significant natural resources for silica but is often controlled by foreign entities."
+    },
+    {
+      "country": "Japan",
+      "share": 0.05,
+      "ownership_note": "Domestic production with some foreign partnerships.",
+      "notes": "Japan produces specialized silica for high-tech applications."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "ownership_note": "Growing production capacity; some foreign investments.",
+      "notes": "India is increasing its role in the global silica market."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.3,
+      "notes": "Major importer of high-purity silicon dioxide for various industries."
+    },
+    {
+      "country": "Germany",
+      "share": 0.25,
+      "notes": "Imports silica for industrial applications and manufacturing."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Imports specialized silica for electronics and pharmaceuticals."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "notes": "Growing demand for silicon dioxide in technology sectors."
+    },
+    {
+      "country": "India",
+      "share": 0.1,
+      "notes": "Increasing imports to meet domestic industrial demand."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.bing.com/aclick?ld=e8lgYZHBeail862Bb0ESCQezVUCUxjKtWJIVw0XrNq9BmaW7mt7WZPEZPi91v2si0TfW_njFxKI7AoV2Z8Cy8raLITZa23SIBXsbj2cZiB4J42tulWfM3M4qELkoive5VDQGqOheR1dq-v_QA6xk5E4xqEUJPlqC73dhnEmXPqBWE5U7ZSVX7pxjtpl7h1sgYZnaQTpA&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWxpYmFiYS5jb20lMmZ0cmFkZSUyZnNlYXJjaCUzZnRhYiUzZGFsbCUyNlNlYXJjaFRleHQlM2RvdmVyc2VhcytzdXBwbGllciUyNnNyYyUzZHNlbV9iaW5nJTI2ZmllbGQlM2RVRyUyNmZyb20lM2RzZW1fYmluZyUyNmNtcGduJTNkNDg3NTE5NDY3JTI2YWRncnAlM2QxMjM0NzUyOTEyMzI1Njg5JTI2dGd0JTNka3dkLTc3MTcyNTIzOTE3MDM3JTNhbG9jLTE3MCUyNkt3ZElEJTNkNzcxNzI1MjM5MTcwMzclMjZtdGNodHlwJTNkcCUyNmJkbXRjaHR5cCslM2RiYiUyNm50d3JrJTNkbyUyNmRldmljZSUzZGMlMjZjcmVhdGl2ZSUzZDc3MTcyMjAxMjEwMDQzJTI2cDElM2RkZWZhdWx0JTI2cDIlM2RkZWZhdWx0JTI2cDMlM2RkZWZhdWx0JTI2UXVlcnklM2RTaWxpY29uJTI1MjBEaW94aWRlJTI1MjBzdXBwbGllcnMlMjUyMENoaW5hJTI1MjBKYXBhbiUyNTIwU291dGglMjUyMEtvcmVhJTI1MjBUYWl3YW4lMjZtc2Nsa2lkJTNkOTczNTQwNDliOWFhMWQ5MjM4ODYyOWY0ZWMzZWFmMTg&rlid=97354049b9aa1d92388629f4ec3eaf18",
+    "https://www.bing.com/aclick?ld=e8MdAFXajx-_LIVd2y9Hzp8DVUCUxeZ6_pAHFh7TbvkEjRkXNnWcJcoKI_hmM3ilv1kQP0z-FeDQ9qngBLzX5VnJk60G_1nuxpwxbahtHwboAEwFJMuPBchKjBjbknrxa-bdN3rWCTOCqW9z4FjKpzpbaiKHn-mQpqYlLNxfGA2g_TEB94Za-DsDr_bbPEe965tpXJuw&u=aHR0cHMlM2ElMmYlMmZ3d3cubWFkZS1pbi1jaGluYS5jb20lM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY29udGVudCUzZFg3ODY5ODM1JTI2dXRtX2NhbXBhaWduJTNkNTEyMzQ5MDMlMjZhZGdyb3VwJTNkOTE1NjcyMTc2JTI2dXRtX3Rlcm0lM2RjaGluYSUyNTIwbWFudWZhY3R1cmVyJTI2bXRwJTNkYnAlMjZuZXQlM2RvJTI2ZGV2JTNkYyUyNmxvYyUzZDE2NDU4MC0xMDAlMjZtc2Nsa2lkJTNkNTg2ODQ3M2I1MzE0MWQ0MWQxNTkyZTg2MDY4MDQyNmU&rlid=5868473b53141d41d1592e860680426e",
+    "https://www.bing.com/aclick?ld=e8h8kqTY-rZ0PDc7be1yQYPTVUCUwy-bjjU4-PRUKeO4H-l60zX41XE3kpL7WTgmQcTpLEmnTg9ZGnv41dQ5f1uq4S5STQ90RutR0QI9fJWqzo02vnpcDhs60eNQxu3OAJvEirKDvmOTRTJof4K03jtdSSHK0aUyJDuws5F87bybHO7w1a54NiTpk-KuEIVr-yzQMNdA&u=aHR0cHMlM2ElMmYlMmZ3d3cuc2FtYXRlcmlhbHMuY29tJTJmMTYxLXNpbGljb24uaHRtbCUzZnV0bV9tZWRpdW0lM2RhZHdvcmRzJTI2dXRtX2NhbXBhaWduJTNkJTI2dXRtX3NvdXJjZSUzZCUyNnV0bV9jb250ZW50JTNkJTI2dXRtX3Rlcm0lM2RiX1NpbGljb24lMjUyME94aWRlJTI2bXNjbGtpZCUzZDE1Y2RlZmM1ZmQ0YzE4YzNhMzIzODY3OGE4ZDhmYThj&rlid=15cdefc5fd4c18c3a3238678a8d8fa8c",
+    "https://www.accio.com/supplier/wholesale-silicon-dioxide",
+    "https://www.guidechem.com/suppliers/7631-86-9.html",
+    "https://www.pharmacompass.com/manufacturers-suppliers-exporters/silicon-dioxide-excipient"
+  ]
+}

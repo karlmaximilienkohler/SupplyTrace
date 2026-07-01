@@ -1,0 +1,77 @@
+{
+  "commodity": "Oxygen-free high conductivity copper",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.42,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a dominant player in the global oxygen-free high conductivity copper market, with major producers such as Ningbo Jintian Copper, Jiangsu Xinhai, and Wangbao Group."
+    },
+    {
+      "country": "Malaysia",
+      "share": 0.25,
+      "ownership_note": "Metros Holdings Berhad is a Malaysian company",
+      "notes": "Malaysia is a significant exporter of oxygen-free high conductivity copper, with Metrod Holdings Berhad being a key player in the global market."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "ownership_note": "Aurubis and Wieland-Werke are German companies",
+      "notes": "Germany is a notable exporter of oxygen-free high conductivity copper, with Aurubis and Wieland-Werke being prominent players in the global market."
+    },
+    {
+      "country": "Poland",
+      "share": 0.08,
+      "ownership_note": "KGHM Polska Miedz is a Polish company",
+      "notes": "Poland is a smaller but still significant exporter of oxygen-free high conductivity copper, with KGHM Polska Miedz being a key player in the global market."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "SAM Dong is a South Korean company",
+      "notes": "South Korea is a smaller but still notable exporter of oxygen-free high conductivity copper, with SAM Dong being a key player in the global market."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.05,
+      "notes": "Other countries, including the United States, Japan, and Brazil, also export oxygen-free high conductivity copper, but their market share is relatively small compared to the top exporters."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.35,
+      "notes": "The United States is a significant importer of oxygen-free high conductivity copper, driven by demand from the electronics and medical device industries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.25,
+      "notes": "Japan is a notable importer of oxygen-free high conductivity copper, driven by demand from the electronics and automotive industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "notes": "South Korea is a smaller but still significant importer of oxygen-free high conductivity copper, driven by demand from the electronics and automotive industries."
+    },
+    {
+      "country": "China",
+      "share": 0.1,
+      "notes": "China is also an importer of oxygen-free high conductivity copper, driven by demand from the electronics and renewable energy industries."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.15,
+      "notes": "Other countries, including the European Union, India, and Brazil, also import oxygen-free high conductivity copper, but their market share is relatively small compared to the top importers."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.linkedin.com/pulse/global-oxygen-free-high-conductivity-copper-market-c2gpf",
+    "https://www.int-metal.com/news-show-1054271.html",
+    "https://www.komachine.com/en/companies/sam-dong/products/42883-o.f.h.c.-(oxygen-free-high-conductivity-copper)",
+    "https://cnhbjjs.com/news/news/Which_type_of_oxygen_free_copper_rod_has_the_best_conductivity_.html",
+    "https://enamelledwires.com/07/206.html",
+    "https://patents.google.com/patent/US3987224A/en"
+  ]
+}

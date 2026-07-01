@@ -1,0 +1,72 @@
+{
+  "commodity": "Niobium",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Brazil",
+      "share": 0.6,
+      "ownership_note": "Majority of niobium mines are owned by Brazilian companies, but some operations may have foreign investment.",
+      "notes": "Brazil is the largest producer and exporter of niobium, supplying a significant portion of global demand."
+    },
+    {
+      "country": "Canada",
+      "share": 0.2,
+      "ownership_note": "Canadian niobium production is primarily from local companies.",
+      "notes": "Canada has a growing niobium mining sector, contributing to the global supply."
+    },
+    {
+      "country": "Australia",
+      "share": 0.1,
+      "ownership_note": "Some operations may be foreign-owned.",
+      "notes": "Australia has emerging niobium projects that are beginning to contribute to exports."
+    },
+    {
+      "country": "United States",
+      "share": 0.05,
+      "ownership_note": "Domestic production is limited; reliance on imports.",
+      "notes": "The U.S. has some niobium resources but is not a major exporter."
+    },
+    {
+      "country": "Others",
+      "share": 0.05,
+      "ownership_note": "Includes various smaller producers.",
+      "notes": "Other countries contribute minimally to the global niobium supply."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "China is the largest consumer of niobium, primarily for its steel and alloy industries."
+    },
+    {
+      "country": "European Union",
+      "share": 0.3,
+      "notes": "The EU imports a significant amount of niobium, mainly from Brazil."
+    },
+    {
+      "country": "India",
+      "share": 0.15,
+      "notes": "India's growing automotive and infrastructure sectors drive niobium demand."
+    },
+    {
+      "country": "United States",
+      "share": 0.1,
+      "notes": "The U.S. imports most of its niobium needs, primarily from Brazil."
+    },
+    {
+      "country": "Others",
+      "share": 0.05,
+      "notes": "Includes various smaller markets with limited niobium imports."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.chemicalbook.com/Manufacturers/NIOBIUM.htm",
+    "https://www.bing.com/aclick?ld=e8G_0lGG9cHHJ_q91naKU6QjVUCUxhroOKBk-EOdzdGYgiak2d_O0gKmUTwjfOHFkhsSJ7YfTRah2-5LtG4TaRJL3jaGVMKJUXphE8WUYcy3oUUhqfrWhqh21TLdC8cLq7y_FL6YvcT43kOdcT2hyjRwEr0vcNU2oRi-TaZDRWdkISh4grA2QNGtLB1qiONm23S0_okw&u=aHR0cCUzYSUyZiUyZnd3dy5ldmFuc3RlY2hub2xvZ3kuY29tJTNmbXNjbGtpZCUzZGUzYjBmZmZmZDdmMDE0NTU3NzE2OTY0MjliMjQwODA4&rlid=e3b0ffffd7f01455771696429b240808",
+    "https://vulcanmetalgroup.com/niobium/",
+    "https://www.steelpipesfactory.com/niobium-manufacturers/niobium-nuts-bolts-and-fasteners/",
+    "https://www.pricepedia.it/en/magazine/article/2025/08/04/niobium-poor-recyclability-and-high-dependence-on-brazilian-supply/",
+    "https://www.verifiedmarketreports.com/product/niobium-market/"
+  ]
+}

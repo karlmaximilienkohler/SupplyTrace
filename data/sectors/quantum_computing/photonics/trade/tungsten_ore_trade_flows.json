@@ -1,0 +1,61 @@
+{
+  "commodity": "Tungsten Ore (China \u2014 China Molybdenum)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.65,
+      "ownership_note": "China Molybdenum, China Tungsten and Hightech, Tungsten Metals Group",
+      "notes": "China is the largest exporter of tungsten ore, with multiple companies operating in the country."
+    },
+    {
+      "country": "Vietnam",
+      "share": 0.15,
+      "ownership_note": "Tungsten Metals Group (Asia Tungsten Products Co Limited)",
+      "notes": "Vietnam is a significant exporter of tungsten ore, with Tungsten Metals Group operating the world's largest ferrotungsten processing plant outside of Russia and China."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Nui Phao Mine (Masan High-Tech Materials)",
+      "notes": "Brazil's Nui Phao Mine is the world's largest tungsten mine outside of China, operated by Masan High-Tech Materials."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.05,
+      "ownership_note": "Dong-Rong Development",
+      "notes": "Taiwan-based Dong-Rong Development is a significant player in the tungsten market, managing an integrated supply chain from raw mine resources to customized high-end components."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.3,
+      "notes": "The US is a significant importer of tungsten ore, with various industries relying on the metal for its toughness and scratch resistance."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Japan is another major importer of tungsten ore, with the metal used in various applications, including cutting tools and wear-resistant materials."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "notes": "South Korea is also a significant importer of tungsten ore, with the metal used in various industries, including aerospace and defense."
+    },
+    {
+      "country": "Germany",
+      "share": 0.1,
+      "notes": "Germany is a smaller but still significant importer of tungsten ore, with the metal used in various applications, including cutting tools and wear-resistant materials."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.bing.com/aclick?ld=e8W7CwFEwDqqMHp9UQxwXZ4zVUCUwnJcB2mPBf7rbhk42BmQ9q-mQczzYzfH6Bh7HAnDttk3kS__1X9eQOfO8T6ZimnDrCHBm5qdPDvqng25MuRgOKci_gM3nmQeXZO3qaLyTKk2pQWtJat2uYIyd6aQWw2gk3ni-VGGNnMTq4d48-S3sZ0hmLtTHshteI0tBW-mzrng&u=aHR0cHMlM2ElMmYlMmZtb25pdG9yLmNsaWNrY2Vhc2UuY29tJTJmdHJhY2tlciUyZnRyYWNrZXIuYXNweCUzZmlkJTNkWTB3eGNCOFlablczajglMjZhZHBvcyUzZCUyNmxvY3BoaXNpY2FsJTNkMTY0NTgwJTI2bG9jaW50ZXJlc3QlM2QlMjZhZGdycCUzZDExNzc1Nzc4NDQzMjM0NzclMjZrdyUzZHR1bmdzdGVuJTI1MjBtYW51ZmFjdHVyZXIlMjZudyUzZG8lMjZ1cmwlM2RodHRwcyUyNTNBJTI1MkYlMjUyRnd3dy5lYWdsZWFsbG95cy5jb20lMjUyRnR1bmdzdGVuLWFsbG95JTI1MkYlMjZjcG4lM2Q1OTYwNTglMjZkZXZpY2UlM2RjJTI2Y2NwdHVybCUzZGVhZ2xlYWxsb3lzLmNvbSUyNnBsJTNkJTI2bXNjbGtpZCUzZGMyZjg0MzJjMDgzNzE5OTk3ZGI0MmE5MDdjZGJlYzA2&rlid=c2f8432c083719997db42a907cdbec06",
+    "https://www.alibaba.com/tungsten-ore-suppliers.html",
+    "https://www.alibaba.com/showroom/tungsten-ore-suppliers.html",
+    "https://www.alibaba.com/supplier/tungsten-ore.html",
+    "https://www.alibaba.com/showroom/tungsten-ore-manufactur.html",
+    "https://www.alibaba.com/showroom/tungsten-ore-suppliers-supplier.html"
+  ]
+}

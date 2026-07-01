@@ -1,0 +1,78 @@
+{
+  "commodity": "High purity silver",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "United States",
+      "share": 0.35,
+      "ownership_note": "Coeur Mining, Inc., Hecla Mining Company, Sunshine Silver Mining & Refining Company",
+      "notes": "Major silver producers in North America"
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "ownership_note": "State-owned enterprises, private companies",
+      "notes": "Significant silver refining and processing capacity"
+    },
+    {
+      "country": "Canada",
+      "share": 0.15,
+      "ownership_note": "Hecla Mining Company, other private companies",
+      "notes": "Silver mining and refining operations in Quebec and Yukon Territory"
+    },
+    {
+      "country": "Peru",
+      "share": 0.1,
+      "ownership_note": "Private companies, state-owned enterprises",
+      "notes": "Silver mining operations in the Andes region"
+    },
+    {
+      "country": "Mexico",
+      "share": 0.05,
+      "ownership_note": "Private companies, state-owned enterprises",
+      "notes": "Silver mining operations in the Sierra Madre Occidental mountain range"
+    },
+    {
+      "country": "Australia",
+      "share": 0.05,
+      "ownership_note": "Private companies, state-owned enterprises",
+      "notes": "Silver mining operations in Western Australia"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "Significant demand for high-purity silver in electronics and renewable energy applications"
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Demand for high-purity silver in electronics and solar panels"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "notes": "Demand for high-purity silver in electronics and semiconductors"
+    },
+    {
+      "country": "Germany",
+      "share": 0.1,
+      "notes": "Demand for high-purity silver in electronics and renewable energy applications"
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "notes": "Growing demand for high-purity silver in electronics and solar panels"
+    }
+  ],
+  "sources_consulted": [
+    "https://fitech.en.made-in-china.com/product/GZOAghdJhQWz/China-Supply-High-Purity-Silvery-White-Indium-Metal-Ingot.html",
+    "https://goldsurvivalguide.co.nz/gold-silver-blog/gold-purity-silver-purity/",
+    "https://www.linkedin.com/pulse/high-purity-silver-nitrate-market-applications-fbdaf",
+    "https://www.lonnmeter.com/news/can-xrf-machines-measure-silver-purity-at-60/",
+    "https://www.livepriceofgold.com/silver-price",
+    "https://www.ferrosilicon-alloy.com/sale-35920482-high-purity-silvery-silicon-metal-lump-553-441-421-for-aluminum-alloys.html"
+  ]
+}

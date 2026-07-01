@@ -1,0 +1,72 @@
+{
+  "commodity": "Erbium nickel alloy",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.55,
+      "ownership_note": "Chinese manufacturers and suppliers dominate the market, with many factories located in provinces such as Jiangxi and Fujian.",
+      "notes": "China's dominance in the Erbium nickel alloy market is due to its large rare earth metal reserves and well-established manufacturing infrastructure."
+    },
+    {
+      "country": "India",
+      "share": 0.25,
+      "ownership_note": "Indian manufacturers and suppliers, such as those listed on GlobalSources B2B platform, offer competitive prices and high-quality products.",
+      "notes": "India's share is significant due to its growing rare earth metal industry and increasing demand from domestic and international customers."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "ownership_note": "South Korean manufacturers and suppliers, such as those listed on Made-in-China.com, offer high-quality products and competitive prices.",
+      "notes": "South Korea's share is smaller but significant due to its well-established electronics industry and demand for rare earth metals."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Brazilian mines, such as those in the state of Minas Gerais, supply rare earth metals to manufacturers and suppliers in other countries.",
+      "notes": "Brazil's share is relatively small due to its limited rare earth metal reserves and manufacturing infrastructure."
+    },
+    {
+      "country": "Sweden",
+      "share": 0.05,
+      "ownership_note": "Sweden's cobalt mines, such as those in the H\u00e4lsingland region, have been a source of nickel and other metals for centuries.",
+      "notes": "Sweden's share is relatively small due to its limited rare earth metal reserves and manufacturing infrastructure."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "The US is a significant importer of Erbium nickel alloy due to its growing demand from the electronics and aerospace industries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.25,
+      "notes": "Japan is a significant importer of Erbium nickel alloy due to its well-established electronics industry and demand for rare earth metals."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "notes": "Germany is a significant importer of Erbium nickel alloy due to its growing demand from the automotive and electronics industries."
+    },
+    {
+      "country": "China",
+      "share": 0.1,
+      "notes": "China is also an importer of Erbium nickel alloy, primarily for use in its own domestic industries."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "notes": "Other countries, such as the UK, France, and Australia, also import Erbium nickel alloy, but their shares are relatively small."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Nickel",
+    "https://www.volza.com/p/erbium/export/",
+    "https://www.qsrarematerials.com/nickel-erbium-ni-er-master-alloy-p-669.html",
+    "https://www.americanelements.com/er.html",
+    "https://www.ottokemi.com/alloys/erbium-nickel-alloy-pellets-aen-012.aspx",
+    "https://www.globalsources.com/manufacturers/erbium.html"
+  ]
+}

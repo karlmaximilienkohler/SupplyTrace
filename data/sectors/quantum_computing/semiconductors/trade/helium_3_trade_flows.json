@@ -1,0 +1,78 @@
+{
+  "commodity": "Helium-3",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Qatar",
+      "share": 0.4,
+      "ownership_note": "Majority of helium production facilities are state-owned.",
+      "notes": "Qatar is a leading supplier of helium, including helium-3, primarily for the semiconductor industry."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "ownership_note": "Various private companies and government facilities involved.",
+      "notes": "The U.S. has significant helium reserves and production capabilities, including research facilities."
+    },
+    {
+      "country": "Australia",
+      "share": 0.15,
+      "ownership_note": "Private companies involved in helium extraction.",
+      "notes": "Australia is emerging as a key player in the helium market, with several exploration projects."
+    },
+    {
+      "country": "Algeria",
+      "share": 0.1,
+      "ownership_note": "State-owned enterprises control helium production.",
+      "notes": "Algeria has been a traditional supplier of helium to global markets."
+    },
+    {
+      "country": "Canada",
+      "share": 0.05,
+      "ownership_note": "Private companies exploring helium extraction.",
+      "notes": "Canada is seeing increased interest in helium exploration, particularly in Saskatchewan and Alberta."
+    },
+    {
+      "country": "Bahrain",
+      "share": 0.05,
+      "ownership_note": "Gulf Helium operates a large-scale helium purification and liquefaction plant.",
+      "notes": "Bahrain is developing its helium production capabilities."
+    }
+  ],
+  "importers": [
+    {
+      "country": "South Korea",
+      "share": 0.3,
+      "notes": "Heavily reliant on imports, primarily from Qatar, for semiconductor manufacturing."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.25,
+      "notes": "Significant consumer of helium for semiconductor production, sourcing mainly from Qatar."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Stable supply chain for helium, with diversified sources."
+    },
+    {
+      "country": "China",
+      "share": 0.15,
+      "notes": "Investing in domestic helium production and imports for quantum computing and fusion energy."
+    },
+    {
+      "country": "European Union",
+      "share": 0.1,
+      "notes": "Imports helium for various industrial and research applications."
+    }
+  ],
+  "sources_consulted": [
+    "https://advancedtech.airliquide.com/helium-3-gas-supplier",
+    "https://www.scmp.com/tech/article/3347005/korea-taiwan-chip-sectors-most-exposed-helium-shortage-amid-middle-east-war-fitch",
+    "http://heliumscarcity.com/?p=4083",
+    "https://www.databridgemarketresearch.com/reports/global-helium-3-market",
+    "https://article.wn.com/view/2026/03/18/Korea_Taiwan_chip_sectors_most_exposed_to_helium_shortage_am/",
+    "https://prohoster.info/en/blog/novosti-interneta/geliya-ostalos-na-dve-nedeli-proizvoditeli-chipov-gotovyatsya-k-posledstviyam-vojny-na-blizhnem-vostoke"
+  ]
+}

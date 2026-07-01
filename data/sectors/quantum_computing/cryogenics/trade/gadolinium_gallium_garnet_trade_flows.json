@@ -1,0 +1,67 @@
+{
+  "commodity": "Gadolinium Gallium Garnet",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.45,
+      "ownership_note": "Significant control over production facilities.",
+      "notes": "China is a major producer and exporter of Gadolinium Gallium Garnet, leveraging its mining and manufacturing capabilities."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "ownership_note": "Manufacturers like American Elements and Lorad.",
+      "notes": "The US has a strong manufacturing base for high-purity GGG."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "ownership_note": "Local companies involved in high-tech applications.",
+      "notes": "Japan is known for its advanced technology and applications in quantum computing."
+    },
+    {
+      "country": "Germany",
+      "share": 0.1,
+      "ownership_note": "European manufacturing presence.",
+      "notes": "Germany has a notable presence in the optical and industrial applications of GGG."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "Emerging market for GGG applications.",
+      "notes": "South Korea is increasing its production capabilities for quantum computing materials."
+    }
+  ],
+  "importers": [
+    {
+      "country": "Japan",
+      "share": 0.4,
+      "notes": "Major importer for high-tech applications in quantum computing."
+    },
+    {
+      "country": "United States",
+      "share": 0.3,
+      "notes": "Imports for both research and commercial applications."
+    },
+    {
+      "country": "Germany",
+      "share": 0.2,
+      "notes": "Imports for industrial and optical applications."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "Growing demand for quantum computing technologies."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Gadolinium_gallium_garnet",
+    "https://www.americanelements.com/gadolinium-gallium-garnet-12024-36-1",
+    "https://www.sputtertargets.net/blog/gadolinium-gallium-garnet-properties-manufacturing-applications.html",
+    "https://joehenleyrough.com/collections/gadolinium-gallium-garnet-ggg",
+    "https://www.aemdeposition.com/magnetic-and-ferroelectricit/gadolinium-gallium-garnet-ggg.html",
+    "https://www.wallson.net/products/gd3al2ga3o12.html"
+  ]
+}

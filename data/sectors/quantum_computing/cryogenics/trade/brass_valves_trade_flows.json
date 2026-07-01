@@ -1,0 +1,66 @@
+{
+  "commodity": "Brass valves",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.55,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a dominant player in the global brass valve market, with a strong presence of state-owned enterprises and private companies. Many Chinese companies have established partnerships with international clients, providing high-quality brass valves for various applications."
+    },
+    {
+      "country": "India",
+      "share": 0.2,
+      "ownership_note": "Private companies",
+      "notes": "India is a significant exporter of brass valves, with many private companies operating in the sector. Indian companies have been expanding their global reach, providing competitive pricing and high-quality products."
+    },
+    {
+      "country": "Italy",
+      "share": 0.1,
+      "ownership_note": "Private companies",
+      "notes": "Italy is known for its high-quality brass valves, with many private companies operating in the sector. Italian companies have a strong reputation for producing high-performance valves for various applications."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Germany is a significant player in the global brass valve market, with many private companies operating in the sector. German companies have a strong reputation for producing high-quality valves for various applications."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "notes": "Other countries, including the United States, Japan, and South Korea, also export brass valves, but their market share is relatively small compared to the top four countries."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.3,
+      "notes": "The United States is a significant importer of brass valves, with many companies requiring high-quality valves for various applications."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Japan is a significant importer of brass valves, with many companies requiring high-quality valves for various applications."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "notes": "South Korea is a significant importer of brass valves, with many companies requiring high-quality valves for various applications."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.35,
+      "notes": "Other countries, including the European Union, China, and India, also import brass valves, but their market share is relatively small compared to the top three countries."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.alibaba.com/showroom/cw602n-brass-valve.html",
+    "https://www.alibaba.com/supplier/valpres-valves.html",
+    "https://www.alibaba.com/showroom/ball-valve-with-nipple.html",
+    "https://www.alibaba.com/product-detail/Jetprix-International-Indian-Manufacturer-Best-Quality_10000040184338.html",
+    "https://www.alibaba.com/showroom/check-valve-pn25-china.html",
+    "https://bote-valve.en.alibaba.com/"
+  ]
+}

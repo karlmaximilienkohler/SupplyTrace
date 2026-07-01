@@ -1,0 +1,78 @@
+{
+  "commodity": "Indium",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.5,
+      "ownership_note": "Significant control over production and processing facilities.",
+      "notes": "China is the largest producer and exporter of indium, with a substantial share of the global market."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "ownership_note": "Domestic production with some foreign investments.",
+      "notes": "Japan has a strong semiconductor industry that utilizes indium extensively."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "ownership_note": "Local production with reliance on imports for raw materials.",
+      "notes": "South Korea is a significant player in the electronics sector, driving demand for indium."
+    },
+    {
+      "country": "Canada",
+      "share": 0.1,
+      "ownership_note": "Indium sourced from mines with foreign investments.",
+      "notes": "Canada has indium resources but exports are limited compared to production."
+    },
+    {
+      "country": "Russia",
+      "share": 0.05,
+      "ownership_note": "State-controlled resources with limited export capacity.",
+      "notes": "Russia has indium reserves but faces logistical challenges in export."
+    },
+    {
+      "country": "Peru",
+      "share": 0.05,
+      "ownership_note": "Mining operations often controlled by foreign companies.",
+      "notes": "Peru has potential for indium production but is not a major exporter."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "Major consumer of indium for electronics and semiconductor manufacturing."
+    },
+    {
+      "country": "Germany",
+      "share": 0.2,
+      "notes": "Strong demand for indium in electronics and renewable energy sectors."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.15,
+      "notes": "Significant semiconductor manufacturing hub requiring indium."
+    },
+    {
+      "country": "China",
+      "share": 0.1,
+      "notes": "Imports indium for its own manufacturing despite being a major exporter."
+    },
+    {
+      "country": "France",
+      "share": 0.05,
+      "notes": "Growing demand for indium in technology and renewable energy applications."
+    }
+  ],
+  "sources_consulted": [
+    "https://chemicalresearchinsight.com/2026/03/19/top-10-companies-in-the-indium-based-metal-chemicals-industry-2026-market-leaders-powering-advanced-electronics/",
+    "https://www.asianmetal.com/Indium/",
+    "https://www.chemicalbook.com/ChemicalProductProperty_EN_CB9854194.htm",
+    "https://www.sciencedirect.com/science/article/pii/S092134492100001X",
+    "https://www.questmetals.com/blog/western-aerospace-s-dependence-on-russian-supply",
+    "https://www.mei.edu/publications/ukraines-critical-minerals-and-europes-energy-transition-motivation-russian-aggression"
+  ]
+}

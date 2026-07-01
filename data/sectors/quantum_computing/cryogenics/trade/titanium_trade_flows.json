@@ -1,0 +1,83 @@
+{
+  "commodity": "Titanium",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "United States",
+      "share": 0.35,
+      "ownership_note": "TIMET (Titanium Metals Corporation) holds an estimated 18% share of global production capacity",
+      "notes": "TIMET operates a vertically integrated supply chain from raw material processing to finished mill products"
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "ownership_note": "VSMPO (Russian company with Chinese ownership) and BaoTi (Chinese company) are among the top titanium manufacturers",
+      "notes": "China has a significant presence in the global titanium market, with many manufacturers and suppliers"
+    },
+    {
+      "country": "Russia",
+      "share": 0.15,
+      "ownership_note": "VSMPO (Russian company with Chinese ownership) is a major titanium producer",
+      "notes": "Russia has a significant titanium industry, with VSMPO being one of the largest producers"
+    },
+    {
+      "country": "Italy",
+      "share": 0.1,
+      "ownership_note": "Allorium is a leading titanium provider in Italy and Europe",
+      "notes": "Italy has a significant presence in the European titanium market, with Allorium being a major supplier"
+    },
+    {
+      "country": "Luxembourg",
+      "share": 0.05,
+      "ownership_note": "L.C.M.A. S.A. is a European manufacturer and distributor of titanium alloy semi-finished products",
+      "notes": "Luxembourg has a strategic location for titanium trade and distribution"
+    },
+    {
+      "country": "Europe (other)",
+      "share": 0.1,
+      "ownership_note": "TiFast and Hermith GmbH are European titanium producers and suppliers",
+      "notes": "Other European countries have a significant presence in the titanium market, with TiFast and Hermith GmbH being major suppliers"
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "The US is a significant importer of titanium, with many manufacturers and suppliers serving the aerospace, automotive, and medical industries"
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "notes": "China is a significant importer of titanium, with many manufacturers and suppliers serving the aerospace, automotive, and medical industries"
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant importer of titanium, with many manufacturers and suppliers serving the aerospace, automotive, and medical industries"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a significant importer of titanium, with many manufacturers and suppliers serving the aerospace, automotive, and medical industries"
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "notes": "Germany is a significant importer of titanium, with many manufacturers and suppliers serving the aerospace, automotive, and medical industries"
+    },
+    {
+      "country": "Other",
+      "share": 0.1,
+      "notes": "Other countries have a significant presence in the global titanium market, with many manufacturers and suppliers serving various industries"
+    }
+  ],
+  "sources_consulted": [
+    "https://www.bing.com/aclick?ld=e8t1iRnbqvA19kulv3tptlLDVUCUxEPm18X5tWJum0Yg2lUzoGoMhfkZlYlJHv0udcXOzodK85h6gILczrzDDqDwQZpiLAJQUf8z6tkN_915kZtmFXN9qt2jSkLmoegi7tcZhJtDlFbjf4U5LHtjPYIOiXwGmb0M-cBZlKQeu41zkimEgtIM3gemjCARoNCTRFt56sEQ&u=aHR0cHMlM2ElMmYlMmZ3d3cuZHl0aW1ldGFsLmNvbSUyZnByb2R1Y3RzJTJmVGl0YW5pdW0tYW5kLXRpdGFuaXVtLWFsbG95cyUyZlR1YmUtLVBpcGUtLS1GaXR0aW5ncyUyZlRpdGFuaXVtLXBpcGUtLS10dWJlLmh0bWwlM2Z1dG1fc291cmNlJTNkYmluZyUyNnV0bV9tZWRpdW0lM2RjcGMlMjZ1dG1fY2FtcGFpZ24lM2QlZTYlOWMlODAlZTUlYTQlYTclZTUlOGMlOTYlZTglYmQlYWMlZTUlOGMlOTZfMTEwMzI1XzE1MzgxMyUyNnV0bV9hZGdyb3VwJTNkJWU1JTg4JWI2JWU5JTgwJWEwJWU1JTk1JTg2JTI2dXRtX3Rlcm0lM2R0aXRhbml1bSUyNTIwcGlwZSUyNTIwbWFudWZhY3R1cmVycyUyNnV0bV9jb250ZW50JTNkNzY2MjI0MzczNDE2MjIlMjZtYXRjaHR5cGUlM2RwJTI2ZGV2aWNlJTNkYyUyNm5ldHdvcmslM2RvJTI2bXNjbGtpZCUzZGVlZmU2YmVmYjAxNDExYjA1OTQ4MDI1MzI2OWE3ODVh&rlid=eefe6befb01411b059480253269a785a",
+    "https://www.bing.com/aclick?ld=e800qYt1JTqZLbJfHP1kscyTVUCUybIb-n0PC2IReA7lRCZ-Y8ateH-ZCFDeuwCDGVJIQsTmlyNs5oWhFLffc7Q-_MPavOMqcpblRy7X0VPto458bWs29YAuGrpPcRCBcqlCyn6FCw8XuGuP019lwDfbLc0ca2Bz0xYmO_R5YKTLecO4Y7s0dT1cXPWosq8rPP-LvcYw&u=aHR0cHMlM2ElMmYlMmZ3d3cudGlmYWIuY29tJTJmaW5kdXN0cmllcy1zZXJ2ZWQlMmZtaWxpdGFyeS1hbmQtZGVmZW5zZSUyZiUzZnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFRpZmFiJTI2dXRtX3Rlcm0lM2RUaXRhbml1bSUyNTIwU3VibWVyc2libGUlMjUyME1hbnVmYWN0dXJlcnMlMjZtc2Nsa2lkJTNkODFhMDE1NzBiNmZjMWFiODBlZDA3Y2NjMjA3MjM3MjclMjZ1dG1fY29udGVudCUzZFRpdGFuaXVtJTI1MjBTdWJtZXJzaWJsZSUyNTIwTWFudWZhY3R1cmVy&rlid=81a01570b6fc1ab80ed07ccc20723727",
+    "https://www.bing.com/aclick?ld=e8d1WSE5F0LQvzqMIpRHnk0zVUCUxHK_bfEFD50bNlGGLRACiDeyFAKgchArVreGzZSkDMq-y8-BmA4US_c18X5xN--aqTRcVfSYcMmFXOsMZ3HZvBiOEJ54tBd8DS0q1EQ9S_Dy-JBfzZ91Fb35VlO7GszgBvmxwAYDHXn728XhM6JxgYcvqmi6Hi4xDPIKHLCTTaJw&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWxpYmFiYS5jb20lMmZ0cmFkZSUyZnNlYXJjaCUzZnRhYiUzZGFsbCUyNlNlYXJjaFRleHQlM2RUaXRhbml1bStEaW94aWRlK3N1cHBsaWVyJTI2c3JjJTNkc2VtX2JpbmclMjZmaWVsZCUzZFVHJTI2ZnJvbSUzZHNlbV9iaW5nJTI2Y21wZ24lM2Q0ODc1MTk0NjclMjZhZGdycCUzZDEyMzQ3NTI5MTIzMjU2ODklMjZ0Z3QlM2Rrd2QtNzcxNzI1MjM5MDE4NjIlM2Fsb2MtMTcwJTI2S3dkSUQlM2Q3NzE3MjUyMzkwMTg2MiUyNm10Y2h0eXAlM2RwJTI2YmRtdGNodHlwKyUzZGJiJTI2bnR3cmslM2RvJTI2ZGV2aWNlJTNkYyUyNmNyZWF0aXZlJTNkNzcxNzIyMDEyMTAwNDMlMjZwMSUzZGRlZmF1bHQlMjZwMiUzZGRlZmF1bHQlMjZwMyUzZGRlZmF1bHQlMjZRdWVyeSUzZHRpdGFuaXVtJTI1MjBtYW51ZmFjdHVyZXIlMjUyMHRpdGFuaXVtJTI1MjBwcm9kdWNlciUyNTIwdGl0YW5pdW0lMjUyMHN1cHBsaWVyJTI2bXNjbGtpZCUzZDA0OWQ5MjFhNTk2ZDFkMzQ5YzFlZmJhNmNmZTM5Yzdk&rlid=049d921a596d1d349c1efba6cfe39c7d",
+    "https://elchemy.com/blogs/chemical-market/top-10-titanium-manufacturing-companies-supplying-the-u-s-market-in-2025",
+    "https://us.metoree.com/categories/5381/",
+    "https://hontitan.com/top-10-titanium-manufacturers-world-2026/"
+  ]
+}

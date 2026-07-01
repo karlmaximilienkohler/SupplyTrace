@@ -1,0 +1,79 @@
+{
+  "commodity": "Zirconium Ore (Australia \u2014 Iluka Resources)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Australia",
+      "share": 0.7,
+      "ownership_note": "Iluka Resources",
+      "notes": "Majority of global zirconium reserves"
+    },
+    {
+      "country": "South Africa",
+      "share": 0.1,
+      "notes": "Significant zirconium mining operations"
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Chinese owner",
+      "notes": "Brazilian mine with Chinese ownership"
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "notes": "Emerging zirconium mining operations"
+    },
+    {
+      "country": "Malaysia",
+      "share": 0.05,
+      "notes": "Zirconium mining operations"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.15,
+      "notes": "Smaller zirconium mining operations"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "High zirconium ore dependence on foreign countries"
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Imports zirconium ore for advanced ceramics"
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "notes": "Imports zirconium ore for advanced ceramics"
+    },
+    {
+      "country": "United States",
+      "share": 0.1,
+      "notes": "Imports zirconium ore for various applications"
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "notes": "Imports zirconium ore for medical-grade zirconia"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "notes": "Imports zirconium ore for various applications"
+    }
+  ],
+  "sources_consulted": [
+    "https://www.bing.com/aclick?ld=e8h7u6bhsf-gHH884f0At4hjVUCUw_Ab9kNsJWxbwWn3S59mO53JkGZr3LKnvPQTlwf77Muirb8iyCFjQS_UZw2G0xZBJ5wi-h8lBl3vSO5oIDuOZPVTDSb5swWvGVI0fN-2BP3yis6-oUKQ0C91Eudb0x5CqVb-qTj2AhnfZNnr6OicA7uUNpAVK4kuwb1NDEruMO1g&u=aHR0cHMlM2ElMmYlMmZ3d3cuY2hpbmFmdG0uY29tJTJmc29sdXRpb25zJTJmZ29sZC1taW5pbmctZXF1aXBtZW50Lmh0bWwlM2ZiLWN6enN5MSUyNm1zY2xraWQlM2Q1ZThjNDQzZGU1MmYxOGFkYzkwZjJkODE5YjNkZmU1NCUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZEElZTklODAlODklZTclOWYlYmYlMjZ1dG1fdGVybSUzZG1pbmluZyUyNTIwYW5kJTI1MjBvcmUlMjUyMHByb2Nlc3NpbmclMjUyMGVxdWlwbWVudCUyNnV0bV9jb250ZW50JTNkJWU5JTgwJTg5JWU3JTlmJWJmJWU3JWJhJWJmJTI1MjBnb2xkLWN6&rlid=5e8c443de52f18adc90f2d819b3dfe54",
+    "https://www.bing.com/aclick?ld=e8iiYjX32SIk9y9t4UwdmcCzVUCUzsS-yWDW5bN7h-Y98vikHIv_KPHOo1LA8CBNOTTqZC7phedv-gCkURCBjrop6MjBm87jUfw2WmxABVURmxwzFoaWn2R8qfhccQWzF0ZMWT9rJsKufS2IELl5qUHWmGsHTSGqhYFClxEsxRrALbskUSAKZPayZqeGyzKpn6AMwJGw&u=aHR0cHMlM2ElMmYlMmZtb25pdG9yLmNsaWNrY2Vhc2UuY29tJTJmdHJhY2tlciUyZnRyYWNrZXIuYXNweCUzZmlkJTNkWTB3eGNCOFlablczajglMjZhZHBvcyUzZCUyNmxvY3BoaXNpY2FsJTNkMTY0NTgwJTI2bG9jaW50ZXJlc3QlM2QlMjZhZGdycCUzZDExODc0NzM0NDkzNzg4NzglMjZrdyUzZHppcmNvbml1bSUyNTIwcHJvZHVjZXIlMjZudyUzZG8lMjZ1cmwlM2RodHRwcyUyNTNBJTI1MkYlMjUyRnd3dy5lYWdsZWFsbG95cy5jb20lMjUyRnppcmNvbml1bSUyNTJGJTI2Y3BuJTNkNTAyMzYwODklMjZkZXZpY2UlM2RjJTI2Y2NwdHVybCUzZGVhZ2xlYWxsb3lzLmNvbSUyNnBsJTNkJTI2bXNjbGtpZCUzZDhhNWEyMWYxODU0MTFjNzMzN2U2NDg0ZGZiNTMwNmUw&rlid=8a5a21f185411c7337e6484dfb5306e0",
+    "https://www.asianmetal.com/Zirconium-Ore-Producers-Suppliers-Buyers/",
+    "https://www.tdd-global.com/mall/zirconium-ore/",
+    "https://www.zauba.com/zirconium-ore-exporters",
+    "https://www.go4worldbusiness.com/suppliers/asia/products/zirconium.html"
+  ]
+}

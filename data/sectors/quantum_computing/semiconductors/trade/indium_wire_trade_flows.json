@@ -1,0 +1,72 @@
+{
+  "commodity": "Indium Wire",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 50,
+      "ownership_note": "Significant control over production and supply chains.",
+      "notes": "China is the largest producer and exporter of indium wire, leveraging its extensive mining and refining capabilities."
+    },
+    {
+      "country": "Japan",
+      "share": 20,
+      "ownership_note": "Japanese companies control significant technology and production.",
+      "notes": "Japan is known for high-quality indium wire production, primarily for electronics and semiconductor applications."
+    },
+    {
+      "country": "South Korea",
+      "share": 15,
+      "ownership_note": "Strong presence in electronics manufacturing.",
+      "notes": "South Korea exports indium wire mainly for use in display technologies."
+    },
+    {
+      "country": "United States",
+      "share": 10,
+      "ownership_note": "Domestic production supplemented by imports.",
+      "notes": "The U.S. has a smaller market share but is significant in high-tech applications."
+    },
+    {
+      "country": "Canada",
+      "share": 5,
+      "ownership_note": "Mining operations primarily owned by foreign companies.",
+      "notes": "Canada has indium production but is less dominant in the wire market."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 30,
+      "notes": "Major importer due to high demand in technology sectors."
+    },
+    {
+      "country": "Germany",
+      "share": 25,
+      "notes": "Strong demand for indium wire in automotive and electronics industries."
+    },
+    {
+      "country": "Japan",
+      "share": 20,
+      "notes": "Imports indium wire for its own manufacturing needs."
+    },
+    {
+      "country": "China",
+      "share": 15,
+      "notes": "Imports for domestic consumption despite being a major exporter."
+    },
+    {
+      "country": "South Korea",
+      "share": 10,
+      "notes": "Imports to support its electronics manufacturing sector."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.bing.com/aclick?ld=e8D_wzayEdJFo1aQ3oZ7KsFTVUCUyXoTbw5EGcJG64iImQxOFKoQrGM5fIwDYDGJI9vIRaSL6wGRkPvcNj7vTIxgJg9HfLeFLhDlycTFyHBAMEfa_5g1g-wyU4Blu97YFf6_jsmr-lXhkKJWXNoUm4DA_LCEQKlLavzNJnbyV0Jax5K2U2m_GRLfmBeX89UyXtbMV8Zg&u=aHR0cHMlM2ElMmYlMmZ3d3cuc3RhaW5sZXNzd2lyZXMuY29tJTJmcm91bmQtd2lyZSUzZm1zY2xraWQlM2RmOGU4YTNkMTdkNGIxNmNiNmRhM2NhNmMyNmE2N2E3YyUyNnV0bV9zb3VyY2UlM2RiaW5nJTI2dXRtX21lZGl1bSUzZGNwYyUyNnV0bV9jYW1wYWlnbiUzZFN0YWlubGVzcyUyNTIwU3RlZWwlMjUyMFByb2R1Y3RzJTI2dXRtX3Rlcm0lM2RSb3VuZCUyNTIwV2lyZXMlMjUyME1hbnVmYWN0dXJlciUyNnV0bV9jb250ZW50JTNkUm91bmQlMjUyMFdpcmUlMjUyME1hbnVmYWN0dXJlcg&rlid=f8e8a3d17d4b16cb6da3ca6c26a67a7c",
+    "https://www.indium.com/products/solder-wire/",
+    "https://www.jayteealloys.com/high-purity-indium-wire.php",
+    "https://www.smalloys.com/indium-wire-stockist-supplier/",
+    "https://matthey.com/products-and-markets/pgms-and-circularity/pgm-industrial-products/pgm-wire",
+    "https://na.prysmian.com/"
+  ]
+}

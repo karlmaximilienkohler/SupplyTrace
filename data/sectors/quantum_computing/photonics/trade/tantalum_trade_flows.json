@@ -1,0 +1,72 @@
+{
+  "commodity": "Tantalum (Rwanda \u2014 AB Minerals)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Rwanda",
+      "share": 0.5,
+      "ownership_note": "AB Minerals",
+      "notes": "Leading supplier of tantalum with ethical mining practices"
+    },
+    {
+      "country": "DR Congo",
+      "share": 0.32,
+      "ownership_note": "Various",
+      "notes": "Second-largest producer of tantalum"
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Chinese owner",
+      "notes": "Smaller but significant producer of tantalum"
+    },
+    {
+      "country": "Nigeria",
+      "share": 0.03,
+      "ownership_note": "Various",
+      "notes": "Emerging producer of tantalum in Africa"
+    },
+    {
+      "country": "China",
+      "share": 0.1,
+      "ownership_note": "State-owned",
+      "notes": "Significant importer and processor of tantalum"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.6,
+      "notes": "Main destination for tantalum-niobium minerals produced in central Africa"
+    },
+    {
+      "country": "United States",
+      "share": 0.15,
+      "notes": "Significant consumer of tantalum in electronics and aerospace industries"
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "notes": "Major consumer of tantalum in electronics and automotive industries"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "notes": "Growing consumer of tantalum in electronics and renewable energy industries"
+    },
+    {
+      "country": "Germany",
+      "share": 0.1,
+      "notes": "Significant consumer of tantalum in electronics and automotive industries"
+    }
+  ],
+  "sources_consulted": [
+    "https://www.emergenresearch.com/blog/top-10-companies-in-tantalum-market",
+    "https://investingnews.com/daily/resource-investing/critical-metals-investing/tantalum-investing/2013-top-tantalum-producers-rwanda-brazil-drc-canada/",
+    "https://miner.africa/2024/11/15/profile-of-rwandas-tantalum-industry-rising-star-in-global-mining/",
+    "https://mineralsbase.com/top-tantalum-ore-suppliers-find-reliable-sources/",
+    "https://www.mordorintelligence.com/industry-reports/tantalum-market/companies",
+    "https://businesschief.eu/technology/ab-minerals-bringing-home-tantalum"
+  ]
+}

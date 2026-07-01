@@ -1,0 +1,95 @@
+{
+  "commodity": "Vacuum oil",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.45,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a significant producer and exporter of vacuum oil, with many domestic manufacturers and suppliers."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "ownership_note": "Private companies and joint ventures",
+      "notes": "The US is a major producer of vacuum oil, with companies like NASH Engineered to Order Systems and Elmo Rietschle C-VLR being prominent players."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "ownership_note": "Private companies and joint ventures",
+      "notes": "Japan is a significant producer of vacuum oil, with companies like Nippon Oil and Mitsubishi Heavy Industries being major players."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "Private companies and joint ventures",
+      "notes": "South Korea is a growing producer of vacuum oil, with companies like SK Lubricants and Hyundai Heavy Industries being prominent players."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "ownership_note": "Private companies and joint ventures",
+      "notes": "Germany is a significant producer of vacuum oil, with companies like Schaeffler and Bosch being major players."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "ownership_note": "Private companies and joint ventures",
+      "notes": "India is a growing producer of vacuum oil, with companies like Hindustan Petroleum and Indian Oil being prominent players."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "Brazil is a significant producer of vacuum oil, with companies like Petrobras and Repsol being major players."
+    },
+    {
+      "country": "Russia",
+      "share": 0.05,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "Russia is a significant producer of vacuum oil, with companies like Gazprom and Lukoil being major players."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "The US is a significant importer of vacuum oil, driven by the demand from the aerospace and pharmaceutical industries."
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "notes": "China is a significant importer of vacuum oil, driven by the demand from the domestic manufacturing sector."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant importer of vacuum oil, driven by the demand from the automotive and electronics industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a growing importer of vacuum oil, driven by the demand from the domestic manufacturing sector."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "notes": "Germany is a significant importer of vacuum oil, driven by the demand from the automotive and industrial sectors."
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "notes": "India is a growing importer of vacuum oil, driven by the demand from the domestic manufacturing sector."
+    }
+  ],
+  "sources_consulted": [
+    "https://chemicalresearchinsight.com/2025/12/15/top-10-companies-in-the-global-vacuum-pump-oil-industry-2025-market-leaders-driving-industrial-efficiency/",
+    "https://www.mordorintelligence.com/industry-reports/vacuum-gas-oil-market/companies",
+    "https://www.volza.com/p/vacuum-oil/manufacturers/",
+    "https://www.intimecnc.com/blog/top-10-vacuum-pump-oil-manufacturers-291837.html",
+    "https://www.linkedin.com/pulse/top-vacuum-pump-oil-companies-how-compare-them-iaxof",
+    "https://www.globalspec.com/suppliers/4632/vacuum_greases_vacuum_pump_oils"
+  ]
+}

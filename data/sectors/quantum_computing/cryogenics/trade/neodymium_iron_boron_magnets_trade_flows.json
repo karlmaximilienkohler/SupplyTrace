@@ -1,0 +1,71 @@
+{
+  "commodity": "Neodymium iron boron magnets",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.65,
+      "ownership_note": "Beneficial controllers may be Chinese entities, but some mines are located in other countries.",
+      "notes": "China is the dominant producer and exporter of neodymium iron boron magnets, with many manufacturers and suppliers based in the country."
+    },
+    {
+      "country": "India",
+      "share": 0.15,
+      "ownership_note": "Some Indian companies have partnerships with Chinese entities.",
+      "notes": "India is a significant producer and exporter of neodymium iron boron magnets, with many manufacturers and suppliers based in the country."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Brazilian mines are owned by Chinese entities.",
+      "notes": "Brazil is a significant producer of neodymium iron boron magnets, with some mines owned by Chinese entities."
+    },
+    {
+      "country": "Malaysia",
+      "share": 0.05,
+      "ownership_note": "Some Malaysian companies have partnerships with Chinese entities.",
+      "notes": "Malaysia is a smaller but still significant producer and exporter of neodymium iron boron magnets, with some manufacturers and suppliers based in the country."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.2,
+      "notes": "Other countries, including the USA, Japan, and South Korea, also produce and export neodymium iron boron magnets, but to a lesser extent."
+    }
+  ],
+  "importers": [
+    {
+      "country": "USA",
+      "share": 0.3,
+      "notes": "The USA is a significant importer of neodymium iron boron magnets, with many applications in the electric motor and renewable energy industries."
+    },
+    {
+      "country": "China",
+      "share": 0.25,
+      "notes": "China is also a significant importer of neodymium iron boron magnets, with many applications in the consumer electronics and industrial equipment industries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Japan is a significant importer of neodymium iron boron magnets, with many applications in the consumer electronics and automotive industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a smaller but still significant importer of neodymium iron boron magnets, with many applications in the consumer electronics and industrial equipment industries."
+    },
+    {
+      "country": "Other countries",
+      "share": 0.2,
+      "notes": "Other countries, including the EU, India, and Southeast Asia, also import neodymium iron boron magnets, but to a lesser extent."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.tradekey.com/neodymium-iron-boron-magnets-manufacturers/",
+    "https://importer.tradekey.com/ferrite-magnet-importer.html",
+    "https://www.ndmagnets.com/magnets/",
+    "https://www.made-in-china.com/manufacturers/neodymium-boron-iron-magnet.html",
+    "https://www.alibaba.com/neodymium-iron-boron-magnet-suppliers.html",
+    "https://dongguanpegaintmagnet.com/"
+  ]
+}

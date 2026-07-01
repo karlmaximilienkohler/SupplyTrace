@@ -1,0 +1,72 @@
+{
+  "commodity": "Niobium wire",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.45,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "China is a significant producer of niobium, with many mines and processing facilities. Chinese companies like China Molybdenum and Zijin Mining are major players in the global niobium market."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.25,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "Brazil is a significant producer of niobium, with the Arax\u00e1 mine being one of the largest niobium mines in the world. Brazilian companies like CBMM and Vale are major players in the global niobium market."
+    },
+    {
+      "country": "Russia",
+      "share": 0.1,
+      "ownership_note": "State-owned enterprises",
+      "notes": "Russia is a significant producer of niobium, with many mines and processing facilities. Russian companies like Norilsk Nickel and Rostec are major players in the global niobium market."
+    },
+    {
+      "country": "Canada",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Canada is a smaller but still significant producer of niobium, with many mines and processing facilities. Canadian companies like SGS and Glencore are major players in the global niobium market."
+    },
+    {
+      "country": "South Africa",
+      "share": 0.05,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "South Africa is a smaller but still significant producer of niobium, with many mines and processing facilities. South African companies like Anglo American and Sibanye-Stillwater are major players in the global niobium market."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "The US is a significant importer of niobium wire, with many companies using it in various applications such as aerospace, defense, and electronics."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Japan is a significant importer of niobium wire, with many companies using it in various applications such as electronics, automotive, and aerospace."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.15,
+      "notes": "South Korea is a significant importer of niobium wire, with many companies using it in various applications such as electronics, automotive, and aerospace."
+    },
+    {
+      "country": "Germany",
+      "share": 0.1,
+      "notes": "Germany is a significant importer of niobium wire, with many companies using it in various applications such as electronics, automotive, and aerospace."
+    },
+    {
+      "country": "China",
+      "share": 0.05,
+      "notes": "China is also an importer of niobium wire, with many companies using it in various applications such as electronics, automotive, and aerospace."
+    }
+  ],
+  "sources_consulted": [
+    "https://niobium.tech/en/pages/content-pages/niobium-for-high-carbon-wire-products",
+    "https://www.edgetechmat.com/product/niobium-wire/",
+    "http://northalloys.com/elements/Niobium-wire.htm",
+    "https://www.tradeindia.com/manufacturers/niobium-pentoxide.html",
+    "https://www.giiresearch.com/report/qyr1349166-global-niobium-zirconium-wire-market-insights.html",
+    "https://www.fotmaalloy.com/niobium-metals/"
+  ]
+}

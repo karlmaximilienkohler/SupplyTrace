@@ -1,0 +1,240 @@
+{
+  "technology_domain": "Quantum Computing",
+  "segment": "Semiconductors",
+  "sources": [
+    "https://www.nationalacademies.org/read/25196/chapter/7",
+    "https://www.energy.gov/science/bes/articles/scientists-tame-quantum-bits-widely-used-semiconductor-material",
+    "https://www.ibm.com/quantum/blog/300mm-fab",
+    "https://www.science.org/doi/10.1126/science.abb2823",
+    "https://arxiv.org/pdf/quant-ph/0209008",
+    "https://www.p3-group.com/wp-content/uploads/2024/07/Semiconductors-a-platform-for-Quantum-Computing.pdf",
+    "https://www.futuremarketsinc.com/quantum-2-market-report-2026-2036/",
+    "https://www.linkedin.com/pulse/photonic-integrated-circuit-quantum-computing-market-zrt0f"
+  ],
+  "supply_chain": [
+    {
+      "name": "Qubit Control",
+      "children": [
+        {
+          "name": "Superconducting Qubits",
+          "children": [
+            {
+              "name": "Josephson Junction",
+              "children": [
+                {
+                  "name": "Niobium",
+                  "leaf_id": "SEM-001"
+                },
+                {
+                  "name": "Aluminum",
+                  "leaf_id": "SEM-002"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Quantum Dot",
+      "children": [
+        {
+          "name": "Gate-defined Quantum Dots",
+          "children": [
+            {
+              "name": "Indium Phosphide",
+              "children": [
+                {
+                  "name": "Indium",
+                  "leaf_id": "SEM-003"
+                },
+                {
+                  "name": "Phosphorus",
+                  "leaf_id": "SEM-004"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Photonics",
+      "children": [
+        {
+          "name": "Quantum Photonic Chips",
+          "children": [
+            {
+              "name": "Gallium Arsenide",
+              "children": [
+                {
+                  "name": "Gallium",
+                  "leaf_id": "SEM-005"
+                },
+                {
+                  "name": "Arsenic",
+                  "leaf_id": "SEM-006"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cryogenic Systems",
+      "children": [
+        {
+          "name": "Dilution Refrigerators",
+          "children": [
+            {
+              "name": "Helium-3",
+              "leaf_id": "SEM-007"
+            },
+            {
+              "name": "Helium-4",
+              "leaf_id": "SEM-008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Control Electronics",
+      "children": [
+        {
+          "name": "Integrated Circuits",
+          "children": [
+            {
+              "name": "Silicon",
+              "children": [
+                {
+                  "name": "Silicon Dioxide",
+                  "leaf_id": "SEM-009"
+                },
+                {
+                  "name": "Silicon Wafer",
+                  "leaf_id": "SEM-010"
+                }
+              ]
+            },
+            {
+              "name": "Tantalum Capacitors",
+              "leaf_id": "SEM-011"
+            },
+            {
+              "name": "Gold Wire Bonds",
+              "leaf_id": "SEM-012"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Electrical Connectors",
+      "children": [
+        {
+          "name": "Copper",
+          "leaf_id": "SEM-013"
+        },
+        {
+          "name": "Gold",
+          "leaf_id": "SEM-014"
+        },
+        {
+          "name": "Tin-Silver Solder",
+          "leaf_id": "SEM-015"
+        }
+      ]
+    },
+    {
+      "name": "Sealing Materials",
+      "children": [
+        {
+          "name": "Indium Wire",
+          "leaf_id": "SEM-016"
+        },
+        {
+          "name": "Fluoroelastomer",
+          "leaf_id": "SEM-017"
+        },
+        {
+          "name": "Nitrile Rubber",
+          "leaf_id": "SEM-018"
+        }
+      ]
+    },
+    {
+      "name": "Thermal Management",
+      "children": [
+        {
+          "name": "OFHC Copper",
+          "leaf_id": "SEM-019"
+        },
+        {
+          "name": "Aluminum Alloy",
+          "leaf_id": "SEM-020"
+        },
+        {
+          "name": "Silver Paste",
+          "leaf_id": "SEM-021"
+        }
+      ]
+    },
+    {
+      "name": "Structural Alloys",
+      "children": [
+        {
+          "name": "Titanium Alloy (Ti-6Al-4V)",
+          "leaf_id": "SEM-022"
+        },
+        {
+          "name": "Stainless Steel (SS-316L)",
+          "leaf_id": "SEM-023"
+        },
+        {
+          "name": "Aluminum Alloy (Al-6061)",
+          "leaf_id": "SEM-024"
+        }
+      ]
+    },
+    {
+      "name": "Specialty Gases",
+      "children": [
+        {
+          "name": "Arsine",
+          "leaf_id": "SEM-025"
+        },
+        {
+          "name": "Phosphine",
+          "leaf_id": "SEM-026"
+        },
+        {
+          "name": "Silane",
+          "leaf_id": "SEM-027"
+        },
+        {
+          "name": "Nitrogen Trifluoride",
+          "leaf_id": "SEM-028"
+        }
+      ]
+    },
+    {
+      "name": "Dopants",
+      "children": [
+        {
+          "name": "Boron",
+          "leaf_id": "SEM-029"
+        },
+        {
+          "name": "Phosphorus (Semiconductor Grade)",
+          "leaf_id": "SEM-030"
+        },
+        {
+          "name": "Arsenic (Semiconductor Grade)",
+          "leaf_id": "SEM-031"
+        }
+      ]
+    }
+  ]
+}

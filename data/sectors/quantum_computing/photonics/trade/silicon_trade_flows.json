@@ -1,0 +1,72 @@
+{
+  "commodity": "Silicon (USA \u2014 Dow Corning)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.45,
+      "ownership_note": "Chinese companies like Wacker Chemie AG and Momentive Performance Materials have partnerships with Chinese suppliers.",
+      "notes": "China has become a significant player in the global silicon market, with many Chinese companies investing in silicon production and supply chains."
+    },
+    {
+      "country": "USA",
+      "share": 0.3,
+      "ownership_note": "Dow Corning is a US-based company, but it has partnerships with international suppliers.",
+      "notes": "The US is still a significant player in the global silicon market, with Dow Corning being a major manufacturer of silicon products."
+    },
+    {
+      "country": "Germany",
+      "share": 0.1,
+      "ownership_note": "Wacker Chemie AG is a German company with a significant presence in the silicon market.",
+      "notes": "Germany is home to Wacker Chemie AG, a major player in the silicon market."
+    },
+    {
+      "country": "Japan",
+      "share": 0.05,
+      "ownership_note": "Japanese companies like Shin-Etsu Chemical Co., Ltd. have partnerships with international suppliers.",
+      "notes": "Japan is also a significant player in the global silicon market, with companies like Shin-Etsu Chemical Co., Ltd. having a presence in the market."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "South Korean companies like SK Chemicals have partnerships with international suppliers.",
+      "notes": "South Korea is also a significant player in the global silicon market, with companies like SK Chemicals having a presence in the market."
+    }
+  ],
+  "importers": [
+    {
+      "country": "USA",
+      "share": 0.4,
+      "notes": "The US is a significant importer of silicon products, with many companies using them in various industries."
+    },
+    {
+      "country": "China",
+      "share": 0.3,
+      "notes": "China is also a significant importer of silicon products, with many companies using them in various industries."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "notes": "Germany is a significant importer of silicon products, with many companies using them in various industries."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "notes": "Japan is also a significant importer of silicon products, with many companies using them in various industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "notes": "South Korea is a significant importer of silicon products, with many companies using them in various industries."
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Dow_Corning",
+    "https://www.dow.com/en-us.html",
+    "https://www.marketresearchfuture.com/reports/silicone-market/companies",
+    "https://chemicalresearchinsight.com/2025/08/04/top-10-companies-in-the-global-silicone-powder-industry-2025-market-leaders-driving-advanced-material-innovation/",
+    "https://www.momentive.com/en-us",
+    "https://www.unisco.com/importers/dow-silicones-corporation"
+  ]
+}

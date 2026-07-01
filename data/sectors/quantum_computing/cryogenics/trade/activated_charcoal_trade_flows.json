@@ -1,0 +1,112 @@
+{
+  "commodity": "Activated charcoal",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Philippines",
+      "share": 0.25,
+      "ownership_note": "Local mines, some foreign ownership",
+      "notes": "Major supplier of activated charcoal to the global market"
+    },
+    {
+      "country": "Vietnam",
+      "share": 0.2,
+      "ownership_note": "State-owned enterprises, some private ownership",
+      "notes": "Significant producer of activated charcoal for industrial applications"
+    },
+    {
+      "country": "China",
+      "share": 0.15,
+      "ownership_note": "State-owned enterprises, some private ownership",
+      "notes": "Large-scale producer of activated charcoal for various industries"
+    },
+    {
+      "country": "Brazil",
+      "share": 0.1,
+      "ownership_note": "Local mines, some foreign ownership",
+      "notes": "Notable supplier of activated charcoal to the global market"
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "ownership_note": "Local mines, some private ownership",
+      "notes": "Emerging player in the global activated charcoal market"
+    },
+    {
+      "country": "South Africa",
+      "share": 0.05,
+      "ownership_note": "Local mines, some foreign ownership",
+      "notes": "Significant producer of activated charcoal for industrial applications"
+    },
+    {
+      "country": "Indonesia",
+      "share": 0.05,
+      "ownership_note": "Local mines, some private ownership",
+      "notes": "Growing supplier of activated charcoal to the global market"
+    },
+    {
+      "country": "Thailand",
+      "share": 0.05,
+      "ownership_note": "Local mines, some private ownership",
+      "notes": "Notable supplier of activated charcoal to the global market"
+    },
+    {
+      "country": "Malaysia",
+      "share": 0.05,
+      "ownership_note": "Local mines, some private ownership",
+      "notes": "Emerging player in the global activated charcoal market"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.2,
+      "ownership_note": "Varies",
+      "notes": "Includes countries not mentioned above, such as the USA, Canada, and others"
+    }
+  ],
+  "importers": [
+    {
+      "country": "USA",
+      "share": 0.3,
+      "notes": "Major importer of activated charcoal for various industries"
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "notes": "Significant importer of activated charcoal for industrial applications"
+    },
+    {
+      "country": "India",
+      "share": 0.15,
+      "notes": "Growing importer of activated charcoal for various industries"
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "notes": "Notable importer of activated charcoal for industrial applications"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "notes": "Emerging importer of activated charcoal for various industries"
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "notes": "Significant importer of activated charcoal for industrial applications"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.25,
+      "notes": "Includes countries not mentioned above, such as the UK, France, and others"
+    }
+  ],
+  "sources_consulted": [
+    "https://chemicalresearchinsight.com/2025/08/22/top-10-companies-in-the-activated-charcoal-industry-2025-market-leaders-powering-global-purification/",
+    "https://www.globalinforesearch.com/reports/2416845/activated-charcoal",
+    "https://www.accio.com/supplier/activated-charcoal-manufacturers",
+    "https://charcoaldomain.com/activated-charcoal-manufacturers",
+    "https://www.qyresearch.com/reports/4686521/activated-charcoal",
+    "https://www.volza.com/p/activated-charcoal/manufacturers/"
+  ]
+}

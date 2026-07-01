@@ -1,0 +1,112 @@
+{
+  "commodity": "304 stainless steel",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.42,
+      "ownership_note": "State-owned enterprises and private companies",
+      "notes": "Huaxiao-Alloy, Baosteel, and other major manufacturers"
+    },
+    {
+      "country": "India",
+      "share": 0.2,
+      "ownership_note": "Private companies",
+      "notes": "Jindal Stainless, Aperam Stainless, and other major manufacturers"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.12,
+      "ownership_note": "Private companies",
+      "notes": "POSCO, Hyundai Steel, and other major manufacturers"
+    },
+    {
+      "country": "Japan",
+      "share": 0.08,
+      "ownership_note": "Private companies",
+      "notes": "Nippon Steel, JFE Steel, and other major manufacturers"
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Private companies",
+      "notes": "Aperam, Gerdau, and other major manufacturers"
+    },
+    {
+      "country": "Russia",
+      "share": 0.03,
+      "ownership_note": "State-owned enterprises",
+      "notes": "Severstal, Evraz, and other major manufacturers"
+    },
+    {
+      "country": "Germany",
+      "share": 0.02,
+      "ownership_note": "Private companies",
+      "notes": "Outokumpu, ThyssenKrupp, and other major manufacturers"
+    },
+    {
+      "country": "Italy",
+      "share": 0.01,
+      "ownership_note": "Private companies",
+      "notes": "Aperam, Acerinox, and other major manufacturers"
+    },
+    {
+      "country": "Sweden",
+      "share": 0.01,
+      "ownership_note": "Private companies",
+      "notes": "Outokumpu, SSAB, and other major manufacturers"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.06,
+      "ownership_note": "Various private and state-owned companies",
+      "notes": "Including countries like the United States, Canada, and others"
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.25,
+      "notes": "Major consumers of 304 stainless steel in the automotive, construction, and food processing industries"
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "notes": "Growing demand for 304 stainless steel in the construction, automotive, and consumer goods industries"
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "notes": "Significant demand for 304 stainless steel in the automotive, construction, and machinery industries"
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "notes": "Major consumers of 304 stainless steel in the automotive, electronics, and consumer goods industries"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.08,
+      "notes": "Growing demand for 304 stainless steel in the automotive, construction, and consumer goods industries"
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "notes": "Increasing demand for 304 stainless steel in the construction, automotive, and consumer goods industries"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.17,
+      "notes": "Including countries like the United Kingdom, France, and others"
+    }
+  ],
+  "sources_consulted": [
+    "https://www.sohoinchina.com/grade-304-stainless-steel/",
+    "https://metalzenith.com/blogs/best-steel-supplier/top-304-stainless-steel-supplier-guide",
+    "https://www.huaxiao-alloy.com/blog/top-10-stainless-steel-manufacturer/",
+    "https://us.metoree.com/categories/8184/",
+    "https://kongfangmetal.com/top-10-stainless-steel-manufacturers-2025/",
+    "https://globalinforesearch.com/reports/1404342/304-stainless-steel"
+  ]
+}

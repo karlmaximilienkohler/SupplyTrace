@@ -1,0 +1,67 @@
+{
+  "commodity": "Tantalum Capacitors",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.45,
+      "ownership_note": "Significant domestic production; some foreign ownership in mining.",
+      "notes": "China is a major player in the tantalum capacitor market, with a large number of manufacturers."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "ownership_note": "Domestic companies with some foreign investments.",
+      "notes": "The U.S. has a strong electronics manufacturing base that utilizes tantalum capacitors."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "ownership_note": "Local manufacturers with some foreign partnerships.",
+      "notes": "Japan is known for high-quality electronic components, including tantalum capacitors."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "ownership_note": "Domestic production with some foreign investments.",
+      "notes": "South Korea has a growing electronics sector that relies on tantalum capacitors."
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "ownership_note": "Strong engineering and manufacturing base.",
+      "notes": "Germany produces high-quality electronic components, including tantalum capacitors."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "Largest market for electronic components, including tantalum capacitors."
+    },
+    {
+      "country": "China",
+      "share": 0.3,
+      "notes": "Significant importer for domestic manufacturing needs."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Strong demand for high-quality electronic components."
+    },
+    {
+      "country": "Germany",
+      "share": 0.1,
+      "notes": "Robust electronics market with high-quality standards."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.volza.com/p/tantalum-or-capacitors/manufacturers/manufacturers-in-china/",
+    "https://www.exporthub.com/tantalum-capacitors-manufacturers/",
+    "https://www.tradekey.com/country/hk/tantalum-capacitors.htm",
+    "https://www.globalspec.com/suppliers/4002/tantalum_capacitors",
+    "https://www.globalspec.com/local/4002/C_JP",
+    "https://exxelia.com/en/products/capacitors/tantalum-capacitors/wet-tantalum/as31"
+  ]
+}

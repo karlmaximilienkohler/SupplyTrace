@@ -1,0 +1,107 @@
+{
+  "commodity": "Copper",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "Chile",
+      "share": 0.25,
+      "ownership_note": "State-owned Codelco",
+      "notes": "Largest copper producer in the world"
+    },
+    {
+      "country": "Peru",
+      "share": 0.2,
+      "ownership_note": "Private companies like Freeport-McMoRan and Glencore",
+      "notes": "Second-largest copper producer in the world"
+    },
+    {
+      "country": "China",
+      "share": 0.15,
+      "ownership_note": "State-owned companies like Jiangxi Copper and China Nonferrous Mining",
+      "notes": "Third-largest copper producer in the world"
+    },
+    {
+      "country": "Australia",
+      "share": 0.1,
+      "ownership_note": "Private companies like BHP and Rio Tinto",
+      "notes": "Significant copper producer, but output decreasing due to mine closures"
+    },
+    {
+      "country": "Democratic Republic of the Congo",
+      "share": 0.05,
+      "ownership_note": "Private companies like Glencore and Ivanhoe Mines",
+      "notes": "Growing copper producer, but also known for artisanal mining"
+    },
+    {
+      "country": "Mexico",
+      "share": 0.05,
+      "ownership_note": "Private companies like Grupo Mexico and Fresnillo",
+      "notes": "Significant copper producer, with Buenavista del Cobre mine being the largest in the country"
+    },
+    {
+      "country": "United States",
+      "share": 0.05,
+      "ownership_note": "Private companies like Freeport-McMoRan and Asarco",
+      "notes": "Significant copper producer, with major mines in Arizona and Utah"
+    },
+    {
+      "country": "Canada",
+      "share": 0.05,
+      "ownership_note": "Private companies like Teck Resources and Hudbay Minerals",
+      "notes": "Significant copper producer, with major mines in British Columbia and Ontario"
+    },
+    {
+      "country": "Poland",
+      "share": 0.05,
+      "ownership_note": "State-owned KGHM Polska Miedz",
+      "notes": "Significant copper producer, with major mines in the Sudeten Mountains"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "ownership_note": "Various private and state-owned companies",
+      "notes": "Smaller copper producers, including countries like Zambia, Kazakhstan, and Russia"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "notes": "Largest consumer of copper in the world, driven by demand for electronics and renewable energy infrastructure"
+    },
+    {
+      "country": "India",
+      "share": 0.2,
+      "notes": "Growing consumer of copper, driven by demand for electronics and infrastructure development"
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Significant consumer of copper, driven by demand for electronics and automotive industry"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "Significant consumer of copper, driven by demand for electronics and automotive industry"
+    },
+    {
+      "country": "Germany",
+      "share": 0.05,
+      "notes": "Significant consumer of copper, driven by demand for electronics and automotive industry"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "notes": "Various countries, including the United States, Brazil, and the United Kingdom"
+    }
+  ],
+  "sources_consulted": [
+    "https://en.wikipedia.org/wiki/Largest_copper_companies",
+    "https://www.bing.com/aclick?ld=e8X2BhyfnMD9W86ariGwrtfjVUCUz4l3LhaXrFWN3dYQCx_p6Du2g-DJSZVp74s4Y9W944YaAgAalhf72ai8pe9wnfIlNMd6iayNUMDV8Hr7b9hPzmm5Ko3nmh8V_9oCp_xS3g3IqbNZWVbvPh43JrJ47ozoZGCsibQ_lMt261lsQe0_C2Jwr3lH0OLjphJVe4a8dSkA&u=aHR0cCUzYSUyZiUyZnd3dy5zb3V0aGVybmNvcHBlci5jb20lM2Ztc2Nsa2lkJTNkYzg0Mjg5ODkwZmVmMTg5NTRkMjFlMDM1OWE4N2IwZWM&rlid=c84289890fef18954d21e0359a87b0ec",
+    "https://investingnews.com/daily/resource-investing/base-metals-investing/copper-investing/top-copper-producing-companies/",
+    "https://thebudgetanalyst.com/2024/01/20/top-10-copper-producing-companies-updated-2024/",
+    "https://www.visualcapitalist.com/ranked-worlds-top-copper-producers-2000-2024/",
+    "https://www.nasdaq.com/articles/top-10-copper-producers-country"
+  ]
+}

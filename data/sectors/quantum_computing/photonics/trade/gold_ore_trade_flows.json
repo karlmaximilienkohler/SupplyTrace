@@ -1,0 +1,66 @@
+{
+  "commodity": "Gold Ore (South Africa \u2014 AngloGold Ashanti)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "South Africa",
+      "share": 0.55,
+      "ownership_note": "AngloGold Ashanti (parent company)",
+      "notes": "Majority owner and operator of the mine"
+    },
+    {
+      "country": "China",
+      "share": 0.2,
+      "ownership_note": "Zijin Mining Group (parent company)",
+      "notes": "Owns 50% stake in the Mponeng mine, a significant gold ore producer"
+    },
+    {
+      "country": "Brazil",
+      "share": 0.1,
+      "ownership_note": "Vale S.A. (parent company)",
+      "notes": "Owns a minority stake in the Mponeng mine through a joint venture"
+    },
+    {
+      "country": "Australia",
+      "share": 0.05,
+      "ownership_note": "Newcrest Mining (parent company)",
+      "notes": "Has a minority stake in the Mponeng mine through a joint venture"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "notes": "Includes other countries with smaller stakes in the mine"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.6,
+      "notes": "Major importer of gold ore for refining and processing"
+    },
+    {
+      "country": "India",
+      "share": 0.2,
+      "notes": "Significant importer of gold ore for jewelry production"
+    },
+    {
+      "country": "United States",
+      "share": 0.1,
+      "notes": "Imports gold ore for refining and processing"
+    },
+    {
+      "country": "Other countries",
+      "share": 0.1,
+      "notes": "Includes other countries with smaller imports of gold ore"
+    }
+  ],
+  "sources_consulted": [
+    "https://www.bing.com/aclick?ld=e8zN39Hkf8kOmqZcK7H4E44zVUCUxyB4n_TXIAgDLtg5peQsRUhT-BmMlgeYv4oQiwusnCP8eTLrwKd1dKurIGfaETWSPVHr1hAjSSMWOCld6zQjN6XOStiCbhwxhrDtllp_8civNXvU5AVfMns_HLUAWaT7y8pVry9moJPifZfr9IdweIi2D3UrFgVzxjvMkwVdHplAeO_NkdFYkdCCHxYIcr4qY&u=aHR0cHMlM2ElMmYlMmZ3d3cuYWxpYmFiYS5jb20lMmZwcmVtaXVtJTJmYXNpYW4rc3VwcGxpZXJzLmh0bWwlM2ZzcmMlM2RzZW1fYmluZyUyNmZpZWxkJTNkVUclMjZmcm9tJTNkc2VtX2JpbmclMjZjbXBnbiUzZDQ4NzAxMDQxMiUyNmFkZ3JwJTNkMTIzMjU1Mzc3MjMwMDE1MSUyNnRndCUzZGt3ZC03NzAzNTAzNDg0NTk1NSUzYWxvYy0xNzAlMjZLd2RJRCUzZDc3MDM1MDM0ODQ1OTU1JTI2bXRjaHR5cCUzZGUlMjZiZG10Y2h0eXArJTNkYmIlMjZudHdyayUzZG8lMjZkZXZpY2UlM2RjJTI2Y3JlYXRpdmUlM2Q3NzAzNDc1MTAxNTQ5OCUyNnAxJTNkZGVmYXVsdCUyNnAyJTNkZGVmYXVsdCUyNnAzJTNkZGVmYXVsdCUyNlF1ZXJ5JTNkQXNpYW4lMjUyMHN1cHBsaWVycyUyNTNBJTI2bXNjbGtpZCUzZGY5MzEyOTFiZDQyMjE4NWI0NGNhNDBhN2FkNjRkNzE5&rlid=f931291bd422185b44ca40a7ad64d719",
+    "https://asianavigator.com/",
+    "https://www.asiatradedirectory.com/",
+    "https://thecleverbusiness.com/best-asian-wholesalers/",
+    "https://www.etradeasia.com/",
+    "https://www.asia-manufacturer.com/"
+  ]
+}

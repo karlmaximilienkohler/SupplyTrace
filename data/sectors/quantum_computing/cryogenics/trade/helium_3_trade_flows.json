@@ -1,0 +1,72 @@
+{
+  "commodity": "Helium-3",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "ownership_note": "Significant production from government facilities and private companies.",
+      "notes": "The US has a well-established infrastructure for helium-3 production, primarily from nuclear facilities."
+    },
+    {
+      "country": "Russia",
+      "share": 0.25,
+      "ownership_note": "State-controlled production through Rosatom.",
+      "notes": "Russia has significant reserves and production capabilities, but geopolitical tensions may affect exports."
+    },
+    {
+      "country": "Qatar",
+      "share": 0.2,
+      "ownership_note": "Production linked to natural gas extraction.",
+      "notes": "Qatar's helium production is primarily a byproduct of natural gas, with a focus on helium-4 but some helium-3."
+    },
+    {
+      "country": "Algeria",
+      "share": 0.1,
+      "ownership_note": "State-owned enterprises manage production.",
+      "notes": "Algeria has emerging capabilities in helium production, including helium-3."
+    },
+    {
+      "country": "Australia",
+      "share": 0.05,
+      "ownership_note": "Private companies involved in exploration and production.",
+      "notes": "Australia's helium production is limited but growing, with potential for helium-3."
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.35,
+      "notes": "Heavily reliant on imports for helium-3, primarily from the US and Qatar."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.25,
+      "notes": "Significant imports from Qatar, with a growing demand for helium-3 in technology sectors."
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Diverse sources for helium imports, including the US and Qatar."
+    },
+    {
+      "country": "European Union",
+      "share": 0.15,
+      "notes": "Imports from various sources, with increasing interest in helium-3 for quantum computing."
+    },
+    {
+      "country": "Taiwan",
+      "share": 0.05,
+      "notes": "Dependent on imports, primarily from Qatar and the US."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.linkedin.com/pulse/helium-3-market-73-pages-worth-us-10603-ejjse",
+    "https://www.linkedin.com/company/helium3ventures",
+    "https://www.linkedin.com/company/helium-3-techonologies-consulting",
+    "https://www.linkedin.com/pulse/helium-3-nuclear-fusion-what-why-making-headlines-greg-de-temmerman",
+    "https://www.linkedin.com/pulse/helium-3-market-size-unveiling-potential-scope",
+    "https://www.linkedin.com/pulse/global-helium-3-market-2023-2031-booming-upcoming"
+  ]
+}

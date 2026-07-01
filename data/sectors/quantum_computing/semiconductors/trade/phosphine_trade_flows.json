@@ -1,0 +1,72 @@
+{
+  "commodity": "Phosphine",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.5,
+      "ownership_note": "Significant control by Chinese companies over production and supply chains.",
+      "notes": "China is the largest producer and exporter of phosphine, with major companies like DayangChem leading the market."
+    },
+    {
+      "country": "United States",
+      "share": 0.2,
+      "ownership_note": "Domestic production with some foreign investments.",
+      "notes": "The U.S. has a strong chemical manufacturing base, contributing significantly to the phosphine market."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "ownership_note": "European market leader with several key manufacturers.",
+      "notes": "Germany is a major player in the chemical industry, including phosphine production."
+    },
+    {
+      "country": "India",
+      "share": 0.1,
+      "ownership_note": "Growing production capacity with local companies.",
+      "notes": "India is increasing its share in the global phosphine market, focusing on exports."
+    },
+    {
+      "country": "Brazil",
+      "share": 0.05,
+      "ownership_note": "Mining operations owned by foreign entities.",
+      "notes": "Brazil has phosphine production linked to its mining sector, but ownership is often foreign."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "Major importer due to high demand in various industries, including quantum computing."
+    },
+    {
+      "country": "Germany",
+      "share": 0.25,
+      "notes": "Strong demand for phosphine in the chemical and technology sectors."
+    },
+    {
+      "country": "Japan",
+      "share": 0.15,
+      "notes": "Significant imports for use in technology and manufacturing."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "Growing demand in the semiconductor and electronics industries."
+    },
+    {
+      "country": "India",
+      "share": 0.1,
+      "notes": "Increasing imports to support local manufacturing and technology sectors."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.lookchem.com/cas-119/119169-78-7.html",
+    "https://www.lookchem.com/cas-102/10238-21-8.html",
+    "https://www.lookchem.com/cas-119/119302-91-9.html",
+    "https://www.lookchem.com/cas-759/75980-60-8.html",
+    "https://www.lookchem.com/cas-104/104197-14-0.html",
+    "https://pmarketresearch.com/chemi/tris2-carboxyethylphosphine-hydrochloride-market/"
+  ]
+}

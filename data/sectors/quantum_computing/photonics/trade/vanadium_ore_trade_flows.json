@@ -1,0 +1,60 @@
+{
+  "commodity": "Vanadium Ore (South Africa \u2014 Bushveld Minerals)",
+  "data_source": "AI-Estimated (Llama 3.3 70B inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "South Africa",
+      "share": 0.85,
+      "ownership_note": "Bushveld Minerals owns vanadium mines and processing facilities",
+      "notes": "Majority of global vanadium production comes from South Africa"
+    },
+    {
+      "country": "Russia",
+      "share": 0.1,
+      "ownership_note": "State-controlled",
+      "notes": "Russia is the second-largest vanadium producer in the world"
+    },
+    {
+      "country": "China",
+      "share": 0.05,
+      "ownership_note": "State-controlled",
+      "notes": "China is a significant consumer of vanadium, with some domestic production"
+    }
+  ],
+  "importers": [
+    {
+      "country": "China",
+      "share": 0.6,
+      "notes": "China is a significant consumer of vanadium, with some domestic production"
+    },
+    {
+      "country": "Japan",
+      "share": 0.2,
+      "notes": "Japan is a significant consumer of vanadium, with some domestic production"
+    },
+    {
+      "country": "South Korea",
+      "share": 0.1,
+      "notes": "South Korea is a significant consumer of vanadium, with some domestic production"
+    },
+    {
+      "country": "United States",
+      "share": 0.05,
+      "notes": "The US is a significant consumer of vanadium, with some domestic production and imports from South Africa and Russia"
+    },
+    {
+      "country": "India",
+      "share": 0.05,
+      "notes": "India is a significant consumer of vanadium, with some domestic production and imports from South Africa and Russia"
+    }
+  ],
+  "sources_consulted": [
+    "https://www.bushveldminerals.com/",
+    "https://vr8.global/",
+    "https://www.miningnewswire.com/the-top-four-global-producers-of-vanadium/",
+    "https://energycapitalpower.com/vanadium-projects-south-africa/",
+    "https://bushv.stage-v1.co.za/",
+    "https://www.africaoutlookmag.com/company-profiles/986-bushveld-minerals"
+  ]
+}

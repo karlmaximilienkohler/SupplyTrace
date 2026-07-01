@@ -1,0 +1,72 @@
+{
+  "commodity": "Arsenic",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 85,
+      "ownership_note": "Majority of production and processing facilities are state-owned or controlled by Chinese companies.",
+      "notes": "China is the largest producer and exporter of arsenic, dominating the market."
+    },
+    {
+      "country": "Peru",
+      "share": 10,
+      "ownership_note": "Mining operations often involve foreign investment, but local companies manage production.",
+      "notes": "Peru is a significant producer of white arsenic."
+    },
+    {
+      "country": "India",
+      "share": 3,
+      "ownership_note": "Some production is controlled by private companies, with limited export capacity.",
+      "notes": "India has a smaller share in the global arsenic market."
+    },
+    {
+      "country": "Japan",
+      "share": 1,
+      "ownership_note": "Limited production, primarily for domestic use.",
+      "notes": "Japan imports most of its arsenic."
+    },
+    {
+      "country": "Others",
+      "share": 1,
+      "ownership_note": "Includes various countries with minimal production.",
+      "notes": "This category includes countries like South Korea and some Middle Eastern nations."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 40,
+      "notes": "The U.S. imports arsenic primarily for industrial applications, including semiconductor manufacturing."
+    },
+    {
+      "country": "Germany",
+      "share": 20,
+      "notes": "Germany imports arsenic for use in various chemical processes."
+    },
+    {
+      "country": "China",
+      "share": 15,
+      "notes": "China also imports arsenic for domestic processing and manufacturing."
+    },
+    {
+      "country": "India",
+      "share": 10,
+      "notes": "India imports arsenic to supplement local production."
+    },
+    {
+      "country": "Others",
+      "share": 15,
+      "notes": "Includes various countries with smaller import volumes."
+    }
+  ],
+  "sources_consulted": [
+    "https://www.globalsources.com/manufacturers/Arsenic.html",
+    "https://www.trademo.com/manufacturers/arsenic",
+    "https://www.thomasnet.com/suppliers/usa/arsenic-2071207",
+    "https://chemicalbusinessdirectory.com/chemical-item/arsenic/",
+    "https://www.globalsources.com/manufacturers/arsenic.html",
+    "https://www.chemicalbook.com/Manufacturers/Arsenic.htm"
+  ]
+}

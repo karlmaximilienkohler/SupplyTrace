@@ -1,0 +1,78 @@
+{
+  "commodity": "Gold Wire Bonds",
+  "data_source": "AI-Estimated (GPT-4o mini (OpenAI) inference from web context \u2014 not official statistics)",
+  "year": "2023-estimated",
+  "exporters": [
+    {
+      "country": "China",
+      "share": 0.4,
+      "ownership_note": "Significant control over gold supply chains despite local production.",
+      "notes": "China is a major player in the electronics and quantum computing sectors, heavily utilizing gold wire bonds."
+    },
+    {
+      "country": "United States",
+      "share": 0.25,
+      "ownership_note": "Domestic production with some reliance on imported gold.",
+      "notes": "The US has a strong technology sector that drives demand for gold wire bonds."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "ownership_note": "European leader in high-tech manufacturing.",
+      "notes": "Germany's engineering and technology sectors utilize gold wire bonds extensively."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "ownership_note": "Strong electronics manufacturing base.",
+      "notes": "Japan is known for its advanced technology and electronics industries."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "ownership_note": "Emerging player in quantum technologies.",
+      "notes": "South Korea is increasing its investment in quantum computing and related technologies."
+    },
+    {
+      "country": "Australia",
+      "share": 0.05,
+      "ownership_note": "Rich in gold resources, but limited processing capacity.",
+      "notes": "Australia is a significant gold producer but exports raw materials rather than finished products."
+    }
+  ],
+  "importers": [
+    {
+      "country": "United States",
+      "share": 0.4,
+      "notes": "The largest market for gold wire bonds due to its advanced technology sector."
+    },
+    {
+      "country": "China",
+      "share": 0.3,
+      "notes": "Significant demand for gold wire bonds in its electronics and quantum computing industries."
+    },
+    {
+      "country": "Germany",
+      "share": 0.15,
+      "notes": "Strong demand driven by its engineering and manufacturing sectors."
+    },
+    {
+      "country": "Japan",
+      "share": 0.1,
+      "notes": "High demand for advanced electronics and technology applications."
+    },
+    {
+      "country": "South Korea",
+      "share": 0.05,
+      "notes": "Growing demand as the country invests in quantum technologies."
+    }
+  ],
+  "sources_consulted": [
+    "https://energynews.oedigital.com/oil-gas/2025/12/05/mercuria-and-congos-gecamines-partner-to-market-critical-minerals",
+    "https://de.zxc.wiki/wiki/Gold",
+    "https://www.telegraph.co.uk/business/2022/03/21/ftse-100-markets-live-news-tax-fuel-oil-russia-debt2/",
+    "https://es.jdktools.com/news_info1.html",
+    "https://notayesmanseconomics.wordpress.com/tag/negative-interest-rates/",
+    "https://energynews.oedigital.com/energy-markets/2026/01/16/how-much-longer-before-we-intervene"
+  ]
+}
