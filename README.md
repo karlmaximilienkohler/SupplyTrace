@@ -2,23 +2,21 @@
 
 **Quantum Technology Supply Chain Risk Intelligence**
 
-SupplyTrace is an open-source framework for mapping and scoring supply chain risk in quantum computing technologies. It computes a composite risk score (0–1) for individual quantum hardware components using a seven-pillar weighted methodology, with perspective-driven geopolitical analysis (EU / US / China), recursive dependency propagation, and scenario stress-testing.
+SupplyTrace is an open-source framework for mapping and scoring supply chain risk in quantum computing technologies. It computes a composite risk score (0 to 1) for individual quantum hardware components using a seven-pillar weighted methodology, with perspective-driven geopolitical analysis (EU, US, China), recursive dependency propagation, and scenario stress-testing.
 
 Developed as part of the AI for Policy initiative at IE University. Reviewed by policy officers at the European Commission and TNO.
 
----
 
 ## What it does
 
-- **Seven-pillar risk scoring** — market concentration (HHI), geopolitical dependency, shelf-life, substitutability, lead-time, regulatory exposure, and strategic impact
-- **Perspective-driven** — the same supply chain scored from EU, US, and Chinese viewpoints using configurable adversary sets
-- **Recursive dependency propagation** — risk accumulates upward through a bill-of-materials tree via the Accumulated Risk Index (ARI), surfacing single points of failure
-- **Scenario overlays** — 18 geopolitical scenarios (sanctions, export controls, supply shortages) plus user-defined custom scenarios via LLM
-- **Three-tier data pipeline** — UN Comtrade official trade data → LLM-assisted web extraction → AI-estimated prominence rankings, each labeled by confidence level
-- **Beneficial ownership tracking** — surfaces hidden foreign state control that nominal country-of-origin data conceals
-- **Interactive dashboard** — risk table, geospatial map, dependency graph, perspective comparison, scenario selector
+- **Seven-pillar risk scoring:** market concentration (HHI), geopolitical dependency, shelf-life, substitutability, lead-time, regulatory exposure, and strategic impact
+- **Perspective-driven analysis:** the same supply chain scored from EU, US, and Chinese viewpoints using configurable adversary sets
+- **Recursive dependency propagation:** risk accumulates upward through a bill-of-materials tree via the Accumulated Risk Index (ARI), surfacing single points of failure
+- **Scenario overlays:** 18 geopolitical scenarios (sanctions, export controls, supply shortages) plus user-defined custom scenarios scored live by an LLM
+- **Three-tier data pipeline:** UN Comtrade official trade data, LLM-assisted web extraction, and AI-estimated prominence rankings, each labeled by confidence level
+- **Beneficial ownership tracking:** surfaces hidden foreign state control that nominal country-of-origin data conceals
+- **Interactive dashboard:** risk table, geospatial map, dependency graph, perspective comparison, scenario selector
 
----
 
 ## Installation
 
@@ -33,7 +31,6 @@ cp .env.example .env
 
 Edit `.env` and add your API keys (see below).
 
----
 
 ## API Keys
 
@@ -48,7 +45,6 @@ SupplyTrace requires the following API keys in your `.env` file:
 - Groq: [console.groq.com](https://console.groq.com)
 - UN Comtrade: [comtradeplus.un.org](https://comtradeplus.un.org)
 
----
 
 ## Quickstart
 
@@ -67,7 +63,6 @@ Open your browser at `http://localhost:8000`.
 
 Pre-extracted data for **Cryogenics**, **Photonics**, and **Semiconductors** is included in the repository. You can view results immediately without running extraction.
 
----
 
 ## Repository Structure
 
@@ -90,7 +85,6 @@ SupplyTrace/
 └── README.md
 ```
 
----
 
 ## Methodology
 
@@ -114,29 +108,29 @@ SupplyTrace/
 
 ### Perspective-Driven Geopolitics
 
-Risk is not absolute — it depends on the analyzing nation's geopolitical framing. Adversary sets:
+Risk is not absolute. It depends on the analyzing nation's geopolitical framing. Adversary sets:
 
 - **EU:** Russia, China, Iran, Belarus, North Korea
 - **US:** Russia, China, Iran, North Korea, Cuba
 - **China:** US, Japan, South Korea, Taiwan, Australia, UK, India
 
-The HHI pillar applies a self-share discount: supply concentration among friendly nations is treated as a strategic asset, not a risk.
+The HHI pillar applies a self-share discount: supply concentration among friendly nations is treated as a strategic asset, not a vulnerability.
 
 ### Data Confidence
 
-Every supplier entry carries a `data_confidence` field (high / medium / low) and a `share_source` field documenting whether market share comes from UN Comtrade, web-extracted industry reports, or LLM estimation. AI-generated entries are explicitly labeled `"data_source": "AI-Estimated"`. Supplier entries with signs of confabulation were removed manually before inclusion.
+Every supplier entry carries a `data_confidence` field (high, medium, or low) and a `share_source` field documenting whether market share comes from UN Comtrade, web-extracted industry reports, or LLM estimation. AI-generated entries are explicitly labeled `"data_source": "AI-Estimated"`. Supplier entries with signs of confabulation were removed manually before inclusion.
 
----
 
 ## Case Studies
 
 ### Helium-3
-He-3 is the coolant enabling 10–20 millikelvin temperatures in dilution refrigerators — the sole operating environment for superconducting qubits. No substitute exists. The market is a state-controlled duopoly (US DOE and Rosatom). SupplyTrace baseline score (EU perspective): **0.394**. Under the `helium3_shortage` scenario overlay: **0.844** — one disruption away from complete system collapse.
+
+He-3 is the coolant enabling 10 to 20 millikelvin temperatures in dilution refrigerators, the sole operating environment for superconducting qubits. No substitute exists at these temperatures. The market is a state-controlled duopoly (US DOE via Savannah River and Rosatom in Russia). SupplyTrace baseline score from an EU perspective: **0.394**. Under the `helium3_shortage` scenario overlay: **0.844**. One disruption away from complete system collapse.
 
 ### Gallium
-China produces ~80% of primary gallium globally. SupplyTrace geopolitical score for gallium (EU/US perspective): **0.538**; China perspective: **0.312** — a divergence of 0.130, the largest of any material in this study. This correctly identified the structural exposure before China imposed export licensing requirements on gallium in July 2023.
 
----
+China produces approximately 80% of primary gallium globally due to its vertically integrated aluminium-to-gallium refining chain. SupplyTrace geopolitical score for gallium from an EU or US perspective: **0.538**. From a Chinese perspective: **0.312**. A divergence of 0.130, the largest of any material in this study. This correctly identified the structural exposure before China imposed export licensing requirements on gallium in July 2023.
+
 
 ## Citation
 
@@ -150,13 +144,11 @@ GitHub: https://github.com/karlmaximilienkohler/SupplyTrace
 
 A journal paper describing the methodology is forthcoming.
 
----
 
 ## License
 
 MIT License. See `LICENSE`.
 
----
 
 ## Acknowledgements
 
