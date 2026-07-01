@@ -152,4 +152,4 @@ MIT License. See `LICENSE`.
 
 ## Acknowledgements
 
-Supervised by Prof. Oscar Diez (IE University). Methodology and results reviewed by Dr. Paula Kleij and Dr. Laurent Olislager (European Commission) and Julian Rabbie, Sr. Strategy Advisor for Quantum Technologies (TNO).
+Supervised by Prof. Oscar Diez (IE University). Informally reviewed by policy officers at the European Commission and quantum technology advisors at TNO.
