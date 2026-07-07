@@ -99,26 +99,26 @@ def _fetch_news(query: str, max_results: int = 6) -> List[Dict]:
         return []
 
 
-# ─── Perspective definitions: allies and adversaries ─────────────────────────
+# ─── Perspective definitions: partners and risk-relevant jurisdictions ────────
 # These determine how the AI reasons about supply chain exposure.
-# Allies = trusted trading partners, low adversarial risk.
-# Adversaries = countries whose control over a supply is a risk to this perspective.
+# Allies = trusted trading partners, low geopolitical risk.
+# Risk-relevant jurisdictions = countries whose control over a supply is a risk to this perspective.
 
 PERSPECTIVE_CONTEXT = {
     "EU": {
         "description": "The European Union — 27-member trading bloc, heavily dependent on imported energy and critical raw materials.",
-        "adversaries":  ["Russia", "China", "Iran", "Belarus", "North Korea"],
+        "risk_jurisdictions": ["Russia", "China", "Iran", "Belarus", "North Korea"],
         "allies":       ["United States", "Canada", "Norway", "Australia", "Japan", "South Korea", "UK", "Switzerland"],
         "logic": (
             "From the EU's perspective: if a scenario disrupts supply from Russia or China, EU risk INCREASES sharply. "
-            "If Russia or China is hurt by the scenario (e.g. loses EU buyers, forced to find new markets), "
+            "If Russia or China is affected by the scenario (e.g. loses EU buyers, forced to find new markets), "
             "EU risk may DECREASE because it reduces dependency leverage. "
             "If the scenario benefits the US or Norway (EU allies), EU risk is stable or improves slightly."
         ),
     },
     "US": {
         "description": "The United States — dominant global power, strong domestic production base but reliant on China for critical minerals.",
-        "adversaries":  ["Russia", "China", "Iran", "North Korea", "Cuba"],
+        "risk_jurisdictions": ["Russia", "China", "Iran", "North Korea", "Cuba"],
         "allies":       ["EU", "Canada", "UK", "Australia", "Japan", "South Korea", "Taiwan", "Israel"],
         "logic": (
             "From the US perspective: if a scenario disrupts supply from China or Russia, US risk INCREASES. "
@@ -129,19 +129,19 @@ PERSPECTIVE_CONTEXT = {
     },
     "CHINA": {
         "description": "China — the world's largest manufacturer, dominant in critical mineral refining, seeking supply security for inputs it does not produce domestically.",
-        "adversaries":  ["United States", "Japan", "South Korea", "Taiwan", "Australia", "UK", "India"],
+        "risk_jurisdictions": ["United States", "Japan", "South Korea", "Taiwan", "Australia", "UK", "India"],
         "allies":       ["Russia", "Iran", "Belarus", "Pakistan", "Saudi Arabia", "Gulf states"],
         "logic": (
             "From China's perspective: China IS the dominant supplier for most critical minerals — it does not face supply risk for materials it controls. "
             "China's risk is UPSTREAM: materials it must IMPORT (e.g. iron ore from Australia, helium from the US, niobium from Brazil). "
             "If Russia is sanctioned by the EU/US, China BENEFITS — it gains leverage as Russia's largest alternative buyer. "
-            "China's risk INCREASES if Western allies coordinate to restrict exports to China, or if Taiwan is destabilised. "
+            "China's risk INCREASES if Western partners coordinate to restrict exports to China, or if Taiwan is destabilised. "
             "Do NOT score China's risk high for scenarios where China is the dominant supplier — that is the EU/US problem, not China's."
         ),
     },
     "GLOBAL": {
-        "description": "Global perspective — no adversary set, measures systemic supply concentration risk only.",
-        "adversaries":  [],
+        "description": "Global perspective — no risk-relevant jurisdiction set, measures systemic supply concentration risk only.",
+        "risk_jurisdictions": [],
         "allies":       [],
         "logic": (
             "From a global perspective: risk reflects pure supply concentration and physical disruption risk, "
@@ -158,8 +158,8 @@ CRITICAL RULES:
 1. You must reason from the PERSPECTIVE given — not generically. Different perspectives face opposite risks from the same event.
 2. If the perspective IS the dominant supplier of a component, their supply risk is LOW (they control it). Score delta near 0 or negative.
 3. If the perspective LOSES a supplier due to the scenario, risk INCREASES (positive delta).
-4. If the scenario forces an adversary to redirect supply toward the perspective (e.g. Russia needs new buyers → ships to China), risk DECREASES (negative delta) for that perspective.
-5. If a scenario weakens an adversary's leverage over the perspective, risk DECREASES.
+4. If the scenario forces a risk-relevant jurisdiction to redirect supply toward the perspective (e.g. Russia needs new buyers → ships to China), risk DECREASES (negative delta) for that perspective.
+5. If a scenario weakens a risk-relevant jurisdiction's leverage over the perspective, risk DECREASES.
 6. Use today's date and current geopolitical reality. Do not use outdated assumptions.
 7. Be brutally honest. Do not soften deltas for diplomatic reasons.
 
@@ -170,7 +170,7 @@ Delta scale:
   +0.01 to +0.09 = minor exposure
    0.00          = no material effect
   -0.01 to -0.15 = modest benefit (gains leverage or alternative buyers)
-  -0.16 to -0.30 = significant benefit (major supply advantage or reduced adversary leverage)
+  -0.16 to -0.30 = significant benefit (major supply advantage or reduced risk-jurisdiction leverage)
 
 Output format: a single JSON object where each key is the exact component name and the value is:
 { "delta": float, "reasoning": "1-2 sentences grounding the score in supplier geography and current events", "sources": ["headline title if applicable"] }
@@ -189,8 +189,8 @@ def _build_user_prompt(
     today = date.today().strftime("%B %d, %Y")
 
     ctx = PERSPECTIVE_CONTEXT.get(perspective, PERSPECTIVE_CONTEXT["GLOBAL"])
-    adversaries_str = ", ".join(ctx["adversaries"]) or "none defined"
-    allies_str      = ", ".join(ctx["allies"])      or "none defined"
+    risk_jurisdictions_str = ", ".join(ctx["risk_jurisdictions"]) or "none defined"
+    allies_str             = ", ".join(ctx["allies"])             or "none defined"
 
     news_block = "\n".join(
         f"  - [{n['title']}] {n['body']}"
@@ -209,7 +209,7 @@ DESCRIPTION: {scenario_description}
 
 PERSPECTIVE: {perspective}
 Who this is: {ctx['description']}
-Adversaries (supply from these = risk): {adversaries_str}
+Risk-relevant jurisdictions (supply from these = risk): {risk_jurisdictions_str}
 Allies (supply from these = safe): {allies_str}
 How to reason for this perspective:
 {ctx['logic']}

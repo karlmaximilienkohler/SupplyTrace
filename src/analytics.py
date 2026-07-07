@@ -30,29 +30,29 @@ def normalize_component_name(stem: str) -> str:
     return name
 
 
-# ─── Adversary Configurations per Perspective ─────────────────────────────────
-# Each perspective defines which countries are considered strategic adversaries.
-# This is the core of the perspective-driven approach described in section 5.3
-# of the methodology.
+# ─── Risk-Relevant Jurisdiction Sets per Perspective ──────────────────────────
+# Each perspective defines which countries are considered higher-risk / risk-relevant
+# jurisdictions for geopolitical dependency scoring. This is the core of the
+# perspective-driven approach described in section 5.3 of the methodology.
 
-ADVERSARY_SETS: Dict[str, List[str]] = {
-    # EU adversaries: hostile states per EU foreign policy / sanctions lists
+RISK_JURISDICTION_SETS: Dict[str, List[str]] = {
+    # EU risk-relevant jurisdictions: per EU foreign policy / sanctions lists
     "EU": [
         "RUSSIA", "RUSSIAN FEDERATION", "CHINA", "CN", "PEOPLE'S REPUBLIC OF CHINA",
         "IRAN", "ISLAMIC REPUBLIC OF IRAN",
         "NORTH KOREA", "DPRK", "DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA",
         "BELARUS",
     ],
-    # US adversaries: OFAC-sanctioned and export-controlled states
+    # US risk-relevant jurisdictions: OFAC-sanctioned and export-controlled states
     # Note: Venezuela removed (2026 — US engagement shifted following political developments)
-    # Cuba retained as adversary per OFAC SDN
+    # Cuba retained per OFAC SDN
     "US": [
         "RUSSIA", "RUSSIAN FEDERATION", "CHINA", "CN", "PEOPLE'S REPUBLIC OF CHINA",
         "IRAN", "ISLAMIC REPUBLIC OF IRAN",
         "NORTH KOREA", "DPRK", "DEMOCRATIC PEOPLE'S REPUBLIC OF KOREA",
         "CUBA",
     ],
-    # China adversaries: states China views as strategic competitors or hostile
+    # China risk-relevant jurisdictions: states China views as strategic competitors
     "CHINA": [
         "UNITED STATES", "USA", "US",
         "JAPAN", "SOUTH KOREA", "KOREA, REPUBLIC OF",
@@ -60,17 +60,17 @@ ADVERSARY_SETS: Dict[str, List[str]] = {
         "AUSTRALIA", "UNITED KINGDOM", "UK",
         "INDIA",  # Border tensions and strategic rivalry
     ],
-    # Global: no adversaries — pure concentration/HHI analysis
+    # Global: no risk-relevant jurisdictions defined — pure concentration/HHI analysis
     "GLOBAL": [],
 }
 
 
-def _resolve_adversaries(region: str) -> List[str]:
+def _resolve_risk_jurisdictions(region: str) -> List[str]:
     r = region.upper().strip()
-    for key in ADVERSARY_SETS:
+    for key in RISK_JURISDICTION_SETS:
         if r == key or r.startswith(key):
-            return ADVERSARY_SETS[key]
-    return ADVERSARY_SETS["EU"]
+            return RISK_JURISDICTION_SETS[key]
+    return RISK_JURISDICTION_SETS["EU"]
 
 
 # ─── HHI ──────────────────────────────────────────────────────────────────────
@@ -122,7 +122,7 @@ def get_component_risk_metrics(
     if not real_suppliers:
         return {"error": "Empty supplier registry"}
 
-    adversaries = _resolve_adversaries(region)
+    risk_jurisdictions = _resolve_risk_jurisdictions(region)
 
     # ── Pillar 1: Market Concentration (HHI) ──────────────────────────────────
     # Perspective-aware: if the dominant suppliers are in the same bloc as the
@@ -142,7 +142,7 @@ def get_component_risk_metrics(
         # Normalize: LLM sometimes returns 35 instead of 0.35 — detect and fix
         if raw_shares and max(raw_shares) > 1.0:
             raw_shares = [s / 100.0 for s in raw_shares]
-            # Also fix in-place so downstream adversary_share calc is correct
+            # Also fix in-place so downstream risk_share calc is correct
             for e, ns in zip(trade_data["exporters"], raw_shares):
                 e["share"] = ns
         shares      = raw_shares
@@ -175,12 +175,12 @@ def get_component_risk_metrics(
     # ── Pillar 2: Geopolitical Dependency ─────────────────────────────────────
     r_region = region.upper()
     if trade_data and trade_data.get("exporters"):
-        adversary_share = sum(
+        risk_share = sum(
             e.get("share", 0)
             for e in trade_data["exporters"]
-            if e.get("country", "").upper() in adversaries
+            if e.get("country", "").upper() in risk_jurisdictions
         )
-        p2_score = 0.2 + (0.75 * adversary_share)
+        p2_score = 0.2 + (0.75 * risk_share)
         countries = [e.get("country", "") for e in trade_data["exporters"]]
     else:
         # Prefer beneficial_owner_country (enriched ownership intelligence) over
@@ -189,8 +189,8 @@ def get_component_risk_metrics(
             s.get("beneficial_owner_country") or s.get("country") or "Unknown"
             for s in real_suppliers
         ]
-        has_adversary = any(c.upper() in adversaries for c in countries if isinstance(c, str))
-        p2_score      = 0.8 if has_adversary else 0.2
+        has_risk_exposure = any(c.upper() in risk_jurisdictions for c in countries if isinstance(c, str))
+        p2_score          = 0.8 if has_risk_exposure else 0.2
     p2_score = max(0.0, min(1.0, p2_score))
 
     # ── Pillar 3: Shelf-Life / Perishability ──────────────────────────────────
@@ -203,6 +203,7 @@ def get_component_risk_metrics(
     bespoke_kw = [
         "custom", "fridge", "mixing", "superconducting", "bespoke", "chamber",
         "dilution", "cryostat", "niobium", "nbti", "josephson",
+        "helium-3", "he-3", "tritium",
     ]
     p4_score = 0.8 if any(k in comp_lower for k in bespoke_kw) else 0.3
 
@@ -231,11 +232,11 @@ def get_component_risk_metrics(
             f"a small number of actors including {top_str}."
         )
     if p2_score > 0.5:
-        adv_list  = [c for c in countries if c and c.upper() in adversaries]
-        adv_names = ", ".join(sorted(set(adv_list))) or "strategic rivals"
+        risk_list  = [c for c in countries if c and c.upper() in risk_jurisdictions]
+        risk_names = ", ".join(sorted(set(risk_list))) or "risk-relevant jurisdictions"
         drivers.append(
             f"Geopolitical Dependency: Sourcing for {component} shows significant exposure to "
-            f"adversarial jurisdictions ({adv_names}) from the {r_region} perspective, "
+            f"higher-risk jurisdictions ({risk_names}) from the {r_region} perspective, "
             f"creating export-ban and sanctions risk."
         )
     if p3_score > 0.5:
@@ -449,7 +450,7 @@ def get_perspective_comparison(
         "divergence":           divergence,
         "divergence_label":     "High" if divergence > 0.3 else ("Medium" if divergence > 0.15 else "Low"),
         "key_divergence_pillar": max_variance_pillar,
-        "adversary_configs":    {r: _resolve_adversaries(r) for r in perspectives},
+        "risk_jurisdiction_configs": {r: _resolve_risk_jurisdictions(r) for r in perspectives},
     }
 
 

@@ -24,7 +24,7 @@ from ai_scenario import get_component_ai_delta, _load_cache, _cache_path
 # ─── Risk Weights (must sum to 1.0) ───────────────────────────────────────────
 RISK_WEIGHTS: Dict[str, float] = {
     "hhi":              0.25,   # Market Concentration
-    "geopolitics":      0.20,   # Adversarial Exposure
+    "geopolitics":      0.20,   # Geopolitical Risk Exposure
     "shelf_life":       0.15,   # Perishability
     "substitutability": 0.15,   # Ease of replacement
     "lead_time":        0.10,   # Procurement delay

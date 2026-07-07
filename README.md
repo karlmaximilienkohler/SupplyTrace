@@ -10,7 +10,7 @@ Developed as part of the AI for Policy initiative at IE University. Reviewed by 
 ## What it does
 
 - **Seven-pillar risk scoring:** market concentration (HHI), geopolitical dependency, shelf-life, substitutability, lead-time, regulatory exposure, and strategic impact
-- **Perspective-driven analysis:** the same supply chain scored from EU, US, and Chinese viewpoints using configurable adversary sets
+- **Perspective-driven analysis:** the same supply chain scored from EU, US, and Chinese viewpoints using configurable risk-relevant jurisdiction sets
 - **Recursive dependency propagation:** risk accumulates upward through a bill-of-materials tree via the Accumulated Risk Index (ARI), surfacing single points of failure
 - **Scenario overlays:** 18 geopolitical scenarios (sanctions, export controls, supply shortages) plus user-defined custom scenarios scored live by an LLM
 - **Three-tier data pipeline:** UN Comtrade official trade data, LLM-assisted web extraction, and AI-estimated prominence rankings, each labeled by confidence level
@@ -93,7 +93,7 @@ SupplyTrace/
 | # | Pillar | Weight | Measures |
 |---|--------|--------|----------|
 | 1 | Market Concentration (HHI) | 0.25 | How many countries control supply? |
-| 2 | Geopolitical Dependency | 0.20 | What share comes from adversarial nations? |
+| 2 | Geopolitical Dependency | 0.20 | What share comes from risk-relevant jurisdictions? |
 | 3 | Shelf-Life / Perishability | 0.15 | Does the material degrade, preventing stockpiling? |
 | 4 | Substitutability | 0.15 | Can this component be replaced if unavailable? |
 | 5 | Lead-Time & Logistics | 0.10 | How long does procurement take? |
@@ -108,7 +108,7 @@ SupplyTrace/
 
 ### Perspective-Driven Geopolitics
 
-Risk is not absolute. It depends on the analyzing nation's geopolitical framing. Adversary sets:
+Risk is not absolute. It depends on the analyzing nation's geopolitical framing. Risk-relevant jurisdiction sets:
 
 - **EU:** Russia, China, Iran, Belarus, North Korea
 - **US:** Russia, China, Iran, North Korea, Cuba
@@ -125,11 +125,11 @@ Every supplier entry carries a `data_confidence` field (high, medium, or low) an
 
 ### Helium-3
 
-He-3 is the coolant enabling 10 to 20 millikelvin temperatures in dilution refrigerators, the sole operating environment for superconducting qubits. No substitute exists at these temperatures. The market is a state-controlled duopoly (US DOE via Savannah River and Rosatom in Russia). SupplyTrace baseline score from an EU perspective: **0.394**. Under the `helium3_shortage` scenario overlay: **0.844**. One disruption away from complete system collapse.
+He-3 is the coolant enabling 10 to 20 millikelvin temperatures in dilution refrigerators, the sole operating environment for superconducting qubits. No substitute exists at these temperatures. The market is a state-controlled duopoly (US DOE via Savannah River and Rosatom in Russia). SupplyTrace baseline score from an EU perspective: **0.502**. Under the `helium3_shortage` scenario overlay: **0.952**. One disruption away from near-total system risk.
 
 ### Gallium
 
-China produces approximately 80% of primary gallium globally due to its vertically integrated aluminium-to-gallium refining chain. SupplyTrace geopolitical score for gallium from an EU or US perspective: **0.538**. From a Chinese perspective: **0.312**. A divergence of 0.130, the largest of any material in this study. This correctly identified the structural exposure before China imposed export licensing requirements on gallium in July 2023.
+China produces approximately 80% of primary gallium globally due to its vertically integrated aluminium-to-gallium refining chain. SupplyTrace's Geopolitical Dependency pillar score for gallium from an EU or US perspective: **0.538**. From a Chinese perspective: **0.312**. This pillar-level divergence (final composite scores: EU/US 0.347, China 0.281) is consistent, as a retrospective plausibility check, with the structural exposure that preceded China's gallium export licensing requirements in July 2023.
 
 
 ## Citation
