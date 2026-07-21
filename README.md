@@ -140,7 +140,7 @@ If you use SupplyTrace in your research, please cite:
 Kohler, K.M. (2026). SupplyTrace: Mapping and Scoring Supply Chain Risk in Quantum
 Computing Technologies. IE University.
 GitHub: https://github.com/karlmaximilienkohler/SupplyTrace
-DOI: 10.5281/zenodo.21105966
+DOI: 10.5281/zenodo.21477842
 ```
 
 A journal paper describing the methodology is forthcoming.
