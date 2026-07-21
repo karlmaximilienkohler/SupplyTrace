@@ -7,7 +7,7 @@ Supervised by: Prof. Oscar Diez
 
 Date: 01/07/2026
 
-DOI: 10.5281/zenodo.21477842
+DOI: 10.5281/zenodo.21478535
 GitHub: https://github.com/karlmaximilienkohler/SupplyTrace
 
 ---
@@ -203,7 +203,7 @@ The risk score formula as implemented in scoring.py is: S_final = min(1.0, (S_ba
 
 ### 3.4 Software Availability and Reproducibility Package
 
-SupplyTrace is available at https://github.com/karlmaximilienkohler/SupplyTrace (DOI: 10.5281/zenodo.21477842). The repository includes all source code, quantum cryogenics and photonics taxonomies in JSON format, supplier registries, and trade flow files.
+SupplyTrace is available at https://github.com/karlmaximilienkohler/SupplyTrace (DOI: 10.5281/zenodo.21478535). The repository includes all source code, quantum cryogenics and photonics taxonomies in JSON format, supplier registries, and trade flow files.
 
 **Installation.** The tool requires Python 3.10 or later. Clone the repository, install dependencies with `pip install -r requirements.txt`, copy `.env.example` to `.env`, and populate the Groq API key (free tier available), UN Comtrade API key, and optionally an OpenAI API key.
 
@@ -211,7 +211,7 @@ SupplyTrace is available at https://github.com/karlmaximilienkohler/SupplyTrace 
 
 **Expected outputs.** All scores reported in Section 4 are reproducible from the static JSON files in `data/sectors/quantum_computing/cryogenics/` and `data/sectors/quantum_computing/photonics/` without re-running the extraction pipeline. Re-running the extractor may produce slightly different Tier 2 and Tier 3 estimates as web content and LLM outputs vary.
 
-**Versioning and data availability.** The Zenodo archive (DOI: 10.5281/zenodo.21477842) preserves a complete snapshot of the codebase and data files corresponding to the results in this paper. The GitHub repository may contain subsequent updates.
+**Versioning and data availability.** The Zenodo archive (DOI: 10.5281/zenodo.21478535) preserves a complete snapshot of the codebase and data files corresponding to the results in this paper. The GitHub repository may contain subsequent updates.
 
 **Known limitations for reproduction.** HS code 280429 (Noble Gases) covers all noble gases, not He-3 specifically. UN Comtrade data for this code is used as the best available proxy for relative concentration but may include non-He-3 trade flows. Tier 3 (AI-estimated) entries carry low confidence and should not be treated as verified statistics.
 
