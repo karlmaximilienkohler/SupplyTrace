@@ -5,7 +5,7 @@ IE University, School of Science and Technology
 
 Supervised by: Prof. Oscar Diez
 
-Date: 01/07/2026
+Date: 21/07/2026
 
 DOI: 10.5281/zenodo.21478535
 GitHub: https://github.com/karlmaximilienkohler/SupplyTrace
@@ -339,13 +339,7 @@ The author thanks policy practitioners at the European Commission and quantum te
 
 ## References
 
-Aresu, A. (2024). Geography of control: a deep dive assessment on criticality and lithium supply chain. Mineral Economics, Springer. https://doi.org/10.1007/s13563-023-00414-x
-
-BGS. (2023). Critical Minerals Intelligence Centre: Germanium and Gallium. British Geological Survey. https://nora.nerc.ac.uk/id/eprint/539285/1/WMP_2019-2023_COMPLETE.pdf
-
 Bowen, F., and Siegler, J. (2023). The role of visibility in supply chain resiliency: Applying the Nexus Supplier Index to unveil hidden critical suppliers in deep supply networks. Decision Support Systems, 114063. https://doi.org/10.1016/j.dss.2023.114063
-
-Brink, S. V., Kleijn, R., Sprecher, B., and Tukker, A. (2020). Identifying supply risks by mapping the cobalt supply chain. Resources, Conservation and Recycling, 156, 104743. https://doi.org/10.1016/j.resconrec.2020.104743
 
 Bucciarelli, P., Hache, E., and Mignon, V. (2025). Evaluating criticality of strategic metals: Are the usual concentration thresholds still relevant? Energy Economics. https://doi.org/10.1016/j.eneco.2025.108339
 
@@ -363,32 +357,18 @@ European Commission. (2024). Critical Raw Materials Act (Regulation (EU) 2024/12
 
 Graedel, T.E., et al. (2015). Criticality of metals and metalloids. Proceedings of the National Academy of Sciences, 112(14), 4257-4262. https://www.pnas.org/doi/full/10.1073/pnas.1500415112
 
-Heijman, F., Kingma, L., and Williams, C. (2025). Critical vulnerabilities in the quantum computing supply chain within the NATO alliance. https://www.fheijman.nl/QSC_report.pdf
-
 Lee, M., et al. (2023). A framework for assessing vulnerabilities in the quantum computing supply chain. Stanford University, Freeman Spogli Institute for International Studies.
-
-Moon, J., Xun, S.Y., Chung, J., and Textoris, S.D. (2025). Assessment of critical minerals supply chain for the United States in perspective of trade restriction by foreign countries. Resources Policy, 105726. https://doi.org/10.1016/j.resourpol.2025.105726
 
 Nassar, N., et al. (2024). Quantifying potential effects of China's gallium and germanium export restrictions. US Geological Survey. https://www.usgs.gov/news/national-news-release/usgs-critical-minerals-study-bans-gallium-and-germanium-exports-could
 
-Nuss, P., Graedel, T., Alonso, E., and Carroll, A. (2016). Mapping supply chain risk by network analysis of product platforms. Sustainable Materials and Technologies, 10, 14-22. https://doi.org/10.1016/j.susmat.2016.10.002
-
 OECD. (2024). Towards demystifying trade dependencies: At what point do trade linkages become a concern? OECD Trade Policy Papers. https://www.oecd.org/en/publications/towards-demystifying-trade-dependencies_2a1a2bb9-en.html
-
-Rao, G. (2024). AI-driven identification of critical dependencies in US-China technology supply chains: Implications for economic security policy. Journal of Advanced Computing Sciences. https://doi.org/10.69987/jacs.2024.41204
 
 Savannah River National Laboratory. (2022). Helium-3 Production and Supply. US Department of Energy.
 
 Stimson Center. (2025). China's Germanium and Gallium Export Restrictions: Consequences for the United States. https://www.stimson.org/2025/chinas-germanium-and-gallium-export-restrictions-consequences-for-the-united-states/
-
-Tanaka, R. et al. (2024). Indium supply chain concentration and technology risk. Resources Policy.
-
-Thomas, C.L., Nassar, N.T., and DeYoung, J.H. (2022). Assessing mineral supply concentration from different perspectives through a case study of zinc. Mineral Economics, 35(3), 607-616. https://link.springer.com/article/10.1007/s13563-021-00291-2
 
 USGS. (2024). Minerals Yearbook: Gallium, Germanium, Indium, Niobium. US Geological Survey. https://pubs.usgs.gov/periodicals/mcs2024/mcs2024.pdf
 
 World Bank. (2020). World development report 2020: Trading for development in the age of global value chains. World Bank. https://openknowledge.worldbank.org/bitstream/handle/10986/32437/9781464814570.pdf
 
 World Economic Forum. (2025). Quantum technologies: Key opportunities for advanced manufacturing and supply chains. https://reports.weforum.org/docs/WEF_Quantum_Technologies_Key_Opportunities_for_Advanced_Manufacturing_and_Supply_Chains_2025.pdf
-
-Xun, D., Sun, X., Geng, J., Liu, Z., Zhao, F., and Hao, H. (2021). Mapping global fuel cell vehicle industry chain and assessing potential supply risks. International Journal of Hydrogen Energy, 46(31), 16432-16445. https://doi.org/10.1016/j.ijhydene.2021.02.096
